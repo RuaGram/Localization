@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Copia in...",
     "lng_title_multiple_forward": "Inoltra a...",
 
-    "lng_context_forward_msg": "Inoltro multiplo",
+    "lng_context_forward_msg_multi": "Inoltro multiplo",
     "lng_context_forward_msg_old": "Inoltro singolo",
     "lng_context_show_messages_from": "Messaggi dall'utente",
     "lng_context_repeat_msg": "Ripeti come inoltro",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Inoltra come copia",
     "lng_forward_to_saved_message": "Salva messaggio",
     "lng_context_repeater": "Ripeti",
-    "lng_context_forward": "Inoltra",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Velocità di trasmissione video superiore",

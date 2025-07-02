@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "コピー先 ...",
     "lng_title_multiple_forward": "転送先 ...",
 
-    "lng_context_forward_msg": "複数転送",
+    "lng_context_forward_msg_multi": "複数転送",
     "lng_context_forward_msg_old": "単一転送",
     "lng_context_show_messages_from": "ユーザーからのメッセージ",
     "lng_context_repeat_msg": "転送でリピート",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "コピーを転送",
     "lng_forward_to_saved_message": "保存用に転送",
     "lng_context_repeater": "リピーター",
-    "lng_context_forward": "転送",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "動画ビットレートを高くする",

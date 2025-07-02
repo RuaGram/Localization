@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "无引用转发到…",
     "lng_title_multiple_forward": "转发到…",
 
-    "lng_context_forward_msg": "转发（多选对话）",
+    "lng_context_forward_msg_multi": "转发（多选对话）",
     "lng_context_forward_msg_old": "转发（单选对话）",
     "lng_context_show_messages_from": "该用户的其他消息",
     "lng_context_repeat_msg": "复读",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "转发（无引用）",
     "lng_forward_to_saved_message": "拿去自嗨",
     "lng_context_repeater": "复读",
-    "lng_context_forward": "转发",
     "lng_context_view_as_json": "以 JSON 格式查看",
 
     "lng_settings_enable_hd_video": "更高视频码率",

@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "کپی به...",
     "lng_title_multiple_forward": "فوروارد به...",
 
-    "lng_context_forward_msg": "فوروارد انبوه",
+    "lng_context_forward_msg_multi": "فوروارد انبوه",
     "lng_context_forward_msg_old": "فوروارد تکی",
     "lng_context_show_messages_from": "پیام های کاربر",
     "lng_context_repeat_msg": "تکرار به عنوان فوروارد",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "فوروارد به عنوان کپی",
     "lng_forward_to_saved_message": "فوروارد به پیام های ذخیره",
     "lng_context_repeater": "تکرار کننده",
-    "lng_context_forward": "فوروارد",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "بیت‌ریت ویدیو بالاتر",

@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Kopyala...",
     "lng_title_multiple_forward": "İlet...",
 
-    "lng_context_forward_msg": "Çoklu İlet",
+    "lng_context_forward_msg_multi": "Çoklu İlet",
     "lng_context_forward_msg_old": "Tek İlet",
     "lng_context_show_messages_from": "Kullanıcıdan Gelen Mesajlar",
     "lng_context_repeat_msg": "İletmeyi tekrarla",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Kopya olarak ilet",
     "lng_forward_to_saved_message": "Kayıtlı Mesajlara İlet",
     "lng_context_repeater": "Tekrarla",
-    "lng_context_forward": "İlet",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Daha yüksek video bit hızı",

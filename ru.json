@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Копировать в...",
     "lng_title_multiple_forward": "Переслать в...",
 
-    "lng_context_forward_msg": "Мультипересылка",
+    "lng_context_forward_msg_multi": "Мультипересылка",
     "lng_context_forward_msg_old": "Переслать (Классическая пересылка)",
     "lng_context_show_messages_from": "Сообщения пользователя",
     "lng_context_repeat_msg": "Повторить",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Переслать без автора",
     "lng_forward_to_saved_message": "Переслать в Избранное",
     "lng_context_repeater": "Повторить",
-    "lng_context_forward": "Переслать",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Увеличить битрейт видео",

@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "複製至……",
     "lng_title_multiple_forward": "轉發至……",
 
-    "lng_context_forward_msg": "多重轉發",
+    "lng_context_forward_msg_multi": "多重轉發",
     "lng_context_forward_msg_old": "傳統轉發",
     "lng_context_show_messages_from": "該使用者發送的訊息",
     "lng_context_repeat_msg": "轉發式複讀",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "複製式轉發",
     "lng_forward_to_saved_message": "儲存的訊息",
     "lng_context_repeater": "複讀",
-    "lng_context_forward": "轉發",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "較高的影像 bitrate",

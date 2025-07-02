@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "唔帶引用轉發畀…",
     "lng_title_multiple_forward": "轉發畀…",
 
-    "lng_context_forward_msg": "多選轉發",
+    "lng_context_forward_msg_multi": "多選轉發",
     "lng_context_forward_msg_old": "單獨轉發",
     "lng_context_show_messages_from": "呢個用户嘅其他訊息",
     "lng_context_repeat_msg": "用轉發嚟復讀",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "唔帶引用轉發",
     "lng_forward_to_saved_message": "儲存到我嘅收藏夾",
     "lng_context_repeater": "復讀",
-    "lng_context_forward": "轉發",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "調高視頻位元速率",

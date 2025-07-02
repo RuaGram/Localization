@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Αντιγραφή σε...",
     "lng_title_multiple_forward": "Προώθηση σε...",
 
-    "lng_context_forward_msg": "Πολλαπλή Προώθηση",
+    "lng_context_forward_msg_multi": "Πολλαπλή Προώθηση",
     "lng_context_forward_msg_old": "Μια Προώθηση",
     "lng_context_show_messages_from": "Μηνύμ. από χρήστη",
     "lng_context_repeat_msg": "Επανάληψη ως Προώθηση",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Προώθηση ως Αντίγραφο",
     "lng_forward_to_saved_message": "Προώθηση στην Αποθήκευση",
     "lng_context_repeater": "Επαναλήπτης",
-    "lng_context_forward": "Προώθηση",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Υψηλότερο bitrate βίντεο",

@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Copiar a...",
     "lng_title_multiple_forward": "Reenviar a...",
 
-    "lng_context_forward_msg": "Reenvío múltiple",
+    "lng_context_forward_msg_multi": "Reenvío múltiple",
     "lng_context_forward_msg_old": "Reenvío individual",
     "lng_context_show_messages_from": "Mensajes del usuario",
     "lng_context_repeat_msg": "Repetir como reenvío",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Reenviar como copia",
     "lng_forward_to_saved_message": "Reenviar a guardados",
     "lng_context_repeater": "Repetir",
-    "lng_context_forward": "Reenviar",
     "lng_context_view_as_json": "Ver como JSON",
 
     "lng_settings_enable_hd_video": "Tasa de bits de video más alta",

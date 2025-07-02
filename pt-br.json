@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Copiar para...",
     "lng_title_multiple_forward": "Encaminhar para...",
 
-    "lng_context_forward_msg": "Encaminhar para Várias Conversas",
+    "lng_context_forward_msg_multi": "Encaminhar para Várias Conversas",
     "lng_context_forward_msg_old": "Encaminhar apenas para uma Conversa",
     "lng_context_show_messages_from": "Mensagens do Usuário",
     "lng_context_repeat_msg": "Repetir como Encaminhamento",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Encaminhar como Cópia",
     "lng_forward_to_saved_message": "Encaminhar para Mensagens Salvas",
     "lng_context_repeater": "Repetidor",
-    "lng_context_forward": "Encaminhar",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",

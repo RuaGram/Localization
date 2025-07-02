@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Копіювати в...",
     "lng_title_multiple_forward": "Переслати в...",
 
-    "lng_context_forward_msg": "Мульти-пересилання",
+    "lng_context_forward_msg_multi": "Мульти-пересилання",
     "lng_context_forward_msg_old": "Переслати (Класичне)",
     "lng_context_show_messages_from": "Повідомлення користувача",
     "lng_context_repeat_msg": "Повторити",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Переслати без автора",
     "lng_forward_to_saved_message": "Переслати в Збережене",
     "lng_context_repeater": "Повторювач",
-    "lng_context_forward": "Переслати",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Збільшити бітрейт відео",

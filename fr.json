@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Copier vers...",
     "lng_title_multiple_forward": "Transmettre à...",
 
-    "lng_context_forward_msg": "Transfert multiple",
+    "lng_context_forward_msg_multi": "Transfert multiple",
     "lng_context_forward_msg_old": "Transfert individuel",
     "lng_context_show_messages_from": "Messages de l'utilisateur",
     "lng_context_repeat_msg": "Repeat as Forward",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Forward as copy",
     "lng_forward_to_saved_message": "Forward to Saved",
     "lng_context_repeater": "Répétiteur",
-    "lng_context_forward": "Forward",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Plus grand débit binaire vidéo",

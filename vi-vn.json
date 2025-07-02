@@ -99,7 +99,7 @@
     "lng_title_forward_as_copy": "Sao chép đến...",
     "lng_title_multiple_forward": "Chuyển tiếp đến...",
 
-    "lng_context_forward_msg": "Chuyển tiếp nhiều",
+    "lng_context_forward_msg_multi": "Chuyển tiếp nhiều",
     "lng_context_forward_msg_old": "Chuyển tiếp một lần",
     "lng_context_show_messages_from": "Tin nhắn từ người dùng",
     "lng_context_repeat_msg": "Lặp lại dạng chuyển tiếp",
@@ -107,7 +107,6 @@
     "lng_context_forward_msg_no_quote": "Chuyển tiếp dạng bản sao",
     "lng_forward_to_saved_message": "Chuyển tiếp đến dã lưu",
     "lng_context_repeater": "Bộ lặp",
-    "lng_context_forward": "Chuyển tiếp",
     "lng_context_view_as_json": "View As JSON",
 
     "lng_settings_enable_hd_video": "Tốc độ video cao hơn",
