@@ -136,5 +136,7 @@
 
     "lng_group_requests_ban": "封鎖",
 
-    "lng_blocked_user_hint": "[已封鎖的訊息]\n"
+    "lng_blocked_user_hint": "[已封鎖的訊息]\n",
+
+    "lng_contact_is_mutual": "此使用者為您的雙向聯絡人"
 }

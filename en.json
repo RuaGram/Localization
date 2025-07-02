@@ -136,5 +136,7 @@
 
     "lng_group_requests_ban": "Ban",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n"
+    "lng_blocked_user_hint": "[Blocked User Message]\n",
+
+    "lng_contact_is_mutual": "This contact is a mutual contact."
 }

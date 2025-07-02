@@ -136,5 +136,7 @@
 
     "lng_group_requests_ban": "封禁",
 
-    "lng_blocked_user_hint": "[屏蔽用户消息]\n"
+    "lng_blocked_user_hint": "[屏蔽用户消息]\n",
+
+    "lng_contact_is_mutual": "此用户为您的双向联系人"
 }
