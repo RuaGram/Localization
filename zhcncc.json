@@ -138,5 +138,7 @@
 
     "lng_blocked_user_hint": "[屏蔽用户消息]\n",
 
-    "lng_contact_is_mutual": "此用户为您的双向联系人"
+    "lng_contact_is_mutual": "此用户为您的双向联系人",
+
+    "lng_settings_use_gt_api": "使用 Google 翻译"
 }

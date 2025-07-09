@@ -138,5 +138,7 @@
 
     "lng_blocked_user_hint": "[Blocked User Message]\n",
 
-    "lng_contact_is_mutual": "This contact is a mutual contact."
+    "lng_contact_is_mutual": "This contact is a mutual contact.",
+
+    "lng_settings_use_gt_api": "Use Google Translate"
 }
