@@ -140,5 +140,7 @@
 
     "lng_contact_is_mutual": "此使用者為您的雙向聯絡人",
 
-    "lng_settings_use_gt_api": "使用 Google 翻譯"
+    "lng_settings_use_gt_api": "使用 Google 翻譯",
+
+    "lng_settings_hide_star_ratings": "隱藏用戶頁面的 Stars 等級"
 }
