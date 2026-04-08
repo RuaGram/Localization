@@ -61,6 +61,7 @@
     "lng_context_copy_callback_data": "Copiar Dados de Callback",
     "lng_context_forward_selected_no_quote": "Encaminhar Selecionados (Sem Autor)",
     "lng_selected_forward_no_quote": "Encaminhar (Sem Autor)",
+    "lng_forward_to_saved_message_text": "Salvar",
     "lng_context_forward_msg_old_selected": "Encaminhar Selecionados (Clássico)",
     "lng_selected_forward_emoji_classic": "📠(Clássico)",
 

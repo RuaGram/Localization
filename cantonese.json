@@ -61,6 +61,7 @@
     "lng_context_copy_callback_data": "複製回呼數據",
     "lng_context_forward_selected_no_quote": "轉發已經揀咗嘅（唔帶引用）",
     "lng_selected_forward_no_quote": "轉發（唔帶引用）",
+    "lng_forward_to_saved_message_text": "收藏",
     "lng_context_forward_msg_old_selected": "轉發已經揀咗嘅（舊式）",
     "lng_selected_forward_emoji_classic": "📠（舊式）",
 

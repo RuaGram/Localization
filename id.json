@@ -61,6 +61,7 @@
     "lng_context_copy_callback_data": "Salin Data Panggilan Balik",
     "lng_context_forward_selected_no_quote": "Forward Dipilih (W/O quote)",
     "lng_selected_forward_no_quote": "Forward (w/o quote)",
+    "lng_forward_to_saved_message_text": "Simpan",
     "lng_context_forward_msg_old_selected": "Forward Dipilih (Klasik)",
     "lng_selected_forward_emoji_classic": "📠 (Klasik)",
 
