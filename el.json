@@ -137,5 +137,8 @@
 
     "lng_group_requests_ban": "Αποκλεισμός",
 
-    "lng_blocked_user_hint": "[Μήνυμα Αποκλεισμένου Χρήστη]\n"
+    "lng_blocked_user_hint": "[Μήνυμα Αποκλεισμένου Χρήστη]\n",
+
+    "lng_settings_extra_context_menu_options": "Extra context menu options",
+    "lng_context_hide_message": "Hide"
 }

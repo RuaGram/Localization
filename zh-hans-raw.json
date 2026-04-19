@@ -8,6 +8,7 @@
     "lng_settings_show_message_id": "显示消息 ID",
     "lng_settings_button": "按钮",
     "lng_settings_show_emoji_button_as_text": "使用文字代替 Emoji 按钮",
+    "lng_settings_extra_context_menu_options": "更多消息菜单选项",
     "lng_settings_show_repeater_option": "显示「复读」选项",
     "lng_settings_show_phone_number": "显示电话号码",
     "lng_settings_repeater_reply_to_orig_msg": "复读时回复源消息",
@@ -108,6 +109,7 @@
     "lng_context_forward_msg_no_quote": "转发（无引用）",
     "lng_forward_to_saved_message": "转发到收藏夹",
     "lng_context_repeater": "复读",
+    "lng_context_hide_message" : "隐藏",
     "lng_context_view_as_json": "查看 JSON 数据",
 
     "lng_settings_enable_hd_video": "更高视频码率",

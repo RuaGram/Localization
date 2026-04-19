@@ -141,5 +141,8 @@
 
     "lng_contact_is_mutual": "This contact is a mutual contact.",
 
-    "lng_settings_use_gt_api": "Use Google Translate"
+    "lng_settings_use_gt_api": "Use Google Translate",
+
+    "lng_settings_extra_context_menu_options": "Extra context menu options",
+    "lng_context_hide_message": "Hide"
 }

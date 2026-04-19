@@ -163,5 +163,8 @@
 
     "lng_settings_disable_recent_stickers_limit": "禁用最近贴纸数量限制",
 
-    "lng_settings_force_mobile": "强制使用移动设备界面布局"
+    "lng_settings_force_mobile": "强制使用移动设备界面布局",
+
+    "lng_settings_extra_context_menu_options": "更多消息菜单选项",
+    "lng_context_hide_message": "隐藏"
 }

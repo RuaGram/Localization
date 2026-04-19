@@ -137,5 +137,8 @@
 
     "lng_group_requests_ban": "杯葛",
 
-    "lng_blocked_user_hint": "[杯葛咗嘅用户發嘅訊息]\n"
+    "lng_blocked_user_hint": "[杯葛咗嘅用户發嘅訊息]\n",
+
+    "lng_settings_extra_context_menu_options": "更多訊息選單選項",
+    "lng_context_hide_message": "隱藏"
 }

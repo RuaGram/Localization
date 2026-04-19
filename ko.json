@@ -137,5 +137,8 @@
 
     "lng_group_requests_ban": "정지",
 
-    "lng_blocked_user_hint": "[차단된 유저 메시지]\n"
+    "lng_blocked_user_hint": "[차단된 유저 메시지]\n",
+
+    "lng_settings_extra_context_menu_options": "Extra context menu options",
+    "lng_context_hide_message": "Hide"
 }

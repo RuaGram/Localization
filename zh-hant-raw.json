@@ -163,5 +163,8 @@
 
     "lng_settings_disable_recent_stickers_limit": "禁用最近貼圖數量限制",
 
-    "lng_settings_force_mobile": "強制使用行動裝置介面佈局"
+    "lng_settings_force_mobile": "強制使用行動裝置介面佈局",
+
+    "lng_settings_extra_context_menu_options": "更多訊息選單選項",
+    "lng_context_hide_message": "隱藏"
 }
