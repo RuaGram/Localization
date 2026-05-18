@@ -140,5 +140,8 @@
     "lng_blocked_user_hint": "[차단된 유저 메시지]\n",
 
     "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide"
+    "lng_context_hide_message": "Hide",
+
+    "lng_attach_webpage_preview": "웹페이지 미리보기",
+    "lng_link_preview_box_title": "웹페이지 링크 편집"
 }

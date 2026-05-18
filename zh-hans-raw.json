@@ -165,6 +165,9 @@
 
     "lng_settings_disable_recent_stickers_limit": "禁用最近贴纸数量限制",
 
-    "lng_settings_force_mobile": "强制使用移动设备界面布局"
+    "lng_settings_force_mobile": "强制使用移动设备界面布局",
+
+    "lng_attach_webpage_preview": "网页预览",
+    "lng_link_preview_box_title": "编辑网页链接"
 
 }
