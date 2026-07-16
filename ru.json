@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Предпросмотр веб-страницы",
-    "lng_link_preview_box_title": "Редактировать ссылку веб-страницы"
+    "lng_link_preview_box_title": "Редактировать ссылку веб-страницы",
+
+    "lng_settings_rich_message_preview_blocks": "Лимит блоков форматированных сообщений",
+    "lng_settings_rich_message_preview_blocks_desc": "Ограничьте количество блоков, отображаемых в форматированных сообщениях в чатах. Нажмите «Показать больше», чтобы открыть сообщение целиком.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} блоков",
+
+    "lng_send_mark_as_gif": "Отметить как GIF"
 }

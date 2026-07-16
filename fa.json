@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "پیش‌نمایش صفحهٔ وب",
-    "lng_link_preview_box_title": "ویرایش پیوند صفحهٔ وب"
+    "lng_link_preview_box_title": "ویرایش پیوند صفحهٔ وب",
+
+    "lng_settings_rich_message_preview_blocks": "محدودیت بلوک‌های پیام غنی",
+    "lng_settings_rich_message_preview_blocks_desc": "تعداد بلوک‌های نمایش‌داده‌شده برای پیام‌های غنی در گفتگوها را محدود کنید. برای باز کردن پیام کامل، از نمایش بیشتر استفاده کنید.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} بلوک",
+
+    "lng_send_mark_as_gif": "علامت‌گذاری به‌عنوان GIF"
 }

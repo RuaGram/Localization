@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Aperçu de la page web",
-    "lng_link_preview_box_title": "Modifier le lien de la page web"
+    "lng_link_preview_box_title": "Modifier le lien de la page web",
+
+    "lng_settings_rich_message_preview_blocks": "Limite de blocs des messages enrichis",
+    "lng_settings_rich_message_preview_blocks_desc": "Limitez le nombre de blocs affichés pour les messages enrichis dans les discussions. Utilisez Afficher plus pour ouvrir le message complet.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} blocs",
+
+    "lng_send_mark_as_gif": "Marquer comme GIF"
 }

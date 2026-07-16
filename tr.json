@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Web sayfası önizlemesi",
-    "lng_link_preview_box_title": "Web sayfası bağlantısını düzenle"
+    "lng_link_preview_box_title": "Web sayfası bağlantısını düzenle",
+
+    "lng_settings_rich_message_preview_blocks": "Zengin mesaj blokları sınırı",
+    "lng_settings_rich_message_preview_blocks_desc": "Sohbetlerde zengin mesajlar için gösterilen blok sayısını sınırlayın. Tam mesajı açmak için Daha fazlasını göster'e dokunun.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} blok",
+
+    "lng_send_mark_as_gif": "GIF olarak işaretle"
 }

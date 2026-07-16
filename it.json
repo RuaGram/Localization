@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Anteprima pagina web",
-    "lng_link_preview_box_title": "Modifica link della pagina web"
+    "lng_link_preview_box_title": "Modifica link della pagina web",
+
+    "lng_settings_rich_message_preview_blocks": "Limite blocchi dei messaggi avanzati",
+    "lng_settings_rich_message_preview_blocks_desc": "Limita il numero di blocchi visualizzati per i messaggi avanzati nelle chat. Usa Mostra altro per aprire il messaggio completo.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} blocchi",
+
+    "lng_send_mark_as_gif": "Contrassegna come GIF"
 }

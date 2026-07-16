@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Podgląd strony internetowej",
-    "lng_link_preview_box_title": "Edytuj link strony internetowej"
+    "lng_link_preview_box_title": "Edytuj link strony internetowej",
+
+    "lng_settings_rich_message_preview_blocks": "Limit bloków sformatowanych wiadomości",
+    "lng_settings_rich_message_preview_blocks_desc": "Ogranicz liczbę bloków wyświetlanych w sformatowanych wiadomościach na czatach. Użyj opcji Pokaż więcej, aby otworzyć pełną wiadomość.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} bloków",
+
+    "lng_send_mark_as_gif": "Oznacz jako GIF"
 }

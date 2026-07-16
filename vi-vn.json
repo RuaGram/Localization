@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Xem trước trang web",
-    "lng_link_preview_box_title": "Chỉnh sửa liên kết trang web"
+    "lng_link_preview_box_title": "Chỉnh sửa liên kết trang web",
+
+    "lng_settings_rich_message_preview_blocks": "Giới hạn khối tin nhắn đa dạng",
+    "lng_settings_rich_message_preview_blocks_desc": "Giới hạn số khối hiển thị cho tin nhắn đa dạng trong trò chuyện. Nhấn Hiển thị thêm để mở toàn bộ tin nhắn.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} khối",
+
+    "lng_send_mark_as_gif": "Đánh dấu là GIF"
 }

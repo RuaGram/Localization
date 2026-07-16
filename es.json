@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Vista previa de la página web",
-    "lng_link_preview_box_title": "Editar enlace de la página web"
+    "lng_link_preview_box_title": "Editar enlace de la página web",
+
+    "lng_settings_rich_message_preview_blocks": "Límite de bloques de mensajes enriquecidos",
+    "lng_settings_rich_message_preview_blocks_desc": "Limita la cantidad de bloques mostrados para los mensajes enriquecidos en los chats. Usa Mostrar más para abrir el mensaje completo.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} bloques",
+
+    "lng_send_mark_as_gif": "Marcar como GIF"
 }

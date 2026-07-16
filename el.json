@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Προεπισκόπηση ιστοσελίδας",
-    "lng_link_preview_box_title": "Επεξεργασία συνδέσμου ιστοσελίδας"
+    "lng_link_preview_box_title": "Επεξεργασία συνδέσμου ιστοσελίδας",
+
+    "lng_settings_rich_message_preview_blocks": "Όριο μπλοκ εμπλουτισμένων μηνυμάτων",
+    "lng_settings_rich_message_preview_blocks_desc": "Περιορίστε τον αριθμό των μπλοκ που εμφανίζονται για εμπλουτισμένα μηνύματα στις συνομιλίες. Χρησιμοποιήστε την επιλογή Εμφάνιση περισσότερων για να ανοίξετε ολόκληρο το μήνυμα.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} μπλοκ",
+
+    "lng_send_mark_as_gif": "Επισήμανση ως GIF"
 }

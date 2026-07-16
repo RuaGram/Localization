@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Pratinjau halaman web",
-    "lng_link_preview_box_title": "Edit tautan halaman web"
+    "lng_link_preview_box_title": "Edit tautan halaman web",
+
+    "lng_settings_rich_message_preview_blocks": "Batas blok pesan kaya",
+    "lng_settings_rich_message_preview_blocks_desc": "Batasi jumlah blok yang ditampilkan untuk pesan kaya dalam chat. Gunakan Tampilkan lebih banyak untuk membuka pesan lengkap.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} blok",
+
+    "lng_send_mark_as_gif": "Tandai sebagai GIF"
 }

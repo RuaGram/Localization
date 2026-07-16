@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "Webページのプレビュー",
-    "lng_link_preview_box_title": "Webページリンクを編集"
+    "lng_link_preview_box_title": "Webページリンクを編集",
+
+    "lng_settings_rich_message_preview_blocks": "リッチメッセージのブロック数上限",
+    "lng_settings_rich_message_preview_blocks_desc": "チャット内のリッチメッセージに表示するブロック数を制限します。メッセージ全体を開くには、もっと見るを使用してください。",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} ブロック",
+
+    "lng_send_mark_as_gif": "GIF として表示"
 }

@@ -165,5 +165,12 @@
     "lng_context_hide_message": "隐藏",
 
     "lng_attach_webpage_preview": "网页预览",
-    "lng_link_preview_box_title": "编辑网页链接"
+    "lng_link_preview_box_title": "编辑网页链接",
+
+    "lng_settings_rich_message_preview_blocks": "富文本消息块显示上限",
+    "lng_settings_rich_message_preview_blocks_desc": "限制富文本消息块（Rich Messages）的最大显示长度，点击消息底部的「查看更多」按钮以浏览完整消息。",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} 个消息块",
+
+    "lng_send_mark_as_gif": "显示为 GIF"
 }

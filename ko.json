@@ -143,5 +143,12 @@
     "lng_context_hide_message": "Hide",
 
     "lng_attach_webpage_preview": "웹페이지 미리보기",
-    "lng_link_preview_box_title": "웹페이지 링크 편집"
+    "lng_link_preview_box_title": "웹페이지 링크 편집",
+
+    "lng_settings_rich_message_preview_blocks": "서식 있는 메시지 블록 제한",
+    "lng_settings_rich_message_preview_blocks_desc": "채팅에서 서식 있는 메시지에 표시할 블록 수를 제한합니다. 메시지 전체를 보려면 더 보기를 누르세요.",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count}개 블록",
+
+    "lng_send_mark_as_gif": "GIF로 표시"
 }

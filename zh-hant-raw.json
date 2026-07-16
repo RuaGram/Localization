@@ -169,5 +169,12 @@
     "lng_context_hide_message": "隱藏",
 
     "lng_attach_webpage_preview": "網頁預覽",
-    "lng_link_preview_box_title": "編輯網頁連結"
+    "lng_link_preview_box_title": "編輯網頁連結",
+
+    "lng_settings_rich_message_preview_blocks": "富文本訊息區塊顯示上限",
+    "lng_settings_rich_message_preview_blocks_desc": "限制聊天中富文本訊息區塊的最大顯示數量，點擊訊息底部的「顯示更多」按鈕以瀏覽完整訊息。",
+
+    "lng_settings_rich_message_preview_blocks_count#other": "{count} 個區塊",
+
+    "lng_send_mark_as_gif": "顯示為 GIF"
 }
