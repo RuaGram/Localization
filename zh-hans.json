@@ -175,6 +175,7 @@
 
     "lng_settings_rich_message_preview_blocks_count#other": "{count} 个消息块",
 
-    "lng_send_mark_as_gif": "显示为 GIF"
+    "lng_send_mark_as_gif": "显示为 GIF",
 
+    "lng_settings_community_chat_click": "打开对话而不是社区信息"
 }

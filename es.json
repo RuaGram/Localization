@@ -150,5 +150,7 @@
 
     "lng_settings_rich_message_preview_blocks_count#other": "{count} bloques",
 
-    "lng_send_mark_as_gif": "Marcar como GIF"
+    "lng_send_mark_as_gif": "Marcar como GIF",
+
+    "lng_settings_community_chat_click": "Abrir el chat en lugar de la comunidad"
 }

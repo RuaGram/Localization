@@ -176,5 +176,7 @@
 
     "lng_settings_rich_message_preview_blocks_count#other": "{count} 個區塊",
 
-    "lng_send_mark_as_gif": "顯示為 GIF"
+    "lng_send_mark_as_gif": "顯示為 GIF",
+
+    "lng_settings_community_chat_click": "打開對話而不是社群資訊"
 }

@@ -150,5 +150,7 @@
 
     "lng_settings_rich_message_preview_blocks_count#other": "{count} ブロック",
 
-    "lng_send_mark_as_gif": "GIF として表示"
+    "lng_send_mark_as_gif": "GIF として表示",
+
+    "lng_settings_community_chat_click": "コミュニティではなくチャットを開く"
 }

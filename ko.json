@@ -150,5 +150,7 @@
 
     "lng_settings_rich_message_preview_blocks_count#other": "{count}개 블록",
 
-    "lng_send_mark_as_gif": "GIF로 표시"
+    "lng_send_mark_as_gif": "GIF로 표시",
+
+    "lng_settings_community_chat_click": "커뮤니티 대신 대화방 열기"
 }
