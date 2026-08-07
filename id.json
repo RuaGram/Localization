@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "Tandai sebagai GIF",
 
-    "lng_settings_community_chat_click": "Buka obrolan, bukan komunitas"
+    "lng_settings_community_chat_click": "Buka obrolan, bukan komunitas",
+
+    "lng_context_more_forward": "Opsi forward lainnya",
+    "lng_settings_sticker_height": "Tinggi stiker",
+
+    "lng_forward_regroup_media": "Kelompokkan ulang media",
+    "lng_forward_separate_messages": "Pisahkan pesan"
 }

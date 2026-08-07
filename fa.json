@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "علامت‌گذاری به‌عنوان GIF",
 
-    "lng_settings_community_chat_click": "باز کردن چت به‌جای انجمن"
+    "lng_settings_community_chat_click": "باز کردن چت به‌جای انجمن",
+
+    "lng_context_more_forward": "گزینه‌های بیشتر برای فوروارد",
+    "lng_settings_sticker_height": "ارتفاع استیکر",
+
+    "lng_forward_regroup_media": "گروه‌بندی مجدد رسانه‌ها",
+    "lng_forward_separate_messages": "جدا کردن پیام‌ها"
 }

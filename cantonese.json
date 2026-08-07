@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "顯示為 GIF",
 
-    "lng_settings_community_chat_click": "打開對話而唔係社群資訊"
+    "lng_settings_community_chat_click": "打開對話而唔係社群資訊",
+
+    "lng_context_more_forward": "更多轉發選項",
+    "lng_settings_sticker_height": "貼圖高度",
+
+    "lng_forward_regroup_media": "重組媒體",
+    "lng_forward_separate_messages": "分開訊息"
 }

@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "Marcar como GIF",
 
-    "lng_settings_community_chat_click": "Abrir conversa em vez da comunidade"
+    "lng_settings_community_chat_click": "Abrir conversa em vez da comunidade",
+
+    "lng_context_more_forward": "Mais opções de encaminhamento",
+    "lng_settings_sticker_height": "Altura das figurinhas",
+
+    "lng_forward_regroup_media": "Reagrupar mídias",
+    "lng_forward_separate_messages": "Separar mensagens"
 }

@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "Позначити як GIF",
 
-    "lng_settings_community_chat_click": "Відкривати чат замість спільноти"
+    "lng_settings_community_chat_click": "Відкривати чат замість спільноти",
+
+    "lng_context_more_forward": "Додаткові варіанти пересилання",
+    "lng_settings_sticker_height": "Висота наліпок",
+
+    "lng_forward_regroup_media": "Перегрупувати медіа",
+    "lng_forward_separate_messages": "Розділити повідомлення"
 }

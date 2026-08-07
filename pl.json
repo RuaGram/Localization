@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "Oznacz jako GIF",
 
-    "lng_settings_community_chat_click": "Otwórz czat zamiast społeczności"
+    "lng_settings_community_chat_click": "Otwórz czat zamiast społeczności",
+
+    "lng_context_more_forward": "Więcej opcji przekazywania",
+    "lng_settings_sticker_height": "Wysokość naklejek",
+
+    "lng_forward_regroup_media": "Ponownie grupuj multimedia",
+    "lng_forward_separate_messages": "Rozdziel wiadomości"
 }

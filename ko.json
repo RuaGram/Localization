@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "GIF로 표시",
 
-    "lng_settings_community_chat_click": "커뮤니티 대신 대화방 열기"
+    "lng_settings_community_chat_click": "커뮤니티 대신 대화방 열기",
+
+    "lng_context_more_forward": "추가 전달 옵션",
+    "lng_settings_sticker_height": "스티커 높이",
+
+    "lng_forward_regroup_media": "미디어 다시 그룹화",
+    "lng_forward_separate_messages": "메시지 분리"
 }

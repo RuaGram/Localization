@@ -156,5 +156,11 @@
 
     "lng_send_mark_as_gif": "Mark as GIF",
 
-    "lng_settings_community_chat_click": "Open chat instead of community"
+    "lng_settings_community_chat_click": "Open chat instead of community",
+
+    "lng_context_more_forward": "More forwards",
+    "lng_settings_sticker_height": "Sticker height",
+
+    "lng_forward_regroup_media": "Regroup Media",
+    "lng_forward_separate_messages": "Separate Messages"
 }

@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "Đánh dấu là GIF",
 
-    "lng_settings_community_chat_click": "Mở cuộc trò chuyện thay vì cộng đồng"
+    "lng_settings_community_chat_click": "Mở cuộc trò chuyện thay vì cộng đồng",
+
+    "lng_context_more_forward": "Thêm tùy chọn chuyển tiếp",
+    "lng_settings_sticker_height": "Chiều cao nhãn dán",
+
+    "lng_forward_regroup_media": "Nhóm lại phương tiện",
+    "lng_forward_separate_messages": "Tách tin nhắn"
 }

@@ -152,5 +152,11 @@
 
     "lng_send_mark_as_gif": "GIF olarak işaretle",
 
-    "lng_settings_community_chat_click": "Topluluk yerine sohbeti aç"
+    "lng_settings_community_chat_click": "Topluluk yerine sohbeti aç",
+
+    "lng_context_more_forward": "Daha fazla iletme seçeneği",
+    "lng_settings_sticker_height": "Çıkartma yüksekliği",
+
+    "lng_forward_regroup_media": "Medyayı yeniden gruplandır",
+    "lng_forward_separate_messages": "Mesajları ayır"
 }
