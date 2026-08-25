@@ -158,5 +158,13 @@
     "lng_settings_sticker_height": "스티커 높이",
 
     "lng_forward_regroup_media": "미디어 다시 그룹화",
-    "lng_forward_separate_messages": "메시지 분리"
+    "lng_forward_separate_messages": "메시지 분리",
+
+    "lng_settings_force_show_webpage_preview": "웹페이지 미리보기 강제 표시",
+
+    "lng_chat_enhanced_settings": "고급 대화방 설정",
+    "lng_chat_enhanced_settings_desc": "아래 옵션은 전역 고급 설정보다 우선하며 이 대화방에만 적용됩니다.",
+    "lng_chat_enhanced_default": "기본값",
+    "lng_chat_enhanced_enabled": "사용",
+    "lng_chat_enhanced_disabled": "사용 안 함"
 }

@@ -158,5 +158,13 @@
     "lng_settings_sticker_height": "Висота наліпок",
 
     "lng_forward_regroup_media": "Перегрупувати медіа",
-    "lng_forward_separate_messages": "Розділити повідомлення"
+    "lng_forward_separate_messages": "Розділити повідомлення",
+
+    "lng_settings_force_show_webpage_preview": "Примусово показувати попередній перегляд вебсторінки",
+
+    "lng_chat_enhanced_settings": "Додаткові налаштування чату",
+    "lng_chat_enhanced_settings_desc": "Наведені нижче параметри замінять глобальні додаткові налаштування та застосовуватимуться лише до цього чату.",
+    "lng_chat_enhanced_default": "За замовчуванням",
+    "lng_chat_enhanced_enabled": "Увімкнено",
+    "lng_chat_enhanced_disabled": "Вимкнено"
 }

@@ -158,5 +158,13 @@
     "lng_settings_sticker_height": "ارتفاع استیکر",
 
     "lng_forward_regroup_media": "گروه‌بندی مجدد رسانه‌ها",
-    "lng_forward_separate_messages": "جدا کردن پیام‌ها"
+    "lng_forward_separate_messages": "جدا کردن پیام‌ها",
+
+    "lng_settings_force_show_webpage_preview": "نمایش اجباری پیش‌نمایش صفحهٔ وب",
+
+    "lng_chat_enhanced_settings": "تنظیمات پیشرفتهٔ گفتگو",
+    "lng_chat_enhanced_settings_desc": "گزینه‌های زیر تنظیمات پیشرفتهٔ کلی را لغو می‌کنند و فقط برای این گفتگو اعمال می‌شوند.",
+    "lng_chat_enhanced_default": "پیش‌فرض",
+    "lng_chat_enhanced_enabled": "فعال",
+    "lng_chat_enhanced_disabled": "غیرفعال"
 }

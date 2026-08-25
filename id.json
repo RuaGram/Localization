@@ -158,5 +158,13 @@
     "lng_settings_sticker_height": "Tinggi stiker",
 
     "lng_forward_regroup_media": "Kelompokkan ulang media",
-    "lng_forward_separate_messages": "Pisahkan pesan"
+    "lng_forward_separate_messages": "Pisahkan pesan",
+
+    "lng_settings_force_show_webpage_preview": "Paksa tampilkan pratinjau halaman web",
+
+    "lng_chat_enhanced_settings": "Pengaturan chat yang ditingkatkan",
+    "lng_chat_enhanced_settings_desc": "Pilihan di bawah akan mengesampingkan pengaturan global yang ditingkatkan dan hanya berlaku untuk chat ini.",
+    "lng_chat_enhanced_default": "Default",
+    "lng_chat_enhanced_enabled": "Diaktifkan",
+    "lng_chat_enhanced_disabled": "Dinonaktifkan"
 }

@@ -158,5 +158,13 @@
     "lng_settings_sticker_height": "Chiều cao nhãn dán",
 
     "lng_forward_regroup_media": "Nhóm lại phương tiện",
-    "lng_forward_separate_messages": "Tách tin nhắn"
+    "lng_forward_separate_messages": "Tách tin nhắn",
+
+    "lng_settings_force_show_webpage_preview": "Buộc hiển thị bản xem trước trang web",
+
+    "lng_chat_enhanced_settings": "Cài đặt nâng cao của cuộc trò chuyện",
+    "lng_chat_enhanced_settings_desc": "Các tùy chọn bên dưới sẽ ghi đè cài đặt nâng cao toàn cục và chỉ áp dụng cho cuộc trò chuyện này.",
+    "lng_chat_enhanced_default": "Mặc định",
+    "lng_chat_enhanced_enabled": "Bật",
+    "lng_chat_enhanced_disabled": "Tắt"
 }

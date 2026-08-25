@@ -184,5 +184,13 @@
     "lng_settings_sticker_height": "貼圖高度",
 
     "lng_forward_regroup_media": "重組媒體",
-    "lng_forward_separate_messages": "分開訊息"
+    "lng_forward_separate_messages": "分開訊息",
+
+    "lng_settings_force_show_webpage_preview": "強制顯示網頁預覽",
+
+    "lng_chat_enhanced_settings": "聊天增強設定",
+    "lng_chat_enhanced_settings_desc": "以下選項將覆蓋全域增強設定，且只在此聊天中生效。",
+    "lng_chat_enhanced_default": "預設",
+    "lng_chat_enhanced_enabled": "啟用",
+    "lng_chat_enhanced_disabled": "停用"
 }

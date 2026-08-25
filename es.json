@@ -158,5 +158,13 @@
     "lng_settings_sticker_height": "Altura de los stickers",
 
     "lng_forward_regroup_media": "Reagrupar multimedia",
-    "lng_forward_separate_messages": "Separar mensajes"
+    "lng_forward_separate_messages": "Separar mensajes",
+
+    "lng_settings_force_show_webpage_preview": "Forzar la vista previa de la página web",
+
+    "lng_chat_enhanced_settings": "Ajustes mejorados del chat",
+    "lng_chat_enhanced_settings_desc": "Las siguientes opciones anularán los ajustes mejorados globales y solo se aplicarán a este chat.",
+    "lng_chat_enhanced_default": "Predeterminado",
+    "lng_chat_enhanced_enabled": "Activado",
+    "lng_chat_enhanced_disabled": "Desactivado"
 }

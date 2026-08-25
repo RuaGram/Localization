@@ -158,5 +158,13 @@
     "lng_settings_sticker_height": "Wysokość naklejek",
 
     "lng_forward_regroup_media": "Ponownie grupuj multimedia",
-    "lng_forward_separate_messages": "Rozdziel wiadomości"
+    "lng_forward_separate_messages": "Rozdziel wiadomości",
+
+    "lng_settings_force_show_webpage_preview": "Wymuś wyświetlanie podglądu strony internetowej",
+
+    "lng_chat_enhanced_settings": "Rozszerzone ustawienia czatu",
+    "lng_chat_enhanced_settings_desc": "Poniższe opcje zastąpią globalne rozszerzone ustawienia i będą stosowane tylko na tym czacie.",
+    "lng_chat_enhanced_default": "Domyślne",
+    "lng_chat_enhanced_enabled": "Włączone",
+    "lng_chat_enhanced_disabled": "Wyłączone"
 }

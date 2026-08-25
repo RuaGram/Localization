@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Welcome to the Yurigram Desktop app.\nIt's fast and secure.",
-
     "lng_settings_enhanced": "Enhanced Settings",
     "lng_settings_network": "Network",
     "lng_settings_net_upload_speed_boost": "Upload speed boost",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "Hide Stories",
     "lng_settings_screen_shot_mode": "Screenshot Mode",
     "lng_settings_restart_hint": "WARNING: Changing options that are colored in red will take effect only after the app restarts.",
-
     "lng_settings_skip_message": "Skip to next unread chat",
     "lng_settings_skip_message_desc": "Note: Allow ALT+↑/↓ shortcut to skip to next unread chat",
-    
     "lng_settings_recent_display_limit": "Recent sticker display limit",
     "lng_settings_recent_display_limit_default": "Default (20)",
-
     "lng_net_speed_boost_title": "Network speed boost",
     "lng_net_speed_boost_desc": "Warning: changing this parameter to high values on slow networks can make it even worse. Use it at your own risk.",
     "lng_show_emoji_button_as_text_desc": "Note: If you can't see an emoji button, please turn on this option.",
     "lng_radio_controller_desc": "Note: Radio controller is an experimental bot for controlling your music streaming session.",
     "lng_auto_unmute_desc": "Note: Auto unmute when you've joined the voice chat.",
     "lng_settings_hide_messages_desc": "Note: IT IS NOT REALLY HIDE! Messages are still available to view, but text will be converted to Spoiler and media won't auto download.",
-
     "lng_net_speed_boost_default": "Disabled",
     "lng_net_speed_boost_slight": "Slight",
     "lng_net_speed_boost_medium": "Medium",
     "lng_net_speed_boost_big": "Big",
-
     "lng_net_boost_restart_desc": "You'll need to restart app to change network boost.\n\nRestart now?",
     "lng_show_messages_id_desc": "Warning: the changes will take effect immediately with restart.",
-
     "lng_chat_restriction_reason": "Restriction Reason",
     "lng_copy_restriction_reason": "Copy Restriction Reason",
-
     "lng_context_copy_callback_data": "Copy Callback Data",
     "lng_context_forward_selected_no_quote": "Forward Selected (W/O quote)",
     "lng_selected_forward_no_quote": "Forward (w/o quote)",
     "lng_forward_to_saved_message_text": "Save",
     "lng_context_forward_msg_old_selected": "Forward Selected (Classic)",
     "lng_selected_forward_emoji_classic": "📠(Classic)",
-
     "lng_message_id": "Message ID: ",
-
     "lng_admin_log_banned_send_stickers2": "Send stickers",
     "lng_admin_log_banned_send_gifs": "Send GIFs",
     "lng_admin_log_banned_send_games": "Send Games",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "Send GIFs",
     "lng_rights_chat_send_games": "Send Games",
     "lng_rights_chat_use_inline": "Use Inline Bots",
-
     "lng_media_selected_gif#one": "{count} Gif",
     "lng_media_selected_gif#other": "{count} Gifs",
     "lng_media_type_gifs": "Gifs",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} gifs",
     "lng_profile_gifs_header": "Gifs",
     "lng_media_gif_empty": "No gifs here yet",
-
     "lng_create_supergroup_title": "New Supergroup",
     "lng_action_group_migrate": "The group was upgraded to a supergroup",
     "lng_sure_upgrade_group": "Are you sure you want to upgrade this group to supergroup?",
     "lng_chat_upgrade_warning": "Note: This action can not be undone",
-
     "lng_user_not_found": "404 User not found.\nNote: You must have \"seen\" that user before open this link.",
-
     "lng_settings_always_delete_for": "Always select delete for",
     "lng_settings_delete_disabled": "Disabled",
     "lng_settings_delete_for_group": "Group",
     "lng_settings_delete_for_person": "Person",
     "lng_settings_delete_for_both": "Why not both?",
-
     "lng_title_forward_as_copy": "Copy to...",
     "lng_title_multiple_forward": "Forward to...",
-
     "lng_context_forward_msg_multi": "Multi-Forward",
     "lng_context_forward_msg_old": "Single Forward",
     "lng_context_show_messages_from": "Msgs From User",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "Forward to Saved",
     "lng_context_repeater": "Repeater",
     "lng_context_view_as_json": "View As JSON",
-
     "lng_settings_enable_hd_video": "Higher video bitrate",
     "lng_hd_video_hint": "Video bitrate is changed! Rejoin a voice chat if you've already joined.",
-
     "lng_bitrate_controller": "Audio Bitrate",
     "lng_bitrate_controller_desc": "Warning: changing this parameter to high values may affect user on slow networks.",
     "lng_bitrate_controller_hint": "Audio bitrate is changed! Rejoin a voice chat if you've already joined.",
-
     "lng_bitrate_controller_default": "Default (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -125,42 +106,35 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "Show pinned message",
     "lng_pinned_message_hide": "Hide pinned message",
     "lng_pinned_message_view": "View pinned message",
     "lng_go_to_first_message": "Go to first message",
-
     "lng_proxy_remove_all": "Remove all proxies",
-
     "lng_copy_profile_id": "ID copied to clipboard.",
-
     "lng_group_requests_ban": "Ban",
-
     "lng_blocked_user_hint": "[Blocked User Message]\n",
-
     "lng_contact_is_mutual": "This contact is a mutual contact.",
-
     "lng_settings_use_gt_api": "Use Google Translate",
-
     "lng_settings_extra_context_menu_options": "Extra context menu options",
     "lng_context_hide_message": "Hide",
-
     "lng_attach_webpage_preview": "Webpage Preview",
     "lng_link_preview_box_title": "Edit webpage link",
-
     "lng_settings_rich_message_preview_blocks": "Custom rich message blocks limit",
     "lng_settings_rich_message_preview_blocks_desc": "Limit the number of blocks shown for rich messages in chats. Use Show more to open the full message.",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} blocks",
-
     "lng_send_mark_as_gif": "Mark as GIF",
-
     "lng_settings_community_chat_click": "Open chat instead of community",
-
     "lng_context_more_forward": "More forwards",
     "lng_settings_sticker_height": "Sticker height",
-
     "lng_forward_regroup_media": "Regroup Media",
-    "lng_forward_separate_messages": "Separate Messages"
+    "lng_forward_separate_messages": "Separate Messages",
+
+    "lng_settings_force_show_webpage_preview": "Force show webpage preview",
+
+    "lng_chat_enhanced_settings": "Chat Enhanced Settings",
+    "lng_chat_enhanced_settings_desc": "The options below will override global enhanced settings and apply only to this chat.",
+    "lng_chat_enhanced_default": "Default",
+    "lng_chat_enhanced_enabled": "Enabled",
+    "lng_chat_enhanced_disabled": "Disabled"
 }
