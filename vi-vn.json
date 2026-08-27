@@ -4,7 +4,7 @@
     "lng_settings_enhanced": "Cài đặt nâng cao",
     "lng_settings_network": "Mạng",
     "lng_settings_net_upload_speed_boost": "Tăng tốc độ tải lên",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
+    "lng_settings_net_download_speed_boost": "Tăng tốc độ tải xuống",
     "lng_settings_show_message_id": "Hiển thị ID tin nhắn",
     "lng_settings_button": "Nút",
     "lng_settings_show_emoji_button_as_text": "Hiển thị nút biểu tượng cảm xúc dưới dạng văn bản",
@@ -26,19 +26,19 @@
     "lng_settings_disable_link_warning": "Tắt cảnh báo liên kết đang mở",
     "lng_settings_hide_messages": "Ẩn tin nhắn từ người dùng bị chặn",
     "lng_settings_disable_premium_animation": "Tắt hoạt ảnh cao cấp",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "Tắt tìm kiếm toàn cục",
     "lng_settings_show_seconds": "Thời gian tính bằng giây",
-    "lng_settings_show_view_as_json": "Show view as json option",
-    "lng_settings_hide_counter": "Hide online users counter",
-    "lng_settings_hide_stories": "Hide Stories",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_show_view_as_json": "Hiển thị tùy chọn xem dưới dạng JSON",
+    "lng_settings_hide_counter": "Ẩn bộ đếm người dùng trực tuyến",
+    "lng_settings_hide_stories": "Ẩn tin",
+    "lng_settings_screen_shot_mode": "Chế độ chụp màn hình",
     "lng_settings_restart_hint": "CẢNH BÁO: Thay đổi các tùy chọn có màu đỏ sẽ chỉ có hiệu lực sau khi ứng dụng khởi động lại.",
 
     "lng_settings_skip_message": "Chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
     "lng_settings_skip_message_desc": "Lưu ý: Cho phép phím tắt ALT+↑/↓ để chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Giới hạn hiển thị nhãn dán gần đây",
+    "lng_settings_recent_display_limit_default": "Mặc định (20)",
 
     "lng_net_speed_boost_title": "Tăng tốc độ mạng",
     "lng_net_speed_boost_desc": "Cảnh báo: việc thay đổi thông số này thành giá trị cao trên các mạng chậm có thể làm cho thông số này thậm chí còn tồi tệ hơn. Sử dụng nó có nguy cơ của riêng bạn.",
@@ -59,8 +59,8 @@
     "lng_copy_restriction_reason": "Lý do hạn chế sao chép",
 
     "lng_context_copy_callback_data": "Sao chép dữ liệu gọi lại",
-    "lng_context_forward_selected_no_quote": "Chuyển tiếp đã chọn (W/O trích dẫn)",
-    "lng_selected_forward_no_quote": "Chuyển tiếp (w/o trích dẫn)",
+    "lng_context_forward_selected_no_quote": "Chuyển tiếp đã chọn (Không trích dẫn)",
+    "lng_selected_forward_no_quote": "Chuyển tiếp (Không trích dẫn)",
     "lng_forward_to_saved_message_text": "Lưu",
     "lng_context_forward_msg_old_selected": "Chuyển tiếp đã chọn (Cổ điển)",
     "lng_selected_forward_emoji_classic": "📠(Cổ điển)",
@@ -108,7 +108,7 @@
     "lng_context_forward_msg_no_quote": "Chuyển tiếp dạng bản sao",
     "lng_forward_to_saved_message": "Chuyển tiếp đến dã lưu",
     "lng_context_repeater": "Bộ lặp",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "Xem dưới dạng JSON",
 
     "lng_settings_enable_hd_video": "Tốc độ video cao hơn",
     "lng_hd_video_hint": "Tốc độ của video đã được thay đổi! Tham gia lại cuộc trò chuyện thoại nếu bạn đã tham gia.",
@@ -135,12 +135,12 @@
 
     "lng_copy_profile_id": "Đã sao chép ID vào khay nhớ tạm.",
 
-    "lng_group_requests_ban": "Ban",
+    "lng_group_requests_ban": "Cấm",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n",
+    "lng_blocked_user_hint": "[Tin nhắn của người dùng bị chặn]\n",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "Tùy chọn menu ngữ cảnh bổ sung",
+    "lng_context_hide_message": "Ẩn",
 
     "lng_attach_webpage_preview": "Xem trước trang web",
     "lng_link_preview_box_title": "Chỉnh sửa liên kết trang web",

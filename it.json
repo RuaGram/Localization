@@ -4,7 +4,7 @@
     "lng_settings_enhanced": "Migliorie",
     "lng_settings_network": "Rete",
     "lng_settings_net_upload_speed_boost": "Incremento velocità di caricamento",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
+    "lng_settings_net_download_speed_boost": "Incremento velocità di download",
     "lng_settings_show_message_id": "Mostra ID dei messaggi",
     "lng_settings_button": "Pulsanti",
     "lng_settings_show_emoji_button_as_text": "Testo invece delle emoji",
@@ -26,19 +26,19 @@
     "lng_settings_disable_link_warning": "Non avvisare quando apro un link",
     "lng_settings_hide_messages": "Nascondi i messaggi dagli utenti bloccati",
     "lng_settings_disable_premium_animation": "Disattiva l'animazione di Premium",
-    "lng_settings_disable_global_search": "Disable global search",
-    "lng_settings_show_seconds": "Time with seconds",
-    "lng_settings_show_view_as_json": "Show view as json option",
-    "lng_settings_hide_counter": "Hide online users counter",
-    "lng_settings_hide_stories": "Hide Stories",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_disable_global_search": "Disattiva la ricerca globale",
+    "lng_settings_show_seconds": "Orario con i secondi",
+    "lng_settings_show_view_as_json": "Mostra l'opzione «Visualizza come JSON»",
+    "lng_settings_hide_counter": "Nascondi il contatore degli utenti online",
+    "lng_settings_hide_stories": "Nascondi le storie",
+    "lng_settings_screen_shot_mode": "Modalità screenshot",
     "lng_settings_restart_hint": "Attenzione! Dopo aver cambiato una delle opzioni evidenziate, l'app si riavvierà immediatamente affinché la modifica abbia effetto.",
 
     "lng_settings_skip_message": "Vai alla prossima chat non letta",
     "lng_settings_skip_message_desc": "Nota: puoi usare la scorciatoia Alt+↑/↓ per aprire la prossima chat non letta",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Limite di visualizzazione degli sticker recenti",
+    "lng_settings_recent_display_limit_default": "Predefinito (20)",
 
     "lng_net_speed_boost_title": "Incremento velocità di caricamento",
     "lng_net_speed_boost_desc": "Attenzione! Su reti lente, impostare questo parametro a valori alti potrebbe peggiorare la situazione, per cui procedi a tuo rischio.",
@@ -108,7 +108,7 @@
     "lng_context_forward_msg_no_quote": "Inoltra come copia",
     "lng_forward_to_saved_message": "Salva messaggio",
     "lng_context_repeater": "Ripeti",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "Visualizza come JSON",
 
     "lng_settings_enable_hd_video": "Velocità di trasmissione video superiore",
     "lng_hd_video_hint": "La velocità di trasmissione video è cambiata! Se ti sei già unito a una chat vocale, lasciala e riunisciti.",
@@ -135,12 +135,12 @@
 
     "lng_copy_profile_id": "ID copiato negli appunti.",
 
-    "lng_group_requests_ban": "Ban",
+    "lng_group_requests_ban": "Blocca",
 
-    "lng_blocked_user_hint": "[Blocked User Message]\n",
+    "lng_blocked_user_hint": "[Messaggio dell'utente bloccato]\n",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "Opzioni aggiuntive del menu contestuale",
+    "lng_context_hide_message": "Nascondi",
 
     "lng_attach_webpage_preview": "Anteprima pagina web",
     "lng_link_preview_box_title": "Modifica link della pagina web",

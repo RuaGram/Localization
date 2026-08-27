@@ -26,19 +26,19 @@
     "lng_settings_disable_link_warning": "Açık bağlantı uyarısını devre dışı bırak",
     "lng_settings_hide_messages": "Engellenen kullanıcıdan gelen mesajları gizle",
     "lng_settings_disable_premium_animation": "Premium Animasyonları Kapat",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "Küresel aramayı devre dışı bırak",
     "lng_settings_show_seconds": "Saniye ile zaman",
-    "lng_settings_show_view_as_json": "Show view as json option",
+    "lng_settings_show_view_as_json": "JSON olarak görüntüleme seçeneğini göster",
     "lng_settings_hide_counter": "Çevrimiçi kullanıcı sayacını gizle",
-    "lng_settings_hide_stories": "Hide Stories",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_hide_stories": "Hikâyeleri gizle",
+    "lng_settings_screen_shot_mode": "Ekran görüntüsü modu",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
 
     "lng_settings_skip_message": "Okunmamış sonraki sohbete git",
     "lng_settings_skip_message_desc": "Not: ALT+↑/↓ kısayolu ile okunmamış sonraki sohbete geçmeye izin ver",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Son kullanılan çıkartmaları görüntüleme sınırı",
+    "lng_settings_recent_display_limit_default": "Varsayılan (20)",
 
     "lng_net_speed_boost_title": "Ağ hızı artışı",
     "lng_net_speed_boost_desc": "Uyarı: Yavaş ağlarda bu parametrenin yüksek değerlerle değiştirilmesi durumu daha da kötüleştirebilir. Kendi sorumluluğunuzda kullanın.",
@@ -76,13 +76,13 @@
     "lng_rights_chat_send_games": "Oyun gönder",
     "lng_rights_chat_use_inline": "Satır İçi Botları Kullanın",
 
-    "lng_media_selected_gif#one": "{count} Gif",
-    "lng_media_selected_gif#other": "{count} Gif",
-    "lng_media_type_gifs": "Gif",
-    "lng_profile_gifs#one": "{count} gif",
-    "lng_profile_gifs#other": "{count} gif",
-    "lng_profile_gifs_header": "Gif",
-    "lng_media_gif_empty": "Henüz Gif yok",
+    "lng_media_selected_gif#one": "{count} GIF",
+    "lng_media_selected_gif#other": "{count} GIF",
+    "lng_media_type_gifs": "GIF",
+    "lng_profile_gifs#one": "{count} GIF",
+    "lng_profile_gifs#other": "{count} GIF",
+    "lng_profile_gifs_header": "GIF",
+    "lng_media_gif_empty": "Henüz GIF yok",
 
     "lng_create_supergroup_title": "Yeni Süpergrup",
     "lng_action_group_migrate": "Grup süpergruba yükseltildi",
@@ -108,7 +108,7 @@
     "lng_context_forward_msg_no_quote": "Kopya olarak ilet",
     "lng_forward_to_saved_message": "Kayıtlı Mesajlara İlet",
     "lng_context_repeater": "Tekrarla",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "JSON olarak görüntüle",
 
     "lng_settings_enable_hd_video": "Daha yüksek video bit hızı",
     "lng_hd_video_hint": "Video bit hızı değiştirildi! Bir sesli sohbete katıldıysanız çıkıp yeniden katılın.",
@@ -135,12 +135,12 @@
 
     "lng_copy_profile_id": "ID panoya kopyalandı.",
 
-    "lng_group_requests_ban": "Ban",
+    "lng_group_requests_ban": "Yasakla",
 
     "lng_blocked_user_hint": "[Engellenen Kullanıcı Mesajı]\n",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "Ek bağlam menüsü seçenekleri",
+    "lng_context_hide_message": "Gizle",
 
     "lng_attach_webpage_preview": "Web sayfası önizlemesi",
     "lng_link_preview_box_title": "Web sayfası bağlantısını düzenle",

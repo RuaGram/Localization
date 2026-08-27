@@ -8,43 +8,43 @@
     "lng_settings_show_message_id": "Tampilkan ID pesan",
     "lng_settings_button": "Tombol",
     "lng_settings_show_emoji_button_as_text": "Tampilkan tombol emoji sebagai teks",
-    "lng_settings_show_repeater_option": "Tampilkan opsi repeater",
+    "lng_settings_show_repeater_option": "Tampilkan opsi pengulang",
     "lng_settings_show_phone_number": "Tampilkan Nomor Telepon",
     "lng_settings_repeater_reply_to_orig_msg": "Balas pesan asli",
-    "lng_settings_disable_cloud_draft_sync": "Berhenti menyinkronkan draf dari cloud",
-    "lng_settings_hide_classic_forward": "Sembunyikan Forward Klasik",
+    "lng_settings_disable_cloud_draft_sync": "Berhenti menyinkronkan draf dari awan",
+    "lng_settings_hide_classic_forward": "Sembunyikan Penerusan Klasik",
     "lng_settings_show_scheduled_button": "Selalu tampilkan tombol terjadwal",
     "lng_settings_voice_chat": "Obrolan Suara",
     "lng_settings_stereo_mode": "Aktifkan Mode Stereo",
     "lng_settings_pin_voice_chat": "Sematkan Ke Atas",
     "lng_settings_unpin_voice_chat": "Lepas sematan",
     "lng_settings_radio_controller": "Pengontrol radio",
-    "lng_settings_auto_unmute": "Unmute otomatis",
+    "lng_settings_auto_unmute": "Aktifkan suara secara otomatis",
     "lng_settings_other": "Lainnya",
     "lng_settings_hide_all_chats": "Sembunyikan folder \"Semua obrolan\"",
-    "lng_settings_replace_edit_button": "Ganti tombol \"Edit\" dengan Pesan Tersimpan",
+    "lng_settings_replace_edit_button": "Ganti tombol \"Sunting\" dengan Pesan Tersimpan",
     "lng_settings_disable_link_warning": "Nonaktifkan peringatan buka tautan",
     "lng_settings_hide_messages": "Menyembunyikan pesan dari pengguna yang diblokir",
     "lng_settings_disable_premium_animation": "Nonaktifkan Animasi Premium",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "Nonaktifkan pencarian global",
     "lng_settings_show_seconds": "Waktu dengan detik",
-    "lng_settings_show_view_as_json": "Show view as json option",
+    "lng_settings_show_view_as_json": "Tampilkan opsi tampilan sebagai JSON",
     "lng_settings_hide_counter": "Sembunyikan penghitung pengguna online",
-    "lng_settings_hide_stories": "Hide Stories",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_hide_stories": "Sembunyikan cerita",
+    "lng_settings_screen_shot_mode": "Mode tangkapan layar",
     "lng_settings_restart_hint": "PERINGATAN: Mengubah opsi yang berwarna merah hanya akan berlaku setelah aplikasi dimulai ulang.",
 
     "lng_settings_skip_message": "Lewati ke obrolan yang belum dibaca berikutnya",
     "lng_settings_skip_message_desc": "Catatan: Izinkan pintasan ALT+↑/↓ untuk melewati ke obrolan yang belum dibaca berikutnya",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Batas tampilan stiker terbaru",
+    "lng_settings_recent_display_limit_default": "Bawaan (20)",
 
     "lng_net_speed_boost_title": "Peningkatan kecepatan jaringan",
     "lng_net_speed_boost_desc": "Peringatan: mengubah parameter ini ke nilai tinggi pada jaringan yang lambat dapat membuatnya lebih buruk. Gunakan dengan risiko Anda sendiri.",
     "lng_show_emoji_button_as_text_desc": "Catatan: Jika Anda tidak dapat melihat tombol emoji, aktifkan opsi ini.",
     "lng_radio_controller_desc": "Catatan: Pengontrol radio adalah bot eksperimental untuk mengontrol sesi streaming musik Anda.",
-    "lng_auto_unmute_desc": "Catatan: Unmute otomatis saat Anda bergabung dengan obrolan suara.",
+    "lng_auto_unmute_desc": "Catatan: Aktifkan suara secara otomatis saat Anda bergabung dengan obrolan suara.",
     "lng_settings_hide_messages_desc": "Catatan: INI TIDAK BENAR-BENAR DISEMBUNYIKAN! Pesan masih tersedia untuk dilihat, tetapi teks akan dikonversi ke Spoiler dan media tidak akan diunduh secara otomatis.",
 
     "lng_net_speed_boost_default": "Nonaktif",
@@ -59,10 +59,10 @@
     "lng_copy_restriction_reason": "Salin Alasan Pembatasan",
 
     "lng_context_copy_callback_data": "Salin Data Panggilan Balik",
-    "lng_context_forward_selected_no_quote": "Forward Dipilih (W/O quote)",
-    "lng_selected_forward_no_quote": "Forward (w/o quote)",
+    "lng_context_forward_selected_no_quote": "Teruskan yang Dipilih (Tanpa kutipan)",
+    "lng_selected_forward_no_quote": "Teruskan (tanpa kutipan)",
     "lng_forward_to_saved_message_text": "Simpan",
-    "lng_context_forward_msg_old_selected": "Forward Dipilih (Klasik)",
+    "lng_context_forward_msg_old_selected": "Teruskan yang Dipilih (Klasik)",
     "lng_selected_forward_emoji_classic": "📠 (Klasik)",
 
     "lng_message_id": "ID Pesan:",
@@ -76,13 +76,13 @@
     "lng_rights_chat_send_games": "Kirim Game",
     "lng_rights_chat_use_inline": "Gunakan Inline Bot",
 
-    "lng_media_selected_gif#one": "{count} Gif",
-    "lng_media_selected_gif#other": "{count} Gif",
-    "lng_media_type_gifs": "Gif",
-    "lng_profile_gifs#one": "{count} gif",
-    "lng_profile_gifs#other": "{count} gif",
-    "lng_profile_gifs_header": "Gif",
-    "lng_media_gif_empty": "Belum ada gif di sini",
+    "lng_media_selected_gif#one": "{count} GIF",
+    "lng_media_selected_gif#other": "{count} GIF",
+    "lng_media_type_gifs": "GIF",
+    "lng_profile_gifs#one": "{count} GIF",
+    "lng_profile_gifs#other": "{count} GIF",
+    "lng_profile_gifs_header": "GIF",
+    "lng_media_gif_empty": "Belum ada GIF di sini",
 
     "lng_create_supergroup_title": "Supergrup Baru",
     "lng_action_group_migrate": "Grup ditingkatkan menjadi supergrup",
@@ -100,15 +100,15 @@
     "lng_title_forward_as_copy": "Salin ke...",
     "lng_title_multiple_forward": "Maju ke...",
 
-    "lng_context_forward_msg_multi": "Multi-Forward",
-    "lng_context_forward_msg_old": "Forward Tunggal",
+    "lng_context_forward_msg_multi": "Penerusan Banyak",
+    "lng_context_forward_msg_old": "Penerusan Tunggal",
     "lng_context_show_messages_from": "Pesan Dari Pengguna",
-    "lng_context_repeat_msg": "Ulangi sebagai Forward",
+    "lng_context_repeat_msg": "Ulangi sebagai Penerusan",
     "lng_context_repeat_msg_no_fwd": "Ulangi sebagai salin",
-    "lng_context_forward_msg_no_quote": "Forward sebagai salin",
-    "lng_forward_to_saved_message": "Forward ke Disimpan",
-    "lng_context_repeater": "Repeater",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_forward_msg_no_quote": "Teruskan sebagai salinan",
+    "lng_forward_to_saved_message": "Teruskan ke Pesan Tersimpan",
+    "lng_context_repeater": "Pengulang",
+    "lng_context_view_as_json": "Lihat sebagai JSON",
 
     "lng_settings_enable_hd_video": "Bitrate video yang lebih tinggi",
     "lng_hd_video_hint": "Bitrate video diubah! Bergabung kembali dengan obrolan suara jika Anda sudah bergabung.",
@@ -117,7 +117,7 @@
     "lng_bitrate_controller_desc": "Peringatan: mengubah parameter ini ke nilai tinggi dapat memengaruhi pengguna di jaringan yang lambat.",
     "lng_bitrate_controller_hint": "Bitrate audio diubah! Bergabung kembali dengan obrolan suara jika Anda sudah bergabung.",
 
-    "lng_bitrate_controller_default": "Default (32 Kbps)",
+    "lng_bitrate_controller_default": "Bawaan (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
     "lng_bitrate_controller_128k": "128 Kbps",
@@ -133,20 +133,20 @@
 
     "lng_proxy_remove_all": "Hapus semua proxy",
 
-    "lng_copy_profile_id": "ID disalin ke clipboard.",
+    "lng_copy_profile_id": "ID disalin ke papan klip.",
 
-    "lng_group_requests_ban": "Ban",
+    "lng_group_requests_ban": "Blokir",
 
     "lng_blocked_user_hint": "[Pesan Pengguna yang Diblokir]",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "Opsi menu konteks tambahan",
+    "lng_context_hide_message": "Sembunyikan",
 
     "lng_attach_webpage_preview": "Pratinjau halaman web",
-    "lng_link_preview_box_title": "Edit tautan halaman web",
+    "lng_link_preview_box_title": "Sunting tautan halaman web",
 
     "lng_settings_rich_message_preview_blocks": "Batas blok pesan kaya",
-    "lng_settings_rich_message_preview_blocks_desc": "Batasi jumlah blok yang ditampilkan untuk pesan kaya dalam chat. Gunakan Tampilkan lebih banyak untuk membuka pesan lengkap.",
+    "lng_settings_rich_message_preview_blocks_desc": "Batasi jumlah blok yang ditampilkan untuk pesan kaya dalam obrolan. Gunakan Tampilkan lebih banyak untuk membuka pesan lengkap.",
 
     "lng_settings_rich_message_preview_blocks_count#other": "{count} blok",
 
@@ -154,7 +154,7 @@
 
     "lng_settings_community_chat_click": "Buka obrolan, bukan komunitas",
 
-    "lng_context_more_forward": "Opsi forward lainnya",
+    "lng_context_more_forward": "Opsi penerusan lainnya",
     "lng_settings_sticker_height": "Tinggi stiker",
 
     "lng_forward_regroup_media": "Kelompokkan ulang media",
@@ -162,9 +162,9 @@
 
     "lng_settings_force_show_webpage_preview": "Paksa tampilkan pratinjau halaman web",
 
-    "lng_chat_enhanced_settings": "Pengaturan chat yang ditingkatkan",
-    "lng_chat_enhanced_settings_desc": "Pilihan di bawah akan mengesampingkan pengaturan global yang ditingkatkan dan hanya berlaku untuk chat ini.",
-    "lng_chat_enhanced_default": "Default",
+    "lng_chat_enhanced_settings": "Pengaturan obrolan yang ditingkatkan",
+    "lng_chat_enhanced_settings_desc": "Pilihan di bawah akan mengesampingkan pengaturan global yang ditingkatkan dan hanya berlaku untuk obrolan ini.",
+    "lng_chat_enhanced_default": "Bawaan",
     "lng_chat_enhanced_enabled": "Diaktifkan",
     "lng_chat_enhanced_disabled": "Dinonaktifkan"
 }

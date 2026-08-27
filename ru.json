@@ -28,7 +28,7 @@
     "lng_settings_disable_premium_animation": "Отключить премиум анимации",
     "lng_settings_disable_global_search": "Отключить глобальный поиск",
     "lng_settings_show_seconds": "Время с указанием секунд",
-    "lng_settings_show_view_as_json": "Show view as json option",
+    "lng_settings_show_view_as_json": "Показывать вариант просмотра в формате JSON",
     "lng_settings_hide_counter": "Скрыть счётчик пользователей онлайн",
     "lng_settings_hide_stories": "Скрыть истории",
     "lng_settings_screen_shot_mode": "Режим Скриншота",
@@ -108,7 +108,7 @@
     "lng_context_forward_msg_no_quote": "Переслать без автора",
     "lng_forward_to_saved_message": "Переслать в Избранное",
     "lng_context_repeater": "Повторить",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "Просмотреть как JSON",
 
     "lng_settings_enable_hd_video": "Увеличить битрейт видео",
     "lng_hd_video_hint": "Битрейт видео изменен! Повторно присоединитесь к голосовому чату, если вы уже там.",
@@ -139,8 +139,8 @@
 
     "lng_blocked_user_hint": "[Сообщение заблокированного пользователя]\n",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "Дополнительные варианты контекстного меню",
+    "lng_context_hide_message": "Скрыть",
 
     "lng_attach_webpage_preview": "Предпросмотр веб-страницы",
     "lng_link_preview_box_title": "Редактировать ссылку веб-страницы",

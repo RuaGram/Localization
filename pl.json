@@ -26,19 +26,19 @@
     "lng_settings_disable_link_warning": "Wyłącz ostrzeżenie przed otwarciem linku",
     "lng_settings_hide_messages": "Ukryj wiadomości od zablokowanych osób",
     "lng_settings_disable_premium_animation": "Wyłącz animacje premium",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "Wyłącz globalne wyszukiwanie",
     "lng_settings_show_seconds": "Czas z dokładnością do sekund",
-    "lng_settings_show_view_as_json": "Show view as json option",
+    "lng_settings_show_view_as_json": "Pokaż opcję wyświetlania jako JSON",
     "lng_settings_hide_counter": "Ukryj licznik użytkowników online",
     "lng_settings_hide_stories": "Ukryj relacje",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_screen_shot_mode": "Tryb zrzutu ekranu",
     "lng_settings_restart_hint": "UWAGA: Zmiana opcji oznaczonych kolorem czerwonym zacznie obowiązywać dopiero po ponownym uruchomieniu aplikacji.",
 
     "lng_settings_skip_message": "Przechodź do nast. nieprzeczytanego czatu",
     "lng_settings_skip_message_desc": "Uwaga: Zezwala na skrót ALT+↑/↓, w celu przejścia do następnego nieprzeczytanego czatu",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Limit wyświetlania ostatnich naklejek",
+    "lng_settings_recent_display_limit_default": "Domyślnie (20)",
 
     "lng_net_speed_boost_title": "Przyspieszenie sieci",
     "lng_net_speed_boost_desc": "Uwaga: zmiana tego parametru na wysokie wartości w wolnych sieciach może jeszcze bardziej pogorszyć sytuację. Używaj go na własne ryzyko.",
@@ -108,7 +108,7 @@
     "lng_context_forward_msg_no_quote": "Jako kopię",
     "lng_forward_to_saved_message": "Do zapisanych",
     "lng_context_repeater": "Powtórz",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "Wyświetl jako JSON",
 
     "lng_settings_enable_hd_video": "Wyższa jakość wideo",
     "lng_hd_video_hint": "Zmieniono jakość wideo! Dołącz ponownie do czatu głosowego, jeśli już dołączyłeś(-aś).",
@@ -135,12 +135,12 @@
 
     "lng_copy_profile_id": "Skopiowano ID do schowka.",
 
-    "lng_group_requests_ban": "Ban",
+    "lng_group_requests_ban": "Zbanuj",
 
     "lng_blocked_user_hint": "[Wiadomość od zablokowanego użytkownika]\n",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "Dodatkowe opcje menu kontekstowego",
+    "lng_context_hide_message": "Ukryj",
 
     "lng_attach_webpage_preview": "Podgląd strony internetowej",
     "lng_link_preview_box_title": "Edytuj link strony internetowej",

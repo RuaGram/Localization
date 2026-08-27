@@ -4,7 +4,7 @@
     "lng_settings_enhanced": "Configurações Melhoradas",
     "lng_settings_network": "Rede",
     "lng_settings_net_upload_speed_boost": "Aumentar Velocidade de Envio",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
+    "lng_settings_net_download_speed_boost": "Aumentar Velocidade de Recebimento",
     "lng_settings_show_message_id": "Mostrar ID da Mensagem",
     "lng_settings_button": "Botão",
     "lng_settings_show_emoji_button_as_text": "Mostrar Botão de Emoji como Texto",
@@ -26,19 +26,19 @@
     "lng_settings_disable_link_warning": "Desabilitar Aviso ao Abrir Links",
     "lng_settings_hide_messages": "Esconder Mensagens de Usuários Bloqueados",
     "lng_settings_disable_premium_animation": "Desativar Animação Premium",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "Desabilitar pesquisa global",
     "lng_settings_show_seconds": "Tempo em Segundos",
-    "lng_settings_show_view_as_json": "Show view as json option",
+    "lng_settings_show_view_as_json": "Mostrar opção de visualização como JSON",
     "lng_settings_hide_counter": "Ocultar Contador de Usuários Online",
-    "lng_settings_hide_stories": "Hide Stories",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_hide_stories": "Ocultar histórias",
+    "lng_settings_screen_shot_mode": "Modo de Captura de Tela",
     "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só tomarão efeito quando a aplicação for reiniciada.",
 
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
     "lng_settings_skip_message_desc": "NOTA: O atalho ALT+↑/↓ irá pular para Conversas não lidas.",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Limite de exibição de figurinhas recentes",
+    "lng_settings_recent_display_limit_default": "Padrão (20)",
 
     "lng_net_speed_boost_title": "Aumentar Velocidade de Rede",
     "lng_net_speed_boost_desc": "CUIDADO: Trocar este parâmetro em conexões lentas pode levar a resultados ainda piores.",
@@ -71,7 +71,7 @@
     "lng_admin_log_banned_send_gifs": "Enviar GIFs",
     "lng_admin_log_banned_send_games": "Enviar Jogos",
     "lng_admin_log_banned_use_inline": "Usar Bots Inline",
-    "lng_rights_chat_send_stickers2": "Enviar Stickers",
+    "lng_rights_chat_send_stickers2": "Enviar Figurinhas",
     "lng_rights_chat_send_gifs": "Enviar GIFs",
     "lng_rights_chat_send_games": "Enviar Jogos",
     "lng_rights_chat_use_inline": "Usar Bots Inline",
@@ -108,7 +108,7 @@
     "lng_context_forward_msg_no_quote": "Encaminhar como Cópia",
     "lng_forward_to_saved_message": "Encaminhar para Mensagens Salvas",
     "lng_context_repeater": "Repetidor",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "Ver como JSON",
 
     "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
     "lng_hd_video_hint": "O Bitrate de Vídeo mudou! Saia e entre novamente em uma chamada de voz se você já está em uma.",
@@ -135,12 +135,12 @@
 
     "lng_copy_profile_id": "ID copiado para a Área de Transferência.",
 
-    "lng_group_requests_ban": "Ban",
+    "lng_group_requests_ban": "Banir",
 
     "lng_blocked_user_hint": "[Mensagem Bloqueada]\n",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "Opções extras do menu de contexto",
+    "lng_context_hide_message": "Esconder",
 
     "lng_attach_webpage_preview": "Visualização da página da web",
     "lng_link_preview_box_title": "Editar link da página da web",

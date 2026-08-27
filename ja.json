@@ -26,19 +26,19 @@
     "lng_settings_disable_link_warning": "リンクを開くときの警告を無効化",
     "lng_settings_hide_messages": "ブロックしたユーザーからのメッセージを非表示",
     "lng_settings_disable_premium_animation": "プレミアムアニメーションを無効化",
-    "lng_settings_disable_global_search": "Disable global search",
+    "lng_settings_disable_global_search": "グローバル検索を無効化",
     "lng_settings_show_seconds": "時間に秒も表示",
-    "lng_settings_show_view_as_json": "Show view as json option",
+    "lng_settings_show_view_as_json": "JSON 表示オプションを表示",
     "lng_settings_hide_counter": "オンラインのユーザー数を非表示",
-    "lng_settings_hide_stories": "Hide Stories",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_hide_stories": "ストーリーを非表示",
+    "lng_settings_screen_shot_mode": "スクリーンショットモード",
     "lng_settings_restart_hint": "警告: 赤色の項目を変更した場合、アプリの再起動後に反映されます。",
 
     "lng_settings_skip_message": "次の未読チャットに移動",
     "lng_settings_skip_message_desc": "注釈: ALT+↑/↓ のショートカットを利用して次の未読チャットに移動できるようになります。",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "最近使ったステッカーの表示数上限",
+    "lng_settings_recent_display_limit_default": "デフォルト (20)",
 
     "lng_net_speed_boost_title": "ネットワーク速度ブースト",
     "lng_net_speed_boost_desc": "警告: 低速なネットワークでこの項目の値を上げると、むしろさらに低速になることがあります。自己責任で利用してください。",
@@ -108,7 +108,7 @@
     "lng_context_forward_msg_no_quote": "コピーを転送",
     "lng_forward_to_saved_message": "保存用に転送",
     "lng_context_repeater": "リピーター",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "JSON として表示",
 
     "lng_settings_enable_hd_video": "動画ビットレートを高くする",
     "lng_hd_video_hint": "動画ビットレートが変更されました! ボイスチャットに参加中の場合、参加し直してください。",
@@ -135,12 +135,12 @@
 
     "lng_copy_profile_id": "IDがクリップボードにコピーされました",
 
-    "lng_group_requests_ban": "BAN",
+    "lng_group_requests_ban": "禁止",
 
     "lng_blocked_user_hint": "[ブロック中ユーザーのメッセージ]\n",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "コンテキストメニューの追加オプション",
+    "lng_context_hide_message": "非表示",
 
     "lng_attach_webpage_preview": "Webページのプレビュー",
     "lng_link_preview_box_title": "Webページリンクを編集",

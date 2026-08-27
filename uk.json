@@ -28,17 +28,17 @@
     "lng_settings_disable_premium_animation": "Вимкнути Premium-анімації",
     "lng_settings_disable_global_search": "Вимкнути глобальний пошук",
     "lng_settings_show_seconds": "Відображати час з секундами",
-    "lng_settings_show_view_as_json": "Show view as json option",
+    "lng_settings_show_view_as_json": "Показувати опцію перегляду як JSON",
     "lng_settings_hide_counter": "Приховати лічильник користувачів у мережі",
     "lng_settings_hide_stories": "Приховати історії",
-    "lng_settings_screen_shot_mode": "Screenshot Mode",
+    "lng_settings_screen_shot_mode": "Режим знімка екрана",
     "lng_settings_restart_hint": "УВАГА: Зміна параметрів виділених червоним кольором, набуде чинності тільки після перезапуску програми.",
 
     "lng_settings_skip_message": "Перехід до непрочитаного чату",
     "lng_settings_skip_message_desc": "Примітка: Дозволяє комбінаціі ALT+↑/↓ пропускати прочитані чати і переходити до наступного непрочитаного.",
     
-    "lng_settings_recent_display_limit": "Recent sticker display limit",
-    "lng_settings_recent_display_limit_default": "Default (20)",
+    "lng_settings_recent_display_limit": "Обмеження відображення останніх наліпок",
+    "lng_settings_recent_display_limit_default": "Типовий (20)",
 
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметру при повільному інтернеті можуть зробити гірше. Використовуйте на свій ризик.",
@@ -108,7 +108,7 @@
     "lng_context_forward_msg_no_quote": "Переслати без автора",
     "lng_forward_to_saved_message": "Переслати в Збережене",
     "lng_context_repeater": "Повторювач",
-    "lng_context_view_as_json": "View As JSON",
+    "lng_context_view_as_json": "Переглянути як JSON",
 
     "lng_settings_enable_hd_video": "Збільшити бітрейт відео",
     "lng_hd_video_hint": "Бітрейт відео змінено! Повторно приєднайтеся до голосового чату, якщо ви вже приєднані.",
@@ -139,8 +139,8 @@
 
     "lng_blocked_user_hint": "[Повідомлення заблокованого користувача]\n",
 
-    "lng_settings_extra_context_menu_options": "Extra context menu options",
-    "lng_context_hide_message": "Hide",
+    "lng_settings_extra_context_menu_options": "Додаткові параметри контекстного меню",
+    "lng_context_hide_message": "Приховати",
 
     "lng_attach_webpage_preview": "Попередній перегляд вебсторінки",
     "lng_link_preview_box_title": "Редагувати посилання вебсторінки",
