@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "Các tùy chọn bên dưới sẽ ghi đè cài đặt nâng cao toàn cục và chỉ áp dụng cho cuộc trò chuyện này.",
     "lng_chat_enhanced_default": "Mặc định",
     "lng_chat_enhanced_enabled": "Bật",
-    "lng_chat_enhanced_disabled": "Tắt"
+    "lng_chat_enhanced_disabled": "Tắt",
+
+    "lng_settings_remove_media_spoiler": "Xóa spoiler phương tiện",
+    "lng_settings_show_media_metadata": "Hiển thị thông tin siêu dữ liệu trong trình xem phương tiện",
+    "lng_settings_disable_auto_fetch_webpage_preview": "Tắt tự động tải bản xem trước trang web",
+    "lng_forward_add_spoiler": "Thêm spoiler",
+
+    "lng_message_search_filter_selected#one": "Đã chọn {count} loại tin nhắn",
+    "lng_message_search_filter_selected#other": "Đã chọn {count} loại tin nhắn",
+    "lng_message_search_filter_mentions": "Đề cập đến tôi"
 }

@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "Pilihan di bawah akan mengesampingkan pengaturan global yang ditingkatkan dan hanya berlaku untuk obrolan ini.",
     "lng_chat_enhanced_default": "Bawaan",
     "lng_chat_enhanced_enabled": "Diaktifkan",
-    "lng_chat_enhanced_disabled": "Dinonaktifkan"
+    "lng_chat_enhanced_disabled": "Dinonaktifkan",
+
+    "lng_settings_remove_media_spoiler": "Hapus spoiler media",
+    "lng_settings_show_media_metadata": "Tampilkan informasi metadata di penampil media",
+    "lng_settings_disable_auto_fetch_webpage_preview": "Nonaktifkan pengambilan pratinjau halaman web otomatis",
+    "lng_forward_add_spoiler": "Tambahkan spoiler",
+
+    "lng_message_search_filter_selected#one": "{count} jenis pesan dipilih",
+    "lng_message_search_filter_selected#other": "{count} jenis pesan dipilih",
+    "lng_message_search_filter_mentions": "Mention saya"
 }

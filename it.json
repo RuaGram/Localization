@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "Le opzioni seguenti sostituiranno le impostazioni avanzate globali e si applicheranno solo a questa chat.",
     "lng_chat_enhanced_default": "Predefinito",
     "lng_chat_enhanced_enabled": "Abilitato",
-    "lng_chat_enhanced_disabled": "Disabilitato"
+    "lng_chat_enhanced_disabled": "Disabilitato",
+
+    "lng_settings_remove_media_spoiler": "Rimuovi lo spoiler multimediale",
+    "lng_settings_show_media_metadata": "Mostra le informazioni sui metadati nel visualizzatore multimediale",
+    "lng_settings_disable_auto_fetch_webpage_preview": "Disabilita il caricamento automatico dell'anteprima della pagina web",
+    "lng_forward_add_spoiler": "Aggiungi spoiler",
+
+    "lng_message_search_filter_selected#one": "{count} tipo di messaggio selezionato",
+    "lng_message_search_filter_selected#other": "{count} tipi di messaggio selezionati",
+    "lng_message_search_filter_mentions": "Menzioni a me"
 }

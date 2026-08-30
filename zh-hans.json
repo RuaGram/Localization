@@ -191,5 +191,14 @@
     "lng_chat_enhanced_settings_desc": "以下选项将覆盖全局增强设置，且只在当前聊天中生效。",
     "lng_chat_enhanced_default": "默认",
     "lng_chat_enhanced_enabled": "启用",
-    "lng_chat_enhanced_disabled": "禁用"
+    "lng_chat_enhanced_disabled": "禁用",
+
+    "lng_settings_remove_media_spoiler": "移除媒体遮罩",
+    "lng_settings_show_media_metadata": "在媒体查看器中展示媒体元数据",
+    "lng_settings_disable_auto_fetch_webpage_preview": "禁用自动生成链接预览",
+    "lng_forward_add_spoiler": "添加遮罩",
+
+    "lng_message_search_filter_selected#one": "已选择 {count} 种消息",
+    "lng_message_search_filter_selected#other": "已选择 {count} 种消息",
+    "lng_message_search_filter_mentions": "提到我"
 }

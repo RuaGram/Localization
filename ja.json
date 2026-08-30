@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "以下のオプションはグローバルの高度な設定を上書きし、このチャットにのみ適用されます。",
     "lng_chat_enhanced_default": "デフォルト",
     "lng_chat_enhanced_enabled": "有効",
-    "lng_chat_enhanced_disabled": "無効"
+    "lng_chat_enhanced_disabled": "無効",
+
+    "lng_settings_remove_media_spoiler": "メディアのスポイラーを削除",
+    "lng_settings_show_media_metadata": "メディアビューアーにメタデータ情報を表示",
+    "lng_settings_disable_auto_fetch_webpage_preview": "Webページのプレビューの自動取得を無効化",
+    "lng_forward_add_spoiler": "スポイラーを追加",
+
+    "lng_message_search_filter_selected#one": "{count} 件のメッセージタイプを選択済み",
+    "lng_message_search_filter_selected#other": "{count} 件のメッセージタイプを選択済み",
+    "lng_message_search_filter_mentions": "自分へのメンション"
 }

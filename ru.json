@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "Приведённые ниже параметры переопределят глобальные расширенные настройки и будут применяться только к этому чату.",
     "lng_chat_enhanced_default": "По умолчанию",
     "lng_chat_enhanced_enabled": "Включено",
-    "lng_chat_enhanced_disabled": "Отключено"
+    "lng_chat_enhanced_disabled": "Отключено",
+
+    "lng_settings_remove_media_spoiler": "Убрать спойлер с медиа",
+    "lng_settings_show_media_metadata": "Показывать информацию о метаданных в просмотрщике медиа",
+    "lng_settings_disable_auto_fetch_webpage_preview": "Отключить автоматическую загрузку предпросмотра веб-страницы",
+    "lng_forward_add_spoiler": "Добавить спойлер",
+
+    "lng_message_search_filter_selected#one": "{count} тип сообщения выбран",
+    "lng_message_search_filter_selected#other": "Выбрано типов сообщений: {count}",
+    "lng_message_search_filter_mentions": "Упоминания обо мне"
 }

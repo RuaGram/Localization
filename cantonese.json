@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "以下選項會覆蓋全域增強設定，並只套用於此聊天。",
     "lng_chat_enhanced_default": "預設",
     "lng_chat_enhanced_enabled": "啟用",
-    "lng_chat_enhanced_disabled": "停用"
+    "lng_chat_enhanced_disabled": "停用",
+
+    "lng_settings_remove_media_spoiler": "移除媒體遮罩",
+    "lng_settings_show_media_metadata": "在媒體檢視器中顯示元數據資訊",
+    "lng_settings_disable_auto_fetch_webpage_preview": "停用自動擷取網頁預覽",
+    "lng_forward_add_spoiler": "添加遮罩",
+
+    "lng_message_search_filter_selected#one": "已選擇 {count} 種訊息",
+    "lng_message_search_filter_selected#other": "已選擇 {count} 種訊息",
+    "lng_message_search_filter_mentions": "提到我"
 }

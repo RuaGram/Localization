@@ -136,5 +136,14 @@
     "lng_chat_enhanced_settings_desc": "The options below will override global enhanced settings and apply only to this chat.",
     "lng_chat_enhanced_default": "Default",
     "lng_chat_enhanced_enabled": "Enabled",
-    "lng_chat_enhanced_disabled": "Disabled"
+    "lng_chat_enhanced_disabled": "Disabled",
+
+    "lng_settings_remove_media_spoiler": "Remove media spoiler",
+    "lng_settings_show_media_metadata": "Show metadata info in media viewer",
+    "lng_settings_disable_auto_fetch_webpage_preview": "Disable auto fetch webpage preview",
+    "lng_forward_add_spoiler": "Add spoiler",
+
+    "lng_message_search_filter_selected#one": "{count} message type selected",
+    "lng_message_search_filter_selected#other": "{count} message types selected",
+    "lng_message_search_filter_mentions": "Mentions of me"
 }

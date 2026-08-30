@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "Aşağıdaki seçenekler genel gelişmiş ayarları geçersiz kılar ve yalnızca bu sohbet için uygulanır.",
     "lng_chat_enhanced_default": "Varsayılan",
     "lng_chat_enhanced_enabled": "Etkin",
-    "lng_chat_enhanced_disabled": "Devre dışı"
+    "lng_chat_enhanced_disabled": "Devre dışı",
+
+    "lng_settings_remove_media_spoiler": "Medya spoilerını kaldır",
+    "lng_settings_show_media_metadata": "Medya görüntüleyicide meta veri bilgilerini göster",
+    "lng_settings_disable_auto_fetch_webpage_preview": "Web sayfası önizlemesini otomatik getirmeyi devre dışı bırak",
+    "lng_forward_add_spoiler": "Spoiler ekle",
+
+    "lng_message_search_filter_selected#one": "{count} mesaj türü seçildi",
+    "lng_message_search_filter_selected#other": "{count} mesaj türü seçildi",
+    "lng_message_search_filter_mentions": "Benden bahsedilenler"
 }

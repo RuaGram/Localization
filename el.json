@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "Οι παρακάτω επιλογές θα παρακάμπτουν τις γενικές βελτιωμένες ρυθμίσεις και θα ισχύουν μόνο για αυτή τη συνομιλία.",
     "lng_chat_enhanced_default": "Προεπιλογή",
     "lng_chat_enhanced_enabled": "Ενεργοποιημένο",
-    "lng_chat_enhanced_disabled": "Απενεργοποιημένο"
+    "lng_chat_enhanced_disabled": "Απενεργοποιημένο",
+
+    "lng_settings_remove_media_spoiler": "Κατάργηση spoiler πολυμέσων",
+    "lng_settings_show_media_metadata": "Εμφάνιση πληροφοριών μεταδεδομένων στην προβολή πολυμέσων",
+    "lng_settings_disable_auto_fetch_webpage_preview": "Απενεργοποίηση αυτόματης λήψης προεπισκόπησης ιστοσελίδας",
+    "lng_forward_add_spoiler": "Προσθήκη spoiler",
+
+    "lng_message_search_filter_selected#one": "{count} επιλεγμένος τύπος μηνύματος",
+    "lng_message_search_filter_selected#other": "{count} επιλεγμένοι τύποι μηνυμάτων",
+    "lng_message_search_filter_mentions": "Αναφορές σε εμένα"
 }

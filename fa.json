@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "گزینه‌های زیر تنظیمات پیشرفتهٔ کلی را لغو می‌کنند و فقط برای این گفتگو اعمال می‌شوند.",
     "lng_chat_enhanced_default": "پیش‌فرض",
     "lng_chat_enhanced_enabled": "فعال",
-    "lng_chat_enhanced_disabled": "غیرفعال"
+    "lng_chat_enhanced_disabled": "غیرفعال",
+
+    "lng_settings_remove_media_spoiler": "حذف اسپویلر رسانه",
+    "lng_settings_show_media_metadata": "نمایش اطلاعات فراداده در نمایشگر رسانه",
+    "lng_settings_disable_auto_fetch_webpage_preview": "غیرفعال کردن دریافت خودکار پیش‌نمایش صفحهٔ وب",
+    "lng_forward_add_spoiler": "افزودن اسپویلر",
+
+    "lng_message_search_filter_selected#one": "{count} نوع پیام انتخاب شده",
+    "lng_message_search_filter_selected#other": "{count} نوع پیام انتخاب شده‌اند",
+    "lng_message_search_filter_mentions": "منشن‌های من"
 }

@@ -166,5 +166,14 @@
     "lng_chat_enhanced_settings_desc": "아래 옵션은 전역 고급 설정보다 우선하며 이 대화방에만 적용됩니다.",
     "lng_chat_enhanced_default": "기본값",
     "lng_chat_enhanced_enabled": "사용",
-    "lng_chat_enhanced_disabled": "사용 안 함"
+    "lng_chat_enhanced_disabled": "사용 안 함",
+
+    "lng_settings_remove_media_spoiler": "미디어 스포일러 제거",
+    "lng_settings_show_media_metadata": "미디어 뷰어에 메타데이터 정보 표시",
+    "lng_settings_disable_auto_fetch_webpage_preview": "웹페이지 미리보기 자동 가져오기 비활성화",
+    "lng_forward_add_spoiler": "스포일러 추가",
+
+    "lng_message_search_filter_selected#one": "{count}개의 메시지 유형 선택됨",
+    "lng_message_search_filter_selected#other": "{count}개의 메시지 유형 선택됨",
+    "lng_message_search_filter_mentions": "나를 언급한 메시지"
 }
