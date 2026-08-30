@@ -187,6 +187,10 @@
 
     "lng_settings_force_show_webpage_preview": "强制显示链接预览",
 
+    "lng_settings_interface": "界面",
+    "lng_settings_behavior": "行为",
+    "lng_settings_translation": "翻译",
+
     "lng_chat_enhanced_settings": "聊天增强设置",
     "lng_chat_enhanced_settings_desc": "以下选项将覆盖全局增强设置，且只在当前聊天中生效。",
     "lng_chat_enhanced_default": "默认",

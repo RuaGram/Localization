@@ -162,6 +162,10 @@
 
     "lng_settings_force_show_webpage_preview": "Forzar la vista previa de la página web",
 
+    "lng_settings_interface": "Interfaz",
+    "lng_settings_behavior": "Comportamiento",
+    "lng_settings_translation": "Traducción",
+
     "lng_chat_enhanced_settings": "Ajustes mejorados del chat",
     "lng_chat_enhanced_settings_desc": "Las siguientes opciones anularán los ajustes mejorados globales y solo se aplicarán a este chat.",
     "lng_chat_enhanced_default": "Predeterminado",

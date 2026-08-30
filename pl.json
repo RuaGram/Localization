@@ -162,6 +162,10 @@
 
     "lng_settings_force_show_webpage_preview": "Wymuś wyświetlanie podglądu strony internetowej",
 
+    "lng_settings_interface": "Interfejs",
+    "lng_settings_behavior": "Zachowanie",
+    "lng_settings_translation": "Tłumaczenie",
+
     "lng_chat_enhanced_settings": "Rozszerzone ustawienia czatu",
     "lng_chat_enhanced_settings_desc": "Poniższe opcje zastąpią globalne rozszerzone ustawienia i będą stosowane tylko na tym czacie.",
     "lng_chat_enhanced_default": "Domyślne",

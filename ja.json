@@ -162,6 +162,10 @@
 
     "lng_settings_force_show_webpage_preview": "Webページのプレビューを強制表示",
 
+    "lng_settings_interface": "インターフェース",
+    "lng_settings_behavior": "動作",
+    "lng_settings_translation": "翻訳",
+
     "lng_chat_enhanced_settings": "チャットの高度な設定",
     "lng_chat_enhanced_settings_desc": "以下のオプションはグローバルの高度な設定を上書きし、このチャットにのみ適用されます。",
     "lng_chat_enhanced_default": "デフォルト",

@@ -162,6 +162,10 @@
 
     "lng_settings_force_show_webpage_preview": "Paksa tampilkan pratinjau halaman web",
 
+    "lng_settings_interface": "Antarmuka",
+    "lng_settings_behavior": "Perilaku",
+    "lng_settings_translation": "Terjemahan",
+
     "lng_chat_enhanced_settings": "Pengaturan obrolan yang ditingkatkan",
     "lng_chat_enhanced_settings_desc": "Pilihan di bawah akan mengesampingkan pengaturan global yang ditingkatkan dan hanya berlaku untuk obrolan ini.",
     "lng_chat_enhanced_default": "Bawaan",

@@ -162,6 +162,10 @@
 
     "lng_settings_force_show_webpage_preview": "Buộc hiển thị bản xem trước trang web",
 
+    "lng_settings_interface": "Giao diện",
+    "lng_settings_behavior": "Hành vi",
+    "lng_settings_translation": "Bản dịch",
+
     "lng_chat_enhanced_settings": "Cài đặt nâng cao của cuộc trò chuyện",
     "lng_chat_enhanced_settings_desc": "Các tùy chọn bên dưới sẽ ghi đè cài đặt nâng cao toàn cục và chỉ áp dụng cho cuộc trò chuyện này.",
     "lng_chat_enhanced_default": "Mặc định",

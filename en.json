@@ -132,6 +132,10 @@
 
     "lng_settings_force_show_webpage_preview": "Force show webpage preview",
 
+    "lng_settings_interface": "Interface",
+    "lng_settings_behavior": "Behavior",
+    "lng_settings_translation": "Translation",
+
     "lng_chat_enhanced_settings": "Chat Enhanced Settings",
     "lng_chat_enhanced_settings_desc": "The options below will override global enhanced settings and apply only to this chat.",
     "lng_chat_enhanced_default": "Default",
