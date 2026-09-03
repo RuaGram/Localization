@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} 件のメッセージタイプを選択済み",
     "lng_message_search_filter_selected#other": "{count} 件のメッセージタイプを選択済み",
-    "lng_message_search_filter_mentions": "自分へのメンション"
+    "lng_message_search_filter_mentions": "自分へのメンション",
+
+    "lng_settings_show_group_sender_online_status": "グループ内の送信者のアバターにオンライン状態を表示",
+    "lng_settings_hide_delete_for_others_checkbox": "「他のユーザーにも削除」チェックボックスを非表示",
+    "lng_settings_send_comment_after_forwarding": "転送後にコメントを送信"
 }

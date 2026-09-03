@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} wybrany typ wiadomości",
     "lng_message_search_filter_selected#other": "{count} wybrane typy wiadomości",
-    "lng_message_search_filter_mentions": "Wzmianki o mnie"
+    "lng_message_search_filter_mentions": "Wzmianki o mnie",
+
+    "lng_settings_show_group_sender_online_status": "Pokaż status online na awatarach nadawców w grupach",
+    "lng_settings_hide_delete_for_others_checkbox": "Ukryj pole wyboru „Usuń dla innych”",
+    "lng_settings_send_comment_after_forwarding": "Wyślij komentarz po przekazaniu"
 }

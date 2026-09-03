@@ -204,5 +204,9 @@
 
     "lng_message_search_filter_selected#one": "已选择 {count} 种消息",
     "lng_message_search_filter_selected#other": "已选择 {count} 种消息",
-    "lng_message_search_filter_mentions": "提到我"
+    "lng_message_search_filter_mentions": "提到我",
+
+    "lng_settings_show_group_sender_online_status": "在群聊中的发送者头像上显示在线状态",
+    "lng_settings_hide_delete_for_others_checkbox": "隐藏「同时为...删除」复选框",
+    "lng_settings_send_comment_after_forwarding": "在转发后发送评论消息"
 }

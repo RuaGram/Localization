@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} jenis pesan dipilih",
     "lng_message_search_filter_selected#other": "{count} jenis pesan dipilih",
-    "lng_message_search_filter_mentions": "Mention saya"
+    "lng_message_search_filter_mentions": "Mention saya",
+
+    "lng_settings_show_group_sender_online_status": "Tampilkan status online pada avatar pengirim di grup",
+    "lng_settings_hide_delete_for_others_checkbox": "Sembunyikan kotak centang \"Hapus untuk orang lain\"",
+    "lng_settings_send_comment_after_forwarding": "Kirim komentar setelah meneruskan"
 }

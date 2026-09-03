@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "已選擇 {count} 種訊息",
     "lng_message_search_filter_selected#other": "已選擇 {count} 種訊息",
-    "lng_message_search_filter_mentions": "提到我"
+    "lng_message_search_filter_mentions": "提到我",
+
+    "lng_settings_show_group_sender_online_status": "喺群組發送者頭像上顯示在線狀態",
+    "lng_settings_hide_delete_for_others_checkbox": "隱藏「幫其他人刪除」勾選框",
+    "lng_settings_send_comment_after_forwarding": "轉發後發送留言"
 }

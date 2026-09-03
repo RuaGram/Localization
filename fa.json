@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} نوع پیام انتخاب شده",
     "lng_message_search_filter_selected#other": "{count} نوع پیام انتخاب شده‌اند",
-    "lng_message_search_filter_mentions": "منشن‌های من"
+    "lng_message_search_filter_mentions": "منشن‌های من",
+
+    "lng_settings_show_group_sender_online_status": "نمایش وضعیت آنلاین روی آواتارهای فرستندگان گروه",
+    "lng_settings_hide_delete_for_others_checkbox": "مخفی کردن کادر انتخاب «حذف برای دیگران»",
+    "lng_settings_send_comment_after_forwarding": "ارسال نظر پس از فوروارد"
 }

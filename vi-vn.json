@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "Đã chọn {count} loại tin nhắn",
     "lng_message_search_filter_selected#other": "Đã chọn {count} loại tin nhắn",
-    "lng_message_search_filter_mentions": "Đề cập đến tôi"
+    "lng_message_search_filter_mentions": "Đề cập đến tôi",
+
+    "lng_settings_show_group_sender_online_status": "Hiển thị trạng thái trực tuyến trên ảnh đại diện người gửi trong nhóm",
+    "lng_settings_hide_delete_for_others_checkbox": "Ẩn hộp kiểm \"Xóa cho người khác\"",
+    "lng_settings_send_comment_after_forwarding": "Gửi bình luận sau khi chuyển tiếp"
 }

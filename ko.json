@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count}개의 메시지 유형 선택됨",
     "lng_message_search_filter_selected#other": "{count}개의 메시지 유형 선택됨",
-    "lng_message_search_filter_mentions": "나를 언급한 메시지"
+    "lng_message_search_filter_mentions": "나를 언급한 메시지",
+
+    "lng_settings_show_group_sender_online_status": "그룹 내 발신자 아바타에 온라인 상태 표시",
+    "lng_settings_hide_delete_for_others_checkbox": "다른 사람에게도 삭제 체크박스 숨기기",
+    "lng_settings_send_comment_after_forwarding": "전달 후 댓글 보내기"
 }

@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} tipo de mensaje seleccionado",
     "lng_message_search_filter_selected#other": "{count} tipos de mensaje seleccionados",
-    "lng_message_search_filter_mentions": "Menciones a mí"
+    "lng_message_search_filter_mentions": "Menciones a mí",
+
+    "lng_settings_show_group_sender_online_status": "Mostrar el estado en línea en los avatares de los remitentes del grupo",
+    "lng_settings_hide_delete_for_others_checkbox": "Ocultar la casilla «Eliminar para los demás»",
+    "lng_settings_send_comment_after_forwarding": "Enviar un comentario después de reenviar"
 }

@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} тип сообщения выбран",
     "lng_message_search_filter_selected#other": "Выбрано типов сообщений: {count}",
-    "lng_message_search_filter_mentions": "Упоминания обо мне"
+    "lng_message_search_filter_mentions": "Упоминания обо мне",
+
+    "lng_settings_show_group_sender_online_status": "Показывать статус онлайн на аватарах отправителей в группах",
+    "lng_settings_hide_delete_for_others_checkbox": "Скрыть флажок «Удалить для других»",
+    "lng_settings_send_comment_after_forwarding": "Отправлять комментарий после пересылки"
 }

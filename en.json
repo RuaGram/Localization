@@ -149,5 +149,9 @@
 
     "lng_message_search_filter_selected#one": "{count} message type selected",
     "lng_message_search_filter_selected#other": "{count} message types selected",
-    "lng_message_search_filter_mentions": "Mentions of me"
+    "lng_message_search_filter_mentions": "Mentions of me",
+
+    "lng_settings_show_group_sender_online_status": "Show online status on group sender avatars",
+    "lng_settings_hide_delete_for_others_checkbox": "Hide delete for others checkbox",
+    "lng_settings_send_comment_after_forwarding": "Send comment after forwarding"
 }

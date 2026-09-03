@@ -205,5 +205,9 @@
 
     "lng_message_search_filter_selected#one": "已選取 {count} 種訊息類型",
     "lng_message_search_filter_selected#other": "已選取 {count} 種訊息類型",
-    "lng_message_search_filter_mentions": "提及我"
+    "lng_message_search_filter_mentions": "提及我",
+
+    "lng_settings_show_group_sender_online_status": "在群組中的發送者頭像上顯示在線狀態",
+    "lng_settings_hide_delete_for_others_checkbox": "隱藏「為其他人刪除」核取方塊",
+    "lng_settings_send_comment_after_forwarding": "轉發後發送評論"
 }

@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} type de message sélectionné",
     "lng_message_search_filter_selected#other": "{count} types de messages sélectionnés",
-    "lng_message_search_filter_mentions": "Mes mentions"
+    "lng_message_search_filter_mentions": "Mes mentions",
+
+    "lng_settings_show_group_sender_online_status": "Afficher le statut en ligne sur les avatars des expéditeurs dans les groupes",
+    "lng_settings_hide_delete_for_others_checkbox": "Masquer la case « Supprimer pour les autres »",
+    "lng_settings_send_comment_after_forwarding": "Envoyer un commentaire après le transfert"
 }

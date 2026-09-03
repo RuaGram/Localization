@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} вибраний тип повідомлення",
     "lng_message_search_filter_selected#other": "Вибрано типів повідомлень: {count}",
-    "lng_message_search_filter_mentions": "Згадки про мене"
+    "lng_message_search_filter_mentions": "Згадки про мене",
+
+    "lng_settings_show_group_sender_online_status": "Показувати статус онлайн на аватарах відправників у групах",
+    "lng_settings_hide_delete_for_others_checkbox": "Приховати прапорець «Видалити для інших»",
+    "lng_settings_send_comment_after_forwarding": "Надсилати коментар після пересилання"
 }

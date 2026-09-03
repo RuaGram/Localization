@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} mesaj türü seçildi",
     "lng_message_search_filter_selected#other": "{count} mesaj türü seçildi",
-    "lng_message_search_filter_mentions": "Benden bahsedilenler"
+    "lng_message_search_filter_mentions": "Benden bahsedilenler",
+
+    "lng_settings_show_group_sender_online_status": "Grup mesajı gönderenlerin avatarlarında çevrimiçi durumunu göster",
+    "lng_settings_hide_delete_for_others_checkbox": "\"Diğerleri için sil\" onay kutusunu gizle",
+    "lng_settings_send_comment_after_forwarding": "İlettikten sonra yorum gönder"
 }

@@ -179,5 +179,9 @@
 
     "lng_message_search_filter_selected#one": "{count} επιλεγμένος τύπος μηνύματος",
     "lng_message_search_filter_selected#other": "{count} επιλεγμένοι τύποι μηνυμάτων",
-    "lng_message_search_filter_mentions": "Αναφορές σε εμένα"
+    "lng_message_search_filter_mentions": "Αναφορές σε εμένα",
+
+    "lng_settings_show_group_sender_online_status": "Εμφάνιση της κατάστασης σύνδεσης στα άβαταρ των αποστολέων σε ομάδες",
+    "lng_settings_hide_delete_for_others_checkbox": "Απόκρυψη του πλαισίου επιλογής «διαγραφή για άλλους»",
+    "lng_settings_send_comment_after_forwarding": "Αποστολή σχολίου μετά την προώθηση"
 }
