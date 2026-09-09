@@ -11,7 +11,7 @@
     "lng_settings_show_repeater_option": "Mostra opzioni di inoltro",
     "lng_settings_show_phone_number": "Mostra il mio numero",
     "lng_settings_repeater_reply_to_orig_msg": "Copia rispondendo al messaggio",
-    "lng_settings_disable_cloud_draft_sync": "Non sincronizzare le bozze",
+    "lng_settings_disable_cloud_draft_sync": "Disabilita la sincronizzazione delle bozze dal cloud",
     "lng_settings_hide_classic_forward": "Nascondi l'inoltro classico",
     "lng_settings_show_scheduled_button": "Mostra sempre il pulsante programmati",
     "lng_settings_voice_chat": "Chat video",

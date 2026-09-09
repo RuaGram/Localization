@@ -11,7 +11,7 @@
     "lng_settings_show_repeater_option": "Mostrar opción de repetición",
     "lng_settings_show_phone_number": "Mostrar número de tel.",
     "lng_settings_repeater_reply_to_orig_msg": "Responder al mensaje original",
-    "lng_settings_disable_cloud_draft_sync": "No sincronizar los borradores con la nube",
+    "lng_settings_disable_cloud_draft_sync": "Desactivar la sincronización de borradores desde la nube",
     "lng_settings_hide_classic_forward": "Ocultar reenvío clásico",
     "lng_settings_show_scheduled_button": "Mostrar siempre el botón programado",
     "lng_settings_voice_chat": "Chat de Voz",

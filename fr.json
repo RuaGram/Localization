@@ -11,7 +11,7 @@
     "lng_settings_show_repeater_option": "Afficher l'option répéteur",
     "lng_settings_show_phone_number": "Montrer le numéro de téléphone",
     "lng_settings_repeater_reply_to_orig_msg": "Répondre au message original",
-    "lng_settings_disable_cloud_draft_sync": "Arrêt de la synchronisation des brouillons depuis le cloud",
+    "lng_settings_disable_cloud_draft_sync": "Désactiver la synchronisation des brouillons depuis le cloud",
     "lng_settings_hide_classic_forward": "Masquer le transfert classique",
     "lng_settings_show_scheduled_button": "Toujours afficher le bouton programmé",
     "lng_settings_voice_chat": "Chat vocal",

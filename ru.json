@@ -11,7 +11,7 @@
     "lng_settings_show_repeater_option": "«Повторить» в контекстном меню",
     "lng_settings_show_phone_number": "Отображать номер телефона",
     "lng_settings_repeater_reply_to_orig_msg": "Ответить на исходное сообщение",
-    "lng_settings_disable_cloud_draft_sync": "Отключить синхронизацию черновиков",
+    "lng_settings_disable_cloud_draft_sync": "Отключить синхронизацию черновиков из облака",
     "lng_settings_hide_classic_forward": "Скрыть классическую пересылку",
     "lng_settings_show_scheduled_button": "Всегда отображать кнопку запланированных сообщений",
     "lng_settings_voice_chat": "Голосовой чат",
