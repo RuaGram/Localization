@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Mensaje de usuario bloqueado]\n",
 
+    "lng_contact_is_mutual": "Este contacto es un contacto en común.",
+    "lng_settings_use_gt_api": "Usar el Traductor de Google",
+
     "lng_settings_extra_context_menu_options": "Opciones adicionales del menú contextual",
     "lng_context_hide_message": "Ocultar",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Mostrar el estado en línea en los avatares de los remitentes del grupo",
     "lng_settings_hide_delete_for_others_checkbox": "Ocultar la casilla «Eliminar para los demás»",
-    "lng_settings_send_comment_after_forwarding": "Enviar un comentario después de reenviar"
+    "lng_settings_send_comment_after_forwarding": "Enviar un comentario después de reenviar",
+
+    "lng_settings_shared_value_applied": "Se ha aplicado el ajuste mejorado.",
+    "lng_settings_restart_to_apply": "Reinicia la aplicación para que este cambio surta efecto.",
+    "lng_chat_enhanced_reset": "Restablecer valores predeterminados",
+    "lng_chat_enhanced_reset_sure": "¿Restablecer todos los ajustes mejorados de este chat a los valores predeterminados?",
+    "lng_chat_enhanced_reset_done": "Se han restablecido los ajustes mejorados de este chat.",
+    "lng_settings_enhanced_import": "Importar",
+    "lng_settings_enhanced_export_done": "El código de ajustes mejorados se ha copiado al portapapeles.",
+    "lng_settings_enhanced_import_invalid": "El portapapeles no contiene un código de ajustes mejorados válido.",
+    "lng_settings_enhanced_import_unsupported": "El código de ajustes mejorados es válido, pero su formato de datos no es compatible.",
+    "lng_settings_enhanced_import_done": "Se han importado los ajustes mejorados desde el código del portapapeles.",
+    "lng_settings_share_current_setting": "Compartir ajuste actual",
+    "lng_settings_apply_shared_value_title": "¿Importar ajuste mejorado?",
+    "lng_settings_apply_shared_value": "Este enlace sobrescribirá el valor actual de esta opción mejorada: \n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "¿Importar este ajuste mejorado para {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Sustituciones de dominio de la vista previa de enlaces",
+    "lng_link_preview_rules_about": "Reglas personalizadas para sustituir el dominio de las vistas previas de enlaces. Las expresiones regulares coinciden en cualquier parte de la URL; solo se sustituye el dominio.",
+    "lng_link_preview_rules_empty": "Aún no hay reglas.",
+    "lng_link_preview_rule_add": "Añadir regla",
+    "lng_link_preview_rule_edit": "Editar regla",
+    "lng_link_preview_rule_pattern": "Regex de URL",
+    "lng_link_preview_rule_domain": "Dominio",
+    "lng_settings_disable_sync_draft_to_cloud": "Dejar de sincronizar los borradores locales con la nube",
+
+    "lng_tg_nya_toast": "Miau >⩊<"
 }

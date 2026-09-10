@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Engellenen Kullanıcı Mesajı]\n",
 
+    "lng_contact_is_mutual": "Bu kişi ortak bir kişidir.",
+    "lng_settings_use_gt_api": "Google Çeviri'yi kullan",
+
     "lng_settings_extra_context_menu_options": "Ek bağlam menüsü seçenekleri",
     "lng_context_hide_message": "Gizle",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Grup mesajı gönderenlerin avatarlarında çevrimiçi durumunu göster",
     "lng_settings_hide_delete_for_others_checkbox": "\"Diğerleri için sil\" onay kutusunu gizle",
-    "lng_settings_send_comment_after_forwarding": "İlettikten sonra yorum gönder"
+    "lng_settings_send_comment_after_forwarding": "İlettikten sonra yorum gönder",
+
+    "lng_settings_shared_value_applied": "Gelişmiş ayar uygulandı.",
+    "lng_settings_restart_to_apply": "Bu değişikliğin etkili olması için uygulamayı yeniden başlatın.",
+    "lng_chat_enhanced_reset": "Varsayılana sıfırla",
+    "lng_chat_enhanced_reset_sure": "Bu sohbet için tüm gelişmiş ayarlar varsayılana sıfırlansın mı?",
+    "lng_chat_enhanced_reset_done": "Bu sohbetin gelişmiş ayarları sıfırlandı.",
+    "lng_settings_enhanced_import": "İçe aktar",
+    "lng_settings_enhanced_export_done": "Gelişmiş ayar kodu panoya kopyalandı.",
+    "lng_settings_enhanced_import_invalid": "Pano geçerli bir gelişmiş ayar kodu içermiyor.",
+    "lng_settings_enhanced_import_unsupported": "Gelişmiş ayar kodu geçerli, ancak veri biçimi desteklenmiyor.",
+    "lng_settings_enhanced_import_done": "Gelişmiş ayarlar panodaki koddan içe aktarıldı.",
+    "lng_settings_share_current_setting": "Mevcut ayarı paylaş",
+    "lng_settings_apply_shared_value_title": "Gelişmiş ayar içe aktarılsın mı?",
+    "lng_settings_apply_shared_value": "Bu bağlantı, bu gelişmiş seçeneğin mevcut değerinin üzerine yazacak:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "{chat} için bu gelişmiş ayar içe aktarılsın mı?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Bağlantı önizlemesi alan adı değiştirmeleri",
+    "lng_link_preview_rules_about": "Bağlantı önizlemelerindeki alan adını değiştirmek için özel kurallar. Normal ifadeler URL'nin herhangi bir yerinde eşleşir; yalnızca alan adı değiştirilir.",
+    "lng_link_preview_rules_empty": "Henüz kural yok.",
+    "lng_link_preview_rule_add": "Kural Ekle",
+    "lng_link_preview_rule_edit": "Kuralı Düzenle",
+    "lng_link_preview_rule_pattern": "URL Normal İfadesi",
+    "lng_link_preview_rule_domain": "Alan adı",
+    "lng_settings_disable_sync_draft_to_cloud": "Yerel taslakları bulutla eşitlemeyi durdur",
+
+    "lng_tg_nya_toast": "Miyav >⩊<"
 }

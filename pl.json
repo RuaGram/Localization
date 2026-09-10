@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Wiadomość od zablokowanego użytkownika]\n",
 
+    "lng_contact_is_mutual": "Ten kontakt jest wspólnym kontaktem.",
+    "lng_settings_use_gt_api": "Używaj Tłumacza Google",
+
     "lng_settings_extra_context_menu_options": "Dodatkowe opcje menu kontekstowego",
     "lng_context_hide_message": "Ukryj",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Pokaż status online na awatarach nadawców w grupach",
     "lng_settings_hide_delete_for_others_checkbox": "Ukryj pole wyboru „Usuń dla innych”",
-    "lng_settings_send_comment_after_forwarding": "Wyślij komentarz po przekazaniu"
+    "lng_settings_send_comment_after_forwarding": "Wyślij komentarz po przekazaniu",
+
+    "lng_settings_shared_value_applied": "Zastosowano rozszerzone ustawienie.",
+    "lng_settings_restart_to_apply": "Uruchom ponownie aplikację, aby ta zmiana zaczęła obowiązywać.",
+    "lng_chat_enhanced_reset": "Przywróć domyślne",
+    "lng_chat_enhanced_reset_sure": "Przywrócić wszystkie rozszerzone ustawienia tego czatu do wartości domyślnych?",
+    "lng_chat_enhanced_reset_done": "Przywrócono rozszerzone ustawienia tego czatu.",
+    "lng_settings_enhanced_import": "Importuj",
+    "lng_settings_enhanced_export_done": "Kod rozszerzonych ustawień skopiowano do schowka.",
+    "lng_settings_enhanced_import_invalid": "Schowek nie zawiera prawidłowego kodu rozszerzonych ustawień.",
+    "lng_settings_enhanced_import_unsupported": "Kod rozszerzonych ustawień jest prawidłowy, ale jego format danych nie jest obsługiwany.",
+    "lng_settings_enhanced_import_done": "Zaimportowano rozszerzone ustawienia z kodu w schowku.",
+    "lng_settings_share_current_setting": "Udostępnij bieżące ustawienie",
+    "lng_settings_apply_shared_value_title": "Importować rozszerzone ustawienie?",
+    "lng_settings_apply_shared_value": "Ten link zastąpi bieżącą wartość tej rozszerzonej opcji:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Importować to rozszerzone ustawienie dla {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Zamiana domen w podglądzie linków",
+    "lng_link_preview_rules_about": "Niestandardowe reguły zastępowania domen w podglądach linków. Wyrażenia regularne dopasowują dowolne miejsce w adresie URL, zastępowana jest tylko domena.",
+    "lng_link_preview_rules_empty": "Brak reguł.",
+    "lng_link_preview_rule_add": "Dodaj regułę",
+    "lng_link_preview_rule_edit": "Edytuj regułę",
+    "lng_link_preview_rule_pattern": "Wyrażenie regularne URL",
+    "lng_link_preview_rule_domain": "Domena",
+    "lng_settings_disable_sync_draft_to_cloud": "Zatrzymaj synchronizację lokalnych wersji roboczych z chmurą",
+
+    "lng_tg_nya_toast": "Miau >⩊<"
 }

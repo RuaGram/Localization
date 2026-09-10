@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[차단된 유저 메시지]\n",
 
+    "lng_contact_is_mutual": "이 연락처는 서로의 연락처입니다.",
+    "lng_settings_use_gt_api": "Google 번역 사용",
+
     "lng_settings_extra_context_menu_options": "추가 컨텍스트 메뉴 옵션",
     "lng_context_hide_message": "숨기기",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "그룹 내 발신자 아바타에 온라인 상태 표시",
     "lng_settings_hide_delete_for_others_checkbox": "다른 사람에게도 삭제 체크박스 숨기기",
-    "lng_settings_send_comment_after_forwarding": "전달 후 댓글 보내기"
+    "lng_settings_send_comment_after_forwarding": "전달 후 댓글 보내기",
+
+    "lng_settings_shared_value_applied": "고급 설정이 적용되었습니다.",
+    "lng_settings_restart_to_apply": "변경 사항을 적용하려면 앱을 다시 시작하세요.",
+    "lng_chat_enhanced_reset": "기본값으로 재설정",
+    "lng_chat_enhanced_reset_sure": "이 대화방의 모든 고급 설정을 기본값으로 재설정하시겠습니까?",
+    "lng_chat_enhanced_reset_done": "이 대화방의 고급 설정이 재설정되었습니다.",
+    "lng_settings_enhanced_import": "가져오기",
+    "lng_settings_enhanced_export_done": "고급 설정 코드가 클립보드에 복사되었습니다.",
+    "lng_settings_enhanced_import_invalid": "클립보드에 유효한 고급 설정 코드가 없습니다.",
+    "lng_settings_enhanced_import_unsupported": "고급 설정 코드는 유효하지만 데이터 형식을 지원하지 않습니다.",
+    "lng_settings_enhanced_import_done": "클립보드의 코드에서 고급 설정을 가져왔습니다.",
+    "lng_settings_share_current_setting": "현재 설정 공유",
+    "lng_settings_apply_shared_value_title": "고급 설정을 가져오시겠습니까?",
+    "lng_settings_apply_shared_value": "이 링크는 이 고급 옵션의 현재 값을 덮어씁니다:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "{chat}에 이 고급 설정을 가져오시겠습니까?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "링크 미리보기 도메인 대체",
+    "lng_link_preview_rules_about": "링크 미리보기의 도메인을 대체하는 사용자 지정 규칙입니다. 정규 표현식은 URL의 모든 위치와 일치하며 도메인만 대체됩니다.",
+    "lng_link_preview_rules_empty": "아직 규칙이 없습니다.",
+    "lng_link_preview_rule_add": "규칙 추가",
+    "lng_link_preview_rule_edit": "규칙 편집",
+    "lng_link_preview_rule_pattern": "URL 정규식",
+    "lng_link_preview_rule_domain": "도메인",
+    "lng_settings_disable_sync_draft_to_cloud": "로컬 초안 클라우드 동기화 중지",
+
+    "lng_tg_nya_toast": "야옹 >⩊<"
 }

@@ -208,5 +208,30 @@
 
     "lng_settings_show_group_sender_online_status": "在群聊中的发送者头像上显示在线状态",
     "lng_settings_hide_delete_for_others_checkbox": "隐藏「同时为...删除」复选框",
-    "lng_settings_send_comment_after_forwarding": "在转发后发送评论消息"
+    "lng_settings_send_comment_after_forwarding": "在转发后发送评论消息",
+
+    "lng_settings_shared_value_applied": "增强设置已应用",
+    "lng_settings_restart_to_apply": "需要重启应用才能使该设置生效。",
+    "lng_chat_enhanced_reset": "重置为默认",
+    "lng_chat_enhanced_reset_sure": "重置此聊天的所有增强设置为默认？",
+    "lng_chat_enhanced_reset_done": "此聊天的所有增强设置已重置",
+    "lng_settings_enhanced_import": "导入",
+    "lng_settings_enhanced_export_done": "增强设置代码已复制到剪切板",
+    "lng_settings_enhanced_import_invalid": "未从剪切板中找到有效增强设置代码",
+    "lng_settings_enhanced_import_unsupported": "剪切板中的设置代码格式不正确",
+    "lng_settings_enhanced_import_done": "已从剪切板中导入增强设置",
+    "lng_settings_share_current_setting": "分享当前设置",
+    "lng_settings_apply_shared_value_title": "导入增强设置？",
+    "lng_settings_apply_shared_value": "此链接将覆盖以下增强设置的设定值：\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "为聊天 {chat} 导入此项增强设置？\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "链接预览域名替换",
+    "lng_link_preview_rules_about": "用于替换链接预览中域名的自定义规则。正则表达式将匹配链接中的任意位置, 链接中的域名会被替换。",
+    "lng_link_preview_rules_empty": "暂无规则",
+    "lng_link_preview_rule_add": "添加规则",
+    "lng_link_preview_rule_edit": "编辑规则",
+    "lng_link_preview_rule_pattern": "正则表达式",
+    "lng_link_preview_rule_domain": "域名",
+    "lng_settings_disable_sync_draft_to_cloud": "禁止将本地草稿同步到云端",
+
+    "lng_tg_nya_toast": "喵呜 >⩊<"
 }

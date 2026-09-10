@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Pesan Pengguna yang Diblokir]",
 
+    "lng_contact_is_mutual": "Kontak ini adalah kontak bersama.",
+    "lng_settings_use_gt_api": "Gunakan Google Terjemahan",
+
     "lng_settings_extra_context_menu_options": "Opsi menu konteks tambahan",
     "lng_context_hide_message": "Sembunyikan",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Tampilkan status online pada avatar pengirim di grup",
     "lng_settings_hide_delete_for_others_checkbox": "Sembunyikan kotak centang \"Hapus untuk orang lain\"",
-    "lng_settings_send_comment_after_forwarding": "Kirim komentar setelah meneruskan"
+    "lng_settings_send_comment_after_forwarding": "Kirim komentar setelah meneruskan",
+
+    "lng_settings_shared_value_applied": "Pengaturan yang ditingkatkan diterapkan.",
+    "lng_settings_restart_to_apply": "Mulai ulang aplikasi agar perubahan ini diterapkan.",
+    "lng_chat_enhanced_reset": "Atur Ulang ke Bawaan",
+    "lng_chat_enhanced_reset_sure": "Atur ulang semua pengaturan yang ditingkatkan untuk obrolan ini ke bawaan?",
+    "lng_chat_enhanced_reset_done": "Pengaturan yang ditingkatkan untuk obrolan ini telah diatur ulang.",
+    "lng_settings_enhanced_import": "Impor",
+    "lng_settings_enhanced_export_done": "Kode pengaturan yang ditingkatkan disalin ke papan klip.",
+    "lng_settings_enhanced_import_invalid": "Papan klip tidak berisi kode pengaturan yang ditingkatkan yang valid.",
+    "lng_settings_enhanced_import_unsupported": "Kode pengaturan yang ditingkatkan valid, tetapi format datanya tidak didukung.",
+    "lng_settings_enhanced_import_done": "Pengaturan yang ditingkatkan diimpor dari kode di papan klip.",
+    "lng_settings_share_current_setting": "Bagikan pengaturan saat ini",
+    "lng_settings_apply_shared_value_title": "Impor pengaturan yang ditingkatkan?",
+    "lng_settings_apply_shared_value": "Tautan ini akan menimpa nilai saat ini dari opsi yang ditingkatkan ini:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Impor pengaturan yang ditingkatkan ini untuk {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Penggantian domain pratinjau tautan",
+    "lng_link_preview_rules_about": "Aturan khusus untuk mengganti domain pratinjau tautan. Ekspresi reguler cocok di mana saja dalam URL, tetapi hanya domain yang diganti.",
+    "lng_link_preview_rules_empty": "Belum ada aturan.",
+    "lng_link_preview_rule_add": "Tambah Aturan",
+    "lng_link_preview_rule_edit": "Edit Aturan",
+    "lng_link_preview_rule_pattern": "Regex URL",
+    "lng_link_preview_rule_domain": "Domain",
+    "lng_settings_disable_sync_draft_to_cloud": "Hentikan sinkronisasi draf lokal ke awan",
+
+    "lng_tg_nya_toast": "Meong >⩊<"
 }

@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[پیام کاربر مسدودشده]\n",
 
+    "lng_contact_is_mutual": "این مخاطب، مخاطب مشترک شماست.",
+    "lng_settings_use_gt_api": "استفاده از ترجمهٔ گوگل",
+
     "lng_settings_extra_context_menu_options": "گزینه‌های اضافی منوی زمینه",
     "lng_context_hide_message": "مخفی کردن",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "نمایش وضعیت آنلاین روی آواتارهای فرستندگان گروه",
     "lng_settings_hide_delete_for_others_checkbox": "مخفی کردن کادر انتخاب «حذف برای دیگران»",
-    "lng_settings_send_comment_after_forwarding": "ارسال نظر پس از فوروارد"
+    "lng_settings_send_comment_after_forwarding": "ارسال نظر پس از فوروارد",
+
+    "lng_settings_shared_value_applied": "تنظیم پیشرفته اعمال شد.",
+    "lng_settings_restart_to_apply": "برای اعمال این تغییر، برنامه را دوباره راه‌اندازی کنید.",
+    "lng_chat_enhanced_reset": "بازنشانی به پیش‌فرض",
+    "lng_chat_enhanced_reset_sure": "همهٔ تنظیمات پیشرفتهٔ این گفتگو به حالت پیش‌فرض بازنشانی شوند؟",
+    "lng_chat_enhanced_reset_done": "تنظیمات پیشرفتهٔ این گفتگو بازنشانی شدند.",
+    "lng_settings_enhanced_import": "وارد کردن",
+    "lng_settings_enhanced_export_done": "کد تنظیمات پیشرفته در کلیپ‌بورد کپی شد.",
+    "lng_settings_enhanced_import_invalid": "کلیپ‌بورد حاوی کد معتبر تنظیمات پیشرفته نیست.",
+    "lng_settings_enhanced_import_unsupported": "کد تنظیمات پیشرفته معتبر است، اما قالب دادهٔ آن پشتیبانی نمی‌شود.",
+    "lng_settings_enhanced_import_done": "تنظیمات پیشرفته از کد موجود در کلیپ‌بورد وارد شد.",
+    "lng_settings_share_current_setting": "اشتراک‌گذاری تنظیم فعلی",
+    "lng_settings_apply_shared_value_title": "تنظیم پیشرفته وارد شود؟",
+    "lng_settings_apply_shared_value": "این پیوند مقدار فعلی این گزینهٔ پیشرفته را بازنویسی می‌کند:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "این تنظیم پیشرفته برای {chat} وارد شود؟\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "جایگزینی دامنهٔ پیش‌نمایش پیوند",
+    "lng_link_preview_rules_about": "قوانین سفارشی برای جایگزینی دامنهٔ پیش‌نمایش پیوندها. عبارت‌های منظم در هر جای URL تطبیق داده می‌شوند و فقط دامنه جایگزین می‌شود.",
+    "lng_link_preview_rules_empty": "هنوز قانونی وجود ندارد.",
+    "lng_link_preview_rule_add": "افزودن قانون",
+    "lng_link_preview_rule_edit": "ویرایش قانون",
+    "lng_link_preview_rule_pattern": "عبارت منظم URL",
+    "lng_link_preview_rule_domain": "دامنه",
+    "lng_settings_disable_sync_draft_to_cloud": "توقف همگام‌سازی پیش‌نویس‌های محلی با ابر",
+
+    "lng_tg_nya_toast": "میو >⩊<"
 }

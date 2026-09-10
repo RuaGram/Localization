@@ -209,5 +209,30 @@
 
     "lng_settings_show_group_sender_online_status": "在群組中的發送者頭像上顯示在線狀態",
     "lng_settings_hide_delete_for_others_checkbox": "隱藏「為其他人刪除」核取方塊",
-    "lng_settings_send_comment_after_forwarding": "轉發後發送評論"
+    "lng_settings_send_comment_after_forwarding": "轉發後發送評論",
+
+    "lng_settings_shared_value_applied": "增強設定已套用。",
+    "lng_settings_restart_to_apply": "重新啟動應用程式以套用此變更。",
+    "lng_chat_enhanced_reset": "重設為預設值",
+    "lng_chat_enhanced_reset_sure": "確定要將此聊天的所有增強設定重設為預設值？",
+    "lng_chat_enhanced_reset_done": "此聊天的增強設定已重設。",
+    "lng_settings_enhanced_import": "匯入",
+    "lng_settings_enhanced_export_done": "增強設定代碼已複製到剪貼簿。",
+    "lng_settings_enhanced_import_invalid": "剪貼簿中不包含有效的增強設定代碼。",
+    "lng_settings_enhanced_import_unsupported": "增強設定代碼有效，但不支援其資料格式。",
+    "lng_settings_enhanced_import_done": "已從剪貼簿中的代碼匯入增強設定。",
+    "lng_settings_share_current_setting": "分享目前設定",
+    "lng_settings_apply_shared_value_title": "匯入增強設定？",
+    "lng_settings_apply_shared_value": "此連結將覆蓋此增強選項的目前值：\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "為 {chat} 匯入此項增強設定？\n\n{option}：{value}",
+    "lng_link_preview_rules_title": "連結預覽網域替換",
+    "lng_link_preview_rules_about": "用於替換連結預覽網域的自訂規則。正則表達式會匹配 URL 中的任何位置，但只會替換網域。",
+    "lng_link_preview_rules_empty": "尚無規則。",
+    "lng_link_preview_rule_add": "新增規則",
+    "lng_link_preview_rule_edit": "編輯規則",
+    "lng_link_preview_rule_pattern": "URL 正則表達式",
+    "lng_link_preview_rule_domain": "網域",
+    "lng_settings_disable_sync_draft_to_cloud": "停止將本機草稿同步到雲端",
+
+    "lng_tg_nya_toast": "喵 >⩊<"
 }

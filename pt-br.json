@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Mensagem Bloqueada]\n",
 
+    "lng_contact_is_mutual": "Este contato é um contato mútuo.",
+    "lng_settings_use_gt_api": "Usar o Google Tradutor",
+
     "lng_settings_extra_context_menu_options": "Opções extras do menu de contexto",
     "lng_context_hide_message": "Esconder",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Mostrar o status online nos avatares dos remetentes em grupos",
     "lng_settings_hide_delete_for_others_checkbox": "Ocultar a caixa de seleção \"Apagar para outros\"",
-    "lng_settings_send_comment_after_forwarding": "Enviar comentário após encaminhar"
+    "lng_settings_send_comment_after_forwarding": "Enviar comentário após encaminhar",
+
+    "lng_settings_shared_value_applied": "Configuração aprimorada aplicada.",
+    "lng_settings_restart_to_apply": "Reinicie o aplicativo para que esta alteração entre em vigor.",
+    "lng_chat_enhanced_reset": "Redefinir para o padrão",
+    "lng_chat_enhanced_reset_sure": "Redefinir todas as configurações aprimoradas deste chat para o padrão?",
+    "lng_chat_enhanced_reset_done": "As configurações aprimoradas deste chat foram redefinidas.",
+    "lng_settings_enhanced_import": "Importar",
+    "lng_settings_enhanced_export_done": "O código de configurações aprimoradas foi copiado para a área de transferência.",
+    "lng_settings_enhanced_import_invalid": "A área de transferência não contém um código de configurações aprimoradas válido.",
+    "lng_settings_enhanced_import_unsupported": "O código de configurações aprimoradas é válido, mas o formato dos dados não é compatível.",
+    "lng_settings_enhanced_import_done": "Configurações aprimoradas importadas do código na área de transferência.",
+    "lng_settings_share_current_setting": "Compartilhar configuração atual",
+    "lng_settings_apply_shared_value_title": "Importar configuração aprimorada?",
+    "lng_settings_apply_shared_value": "Este link substituirá o valor atual desta opção aprimorada:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Importar esta configuração aprimorada para {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Substituições de domínio da visualização de links",
+    "lng_link_preview_rules_about": "Regras personalizadas para substituir o domínio das visualizações de links. As expressões regulares correspondem a qualquer parte da URL; somente o domínio é substituído.",
+    "lng_link_preview_rules_empty": "Nenhuma regra ainda.",
+    "lng_link_preview_rule_add": "Adicionar regra",
+    "lng_link_preview_rule_edit": "Editar regra",
+    "lng_link_preview_rule_pattern": "Regex da URL",
+    "lng_link_preview_rule_domain": "Domínio",
+    "lng_settings_disable_sync_draft_to_cloud": "Parar de sincronizar rascunhos locais com a nuvem",
+
+    "lng_tg_nya_toast": "Miau >⩊<"
 }

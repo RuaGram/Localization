@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Tin nhắn của người dùng bị chặn]\n",
 
+    "lng_contact_is_mutual": "Liên hệ này là liên hệ chung.",
+    "lng_settings_use_gt_api": "Sử dụng Google Dịch",
+
     "lng_settings_extra_context_menu_options": "Tùy chọn menu ngữ cảnh bổ sung",
     "lng_context_hide_message": "Ẩn",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Hiển thị trạng thái trực tuyến trên ảnh đại diện người gửi trong nhóm",
     "lng_settings_hide_delete_for_others_checkbox": "Ẩn hộp kiểm \"Xóa cho người khác\"",
-    "lng_settings_send_comment_after_forwarding": "Gửi bình luận sau khi chuyển tiếp"
+    "lng_settings_send_comment_after_forwarding": "Gửi bình luận sau khi chuyển tiếp",
+
+    "lng_settings_shared_value_applied": "Đã áp dụng cài đặt nâng cao.",
+    "lng_settings_restart_to_apply": "Khởi động lại ứng dụng để thay đổi này có hiệu lực.",
+    "lng_chat_enhanced_reset": "Đặt lại về mặc định",
+    "lng_chat_enhanced_reset_sure": "Đặt lại tất cả cài đặt nâng cao của cuộc trò chuyện này về mặc định?",
+    "lng_chat_enhanced_reset_done": "Đã đặt lại cài đặt nâng cao của cuộc trò chuyện này.",
+    "lng_settings_enhanced_import": "Nhập",
+    "lng_settings_enhanced_export_done": "Đã sao chép mã cài đặt nâng cao vào bộ nhớ tạm.",
+    "lng_settings_enhanced_import_invalid": "Bộ nhớ tạm không chứa mã cài đặt nâng cao hợp lệ.",
+    "lng_settings_enhanced_import_unsupported": "Mã cài đặt nâng cao hợp lệ nhưng định dạng dữ liệu không được hỗ trợ.",
+    "lng_settings_enhanced_import_done": "Đã nhập cài đặt nâng cao từ mã trong bộ nhớ tạm.",
+    "lng_settings_share_current_setting": "Chia sẻ cài đặt hiện tại",
+    "lng_settings_apply_shared_value_title": "Nhập cài đặt nâng cao?",
+    "lng_settings_apply_shared_value": "Liên kết này sẽ ghi đè giá trị hiện tại của tùy chọn nâng cao này:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Nhập cài đặt nâng cao này cho {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Thay thế tên miền trong bản xem trước liên kết",
+    "lng_link_preview_rules_about": "Quy tắc tùy chỉnh để thay thế tên miền của bản xem trước liên kết. Biểu thức chính quy khớp ở bất kỳ vị trí nào trong URL, chỉ tên miền được thay thế.",
+    "lng_link_preview_rules_empty": "Chưa có quy tắc nào.",
+    "lng_link_preview_rule_add": "Thêm quy tắc",
+    "lng_link_preview_rule_edit": "Chỉnh sửa quy tắc",
+    "lng_link_preview_rule_pattern": "Regex URL",
+    "lng_link_preview_rule_domain": "Tên miền",
+    "lng_settings_disable_sync_draft_to_cloud": "Dừng đồng bộ bản nháp cục bộ lên đám mây",
+
+    "lng_tg_nya_toast": "Meo >⩊<"
 }

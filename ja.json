@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[ブロック中ユーザーのメッセージ]\n",
 
+    "lng_contact_is_mutual": "この連絡先は共通の連絡先です。",
+    "lng_settings_use_gt_api": "Google 翻訳を使用",
+
     "lng_settings_extra_context_menu_options": "コンテキストメニューの追加オプション",
     "lng_context_hide_message": "非表示",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "グループ内の送信者のアバターにオンライン状態を表示",
     "lng_settings_hide_delete_for_others_checkbox": "「他のユーザーにも削除」チェックボックスを非表示",
-    "lng_settings_send_comment_after_forwarding": "転送後にコメントを送信"
+    "lng_settings_send_comment_after_forwarding": "転送後にコメントを送信",
+
+    "lng_settings_shared_value_applied": "高度な設定を適用しました。",
+    "lng_settings_restart_to_apply": "この変更を有効にするにはアプリを再起動してください。",
+    "lng_chat_enhanced_reset": "デフォルトに戻す",
+    "lng_chat_enhanced_reset_sure": "このチャットのすべての高度な設定をデフォルトに戻しますか？",
+    "lng_chat_enhanced_reset_done": "このチャットの高度な設定をリセットしました。",
+    "lng_settings_enhanced_import": "インポート",
+    "lng_settings_enhanced_export_done": "高度な設定コードをクリップボードにコピーしました。",
+    "lng_settings_enhanced_import_invalid": "クリップボードに有効な高度な設定コードがありません。",
+    "lng_settings_enhanced_import_unsupported": "高度な設定コードは有効ですが、データ形式には対応していません。",
+    "lng_settings_enhanced_import_done": "クリップボードのコードから高度な設定をインポートしました。",
+    "lng_settings_share_current_setting": "現在の設定を共有",
+    "lng_settings_apply_shared_value_title": "高度な設定をインポートしますか？",
+    "lng_settings_apply_shared_value": "このリンクは、この高度なオプションの現在の値を上書きします：\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "{chat} にこの高度な設定をインポートしますか？\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "リンクプレビューのドメイン置換",
+    "lng_link_preview_rules_about": "リンクプレビューのドメインを置換するカスタムルール。正規表現は URL 内のどこにでも一致し、ドメインのみが置換されます。",
+    "lng_link_preview_rules_empty": "ルールはまだありません。",
+    "lng_link_preview_rule_add": "ルールを追加",
+    "lng_link_preview_rule_edit": "ルールを編集",
+    "lng_link_preview_rule_pattern": "URL 正規表現",
+    "lng_link_preview_rule_domain": "ドメイン",
+    "lng_settings_disable_sync_draft_to_cloud": "ローカルの下書きのクラウドへの同期を停止",
+
+    "lng_tg_nya_toast": "ニャー >⩊<"
 }

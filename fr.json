@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Message d'un utilisateur bloqué]\n",
 
+    "lng_contact_is_mutual": "Ce contact est un contact commun.",
+    "lng_settings_use_gt_api": "Utiliser Google Traduction",
+
     "lng_settings_extra_context_menu_options": "Options supplémentaires du menu contextuel",
     "lng_context_hide_message": "Masquer",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Afficher le statut en ligne sur les avatars des expéditeurs dans les groupes",
     "lng_settings_hide_delete_for_others_checkbox": "Masquer la case « Supprimer pour les autres »",
-    "lng_settings_send_comment_after_forwarding": "Envoyer un commentaire après le transfert"
+    "lng_settings_send_comment_after_forwarding": "Envoyer un commentaire après le transfert",
+
+    "lng_settings_shared_value_applied": "Le paramètre avancé a été appliqué.",
+    "lng_settings_restart_to_apply": "Redémarrez l’application pour que cette modification prenne effet.",
+    "lng_chat_enhanced_reset": "Rétablir les valeurs par défaut",
+    "lng_chat_enhanced_reset_sure": "Rétablir tous les paramètres avancés de cette discussion par défaut ?",
+    "lng_chat_enhanced_reset_done": "Les paramètres avancés de cette discussion ont été réinitialisés.",
+    "lng_settings_enhanced_import": "Importer",
+    "lng_settings_enhanced_export_done": "Le code des paramètres avancés a été copié dans le presse-papiers.",
+    "lng_settings_enhanced_import_invalid": "Le presse-papiers ne contient pas de code de paramètres avancés valide.",
+    "lng_settings_enhanced_import_unsupported": "Le code des paramètres avancés est valide, mais son format de données n’est pas pris en charge.",
+    "lng_settings_enhanced_import_done": "Paramètres avancés importés depuis le code du presse-papiers.",
+    "lng_settings_share_current_setting": "Partager le paramètre actuel",
+    "lng_settings_apply_shared_value_title": "Importer le paramètre avancé ?",
+    "lng_settings_apply_shared_value": "Ce lien remplacera la valeur actuelle de cette option avancée :\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Importer ce paramètre avancé pour {chat} ?\n\n{option} : {value}",
+    "lng_link_preview_rules_title": "Remplacements de domaine de l’aperçu des liens",
+    "lng_link_preview_rules_about": "Règles personnalisées pour remplacer le domaine des aperçus de liens. Les expressions régulières correspondent à n’importe quel endroit de l’URL ; seul le domaine est remplacé.",
+    "lng_link_preview_rules_empty": "Aucune règle pour le moment.",
+    "lng_link_preview_rule_add": "Ajouter une règle",
+    "lng_link_preview_rule_edit": "Modifier la règle",
+    "lng_link_preview_rule_pattern": "Regex de l’URL",
+    "lng_link_preview_rule_domain": "Domaine",
+    "lng_settings_disable_sync_draft_to_cloud": "Arrêter la synchronisation des brouillons locaux avec le cloud",
+
+    "lng_tg_nya_toast": "Miaou >⩊<"
 }

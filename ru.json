@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Сообщение заблокированного пользователя]\n",
 
+    "lng_contact_is_mutual": "Этот контакт является общим для вас.",
+    "lng_settings_use_gt_api": "Использовать Google Переводчик",
+
     "lng_settings_extra_context_menu_options": "Дополнительные варианты контекстного меню",
     "lng_context_hide_message": "Скрыть",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Показывать статус онлайн на аватарах отправителей в группах",
     "lng_settings_hide_delete_for_others_checkbox": "Скрыть флажок «Удалить для других»",
-    "lng_settings_send_comment_after_forwarding": "Отправлять комментарий после пересылки"
+    "lng_settings_send_comment_after_forwarding": "Отправлять комментарий после пересылки",
+
+    "lng_settings_shared_value_applied": "Расширенная настройка применена.",
+    "lng_settings_restart_to_apply": "Перезапустите приложение, чтобы это изменение вступило в силу.",
+    "lng_chat_enhanced_reset": "Сбросить по умолчанию",
+    "lng_chat_enhanced_reset_sure": "Сбросить все расширенные настройки для этого чата до значений по умолчанию?",
+    "lng_chat_enhanced_reset_done": "Расширенные настройки этого чата сброшены.",
+    "lng_settings_enhanced_import": "Импортировать",
+    "lng_settings_enhanced_export_done": "Код расширенных настроек скопирован в буфер обмена.",
+    "lng_settings_enhanced_import_invalid": "В буфере обмена нет действительного кода расширенных настроек.",
+    "lng_settings_enhanced_import_unsupported": "Код расширенных настроек действителен, но его формат данных не поддерживается.",
+    "lng_settings_enhanced_import_done": "Расширенные настройки импортированы из кода в буфере обмена.",
+    "lng_settings_share_current_setting": "Поделиться текущей настройкой",
+    "lng_settings_apply_shared_value_title": "Импортировать расширенную настройку?",
+    "lng_settings_apply_shared_value": "Эта ссылка перезапишет текущее значение этой расширенной опции:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Импортировать эту расширенную настройку для {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Замена домена в предпросмотре ссылок",
+    "lng_link_preview_rules_about": "Пользовательские правила для замены домена в предпросмотре ссылок. Регулярные выражения сопоставляются в любом месте URL, заменяется только домен.",
+    "lng_link_preview_rules_empty": "Правил пока нет.",
+    "lng_link_preview_rule_add": "Добавить правило",
+    "lng_link_preview_rule_edit": "Изменить правило",
+    "lng_link_preview_rule_pattern": "Регулярное выражение URL",
+    "lng_link_preview_rule_domain": "Домен",
+    "lng_settings_disable_sync_draft_to_cloud": "Прекратить синхронизацию локальных черновиков с облаком",
+
+    "lng_tg_nya_toast": "Мяу >⩊<"
 }

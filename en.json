@@ -153,5 +153,30 @@
 
     "lng_settings_show_group_sender_online_status": "Show online status on group sender avatars",
     "lng_settings_hide_delete_for_others_checkbox": "Hide delete for others checkbox",
-    "lng_settings_send_comment_after_forwarding": "Send comment after forwarding"
+    "lng_settings_send_comment_after_forwarding": "Send comment after forwarding",
+
+    "lng_settings_shared_value_applied": "Enhanced setting applied.",
+    "lng_settings_restart_to_apply": "Restart the app for this change to take effect.",
+    "lng_chat_enhanced_reset": "Reset to Default",
+    "lng_chat_enhanced_reset_sure": "Reset all enhanced settings for this chat to default?",
+    "lng_chat_enhanced_reset_done": "Enhanced settings for this chat were reset.",
+    "lng_settings_enhanced_import": "Import",
+    "lng_settings_enhanced_export_done": "Enhanced settings code copied to clipboard.",
+    "lng_settings_enhanced_import_invalid": "Clipboard does not contain a valid enhanced settings code.",
+    "lng_settings_enhanced_import_unsupported": "Enhanced settings code is valid, but its data format is not supported.",
+    "lng_settings_enhanced_import_done": "Enhanced settings imported from code in clipboard.",
+    "lng_settings_share_current_setting": "Share current setting",
+    "lng_settings_apply_shared_value_title": "Import enhanced setting?",
+    "lng_settings_apply_shared_value": "This link will overwrite the current value this enhanced option: \n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Import this enhanced setting for {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Link preview domain replacements",
+    "lng_link_preview_rules_about": "Custom rules to replace to the domain of link previews. Regular expressions match anywhere in the URL, only the domain is replaced.",
+    "lng_link_preview_rules_empty": "No rules yet.",
+    "lng_link_preview_rule_add": "Add Rule",
+    "lng_link_preview_rule_edit": "Edit Rule",
+    "lng_link_preview_rule_pattern": "URL Regex",
+    "lng_link_preview_rule_domain": "Domain",
+    "lng_settings_disable_sync_draft_to_cloud": "Stop syncing local drafts to cloud",
+
+    "lng_tg_nya_toast": "Meow >⩊<"
 }

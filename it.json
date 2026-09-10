@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Messaggio dell'utente bloccato]\n",
 
+    "lng_contact_is_mutual": "Questo contatto è un contatto reciproco.",
+    "lng_settings_use_gt_api": "Usa Google Traduttore",
+
     "lng_settings_extra_context_menu_options": "Opzioni aggiuntive del menu contestuale",
     "lng_context_hide_message": "Nascondi",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Mostra lo stato online sugli avatar dei mittenti nei gruppi",
     "lng_settings_hide_delete_for_others_checkbox": "Nascondi la casella \"Elimina per gli altri\"",
-    "lng_settings_send_comment_after_forwarding": "Invia un commento dopo l'inoltro"
+    "lng_settings_send_comment_after_forwarding": "Invia un commento dopo l'inoltro",
+
+    "lng_settings_shared_value_applied": "Impostazione avanzata applicata.",
+    "lng_settings_restart_to_apply": "Riavvia l’app per rendere effettiva questa modifica.",
+    "lng_chat_enhanced_reset": "Ripristina predefiniti",
+    "lng_chat_enhanced_reset_sure": "Ripristinare tutte le impostazioni avanzate per questa chat ai valori predefiniti?",
+    "lng_chat_enhanced_reset_done": "Le impostazioni avanzate per questa chat sono state ripristinate.",
+    "lng_settings_enhanced_import": "Importa",
+    "lng_settings_enhanced_export_done": "Il codice delle impostazioni avanzate è stato copiato negli appunti.",
+    "lng_settings_enhanced_import_invalid": "Gli appunti non contengono un codice valido per le impostazioni avanzate.",
+    "lng_settings_enhanced_import_unsupported": "Il codice delle impostazioni avanzate è valido, ma il formato dei dati non è supportato.",
+    "lng_settings_enhanced_import_done": "Impostazioni avanzate importate dal codice negli appunti.",
+    "lng_settings_share_current_setting": "Condividi impostazione attuale",
+    "lng_settings_apply_shared_value_title": "Importare l’impostazione avanzata?",
+    "lng_settings_apply_shared_value": "Questo link sovrascriverà il valore attuale di questa opzione avanzata:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Importare questa impostazione avanzata per {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Sostituzioni del dominio dell’anteprima dei link",
+    "lng_link_preview_rules_about": "Regole personalizzate per sostituire il dominio nelle anteprime dei link. Le espressioni regolari corrispondono a qualsiasi punto dell’URL; viene sostituito solo il dominio.",
+    "lng_link_preview_rules_empty": "Nessuna regola.",
+    "lng_link_preview_rule_add": "Aggiungi regola",
+    "lng_link_preview_rule_edit": "Modifica regola",
+    "lng_link_preview_rule_pattern": "Regex URL",
+    "lng_link_preview_rule_domain": "Dominio",
+    "lng_settings_disable_sync_draft_to_cloud": "Interrompi sincronizzazione delle bozze locali con il cloud",
+
+    "lng_tg_nya_toast": "Miao >⩊<"
 }

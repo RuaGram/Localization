@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Μήνυμα Αποκλεισμένου Χρήστη]\n",
 
+    "lng_contact_is_mutual": "Αυτή η επαφή είναι κοινή επαφή.",
+    "lng_settings_use_gt_api": "Χρήση της Μετάφρασης Google",
+
     "lng_settings_extra_context_menu_options": "Πρόσθετες επιλογές μενού περιβάλλοντος",
     "lng_context_hide_message": "Απόκρυψη",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Εμφάνιση της κατάστασης σύνδεσης στα άβαταρ των αποστολέων σε ομάδες",
     "lng_settings_hide_delete_for_others_checkbox": "Απόκρυψη του πλαισίου επιλογής «διαγραφή για άλλους»",
-    "lng_settings_send_comment_after_forwarding": "Αποστολή σχολίου μετά την προώθηση"
+    "lng_settings_send_comment_after_forwarding": "Αποστολή σχολίου μετά την προώθηση",
+
+    "lng_settings_shared_value_applied": "Η βελτιωμένη ρύθμιση εφαρμόστηκε.",
+    "lng_settings_restart_to_apply": "Επανεκκινήστε την εφαρμογή για να εφαρμοστεί αυτή η αλλαγή.",
+    "lng_chat_enhanced_reset": "Επαναφορά στις προεπιλογές",
+    "lng_chat_enhanced_reset_sure": "Επαναφορά όλων των βελτιωμένων ρυθμίσεων για αυτή τη συνομιλία στις προεπιλογές;",
+    "lng_chat_enhanced_reset_done": "Οι βελτιωμένες ρυθμίσεις για αυτή τη συνομιλία επαναφέρθηκαν.",
+    "lng_settings_enhanced_import": "Εισαγωγή",
+    "lng_settings_enhanced_export_done": "Ο κώδικας βελτιωμένων ρυθμίσεων αντιγράφηκε στο πρόχειρο.",
+    "lng_settings_enhanced_import_invalid": "Το πρόχειρο δεν περιέχει έγκυρο κώδικα βελτιωμένων ρυθμίσεων.",
+    "lng_settings_enhanced_import_unsupported": "Ο κώδικας βελτιωμένων ρυθμίσεων είναι έγκυρος, αλλά η μορφή δεδομένων του δεν υποστηρίζεται.",
+    "lng_settings_enhanced_import_done": "Οι βελτιωμένες ρυθμίσεις εισήχθησαν από τον κώδικα στο πρόχειρο.",
+    "lng_settings_share_current_setting": "Κοινή χρήση της τρέχουσας ρύθμισης",
+    "lng_settings_apply_shared_value_title": "Εισαγωγή βελτιωμένης ρύθμισης;",
+    "lng_settings_apply_shared_value": "Αυτός ο σύνδεσμος θα αντικαταστήσει την τρέχουσα τιμή αυτής της βελτιωμένης επιλογής:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Εισαγωγή αυτής της βελτιωμένης ρύθμισης για {chat};\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Αντικαταστάσεις τομέων προεπισκόπησης συνδέσμων",
+    "lng_link_preview_rules_about": "Προσαρμοσμένοι κανόνες για την αντικατάσταση του τομέα στις προεπισκοπήσεις συνδέσμων. Οι κανονικές εκφράσεις αντιστοιχούν οπουδήποτε στη διεύθυνση URL· αντικαθίσταται μόνο ο τομέας.",
+    "lng_link_preview_rules_empty": "Δεν υπάρχουν κανόνες ακόμη.",
+    "lng_link_preview_rule_add": "Προσθήκη κανόνα",
+    "lng_link_preview_rule_edit": "Επεξεργασία κανόνα",
+    "lng_link_preview_rule_pattern": "Κανονική έκφραση URL",
+    "lng_link_preview_rule_domain": "Τομέας",
+    "lng_settings_disable_sync_draft_to_cloud": "Διακοπή συγχρονισμού τοπικών πρόχειρων με το cloud",
+
+    "lng_tg_nya_toast": "Νιάου >⩊<"
 }

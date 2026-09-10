@@ -139,6 +139,9 @@
 
     "lng_blocked_user_hint": "[Повідомлення заблокованого користувача]\n",
 
+    "lng_contact_is_mutual": "Цей контакт є спільним контактом.",
+    "lng_settings_use_gt_api": "Використовувати Google Перекладач",
+
     "lng_settings_extra_context_menu_options": "Додаткові параметри контекстного меню",
     "lng_context_hide_message": "Приховати",
 
@@ -183,5 +186,30 @@
 
     "lng_settings_show_group_sender_online_status": "Показувати статус онлайн на аватарах відправників у групах",
     "lng_settings_hide_delete_for_others_checkbox": "Приховати прапорець «Видалити для інших»",
-    "lng_settings_send_comment_after_forwarding": "Надсилати коментар після пересилання"
+    "lng_settings_send_comment_after_forwarding": "Надсилати коментар після пересилання",
+
+    "lng_settings_shared_value_applied": "Додаткове налаштування застосовано.",
+    "lng_settings_restart_to_apply": "Перезапустіть застосунок, щоб зміна набула чинності.",
+    "lng_chat_enhanced_reset": "Скинути до типових",
+    "lng_chat_enhanced_reset_sure": "Скинути всі додаткові налаштування цього чату до типових?",
+    "lng_chat_enhanced_reset_done": "Додаткові налаштування цього чату скинуто.",
+    "lng_settings_enhanced_import": "Імпортувати",
+    "lng_settings_enhanced_export_done": "Код додаткових налаштувань скопійовано в буфер обміну.",
+    "lng_settings_enhanced_import_invalid": "Буфер обміну не містить дійсного коду додаткових налаштувань.",
+    "lng_settings_enhanced_import_unsupported": "Код додаткових налаштувань дійсний, але його формат даних не підтримується.",
+    "lng_settings_enhanced_import_done": "Додаткові налаштування імпортовано з коду в буфері обміну.",
+    "lng_settings_share_current_setting": "Поділитися поточним налаштуванням",
+    "lng_settings_apply_shared_value_title": "Імпортувати додаткове налаштування?",
+    "lng_settings_apply_shared_value": "Це посилання перезапише поточне значення цього додаткового параметра:\n\n{option}",
+    "lng_chat_enhanced_apply_shared_value": "Імпортувати це додаткове налаштування для {chat}?\n\n{option}: {value}",
+    "lng_link_preview_rules_title": "Заміна доменів у попередньому перегляді посилань",
+    "lng_link_preview_rules_about": "Власні правила для заміни домену в попередньому перегляді посилань. Регулярні вирази збігаються в будь-якому місці URL, замінюється лише домен.",
+    "lng_link_preview_rules_empty": "Правил ще немає.",
+    "lng_link_preview_rule_add": "Додати правило",
+    "lng_link_preview_rule_edit": "Редагувати правило",
+    "lng_link_preview_rule_pattern": "Регулярний вираз URL",
+    "lng_link_preview_rule_domain": "Домен",
+    "lng_settings_disable_sync_draft_to_cloud": "Припинити синхронізацію локальних чернеток із хмарою",
+
+    "lng_tg_nya_toast": "Няв >⩊<"
 }
