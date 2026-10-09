@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Chào mừng đến ứng dụng Yurigram cho Desktop.\nNhanh chóng và bảo mật.",
-
     "lng_settings_enhanced": "Cài đặt nâng cao",
     "lng_settings_network": "Mạng",
     "lng_settings_net_upload_speed_boost": "Tăng tốc độ tải lên",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "Ẩn tin",
     "lng_settings_screen_shot_mode": "Chế độ chụp màn hình",
     "lng_settings_restart_hint": "CẢNH BÁO: Thay đổi các tùy chọn có màu đỏ sẽ chỉ có hiệu lực sau khi ứng dụng khởi động lại.",
-
     "lng_settings_skip_message": "Chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
     "lng_settings_skip_message_desc": "Lưu ý: Cho phép phím tắt ALT+↑/↓ để chuyển đến cuộc trò chuyện chưa đọc tiếp theo",
-    
     "lng_settings_recent_display_limit": "Giới hạn hiển thị nhãn dán gần đây",
     "lng_settings_recent_display_limit_default": "Mặc định (20)",
-
     "lng_net_speed_boost_title": "Tăng tốc độ mạng",
     "lng_net_speed_boost_desc": "Cảnh báo: việc thay đổi thông số này thành giá trị cao trên các mạng chậm có thể làm cho thông số này thậm chí còn tồi tệ hơn. Sử dụng nó có nguy cơ của riêng bạn.",
     "lng_show_emoji_button_as_text_desc": "Lưu ý: Nếu bạn không thể thấy nút biểu tượng cảm xúc, vui lòng bật tùy chọn này.",
     "lng_radio_controller_desc": "Lưu ý: Bộ điều khiển radio là một bot thử nghiệm để kiểm soát phiên phát trực tuyến nhạc của bạn.",
     "lng_auto_unmute_desc": "Lưu ý: Tự động bật tiếng khi bạn đã tham gia trò chuyện thoại.",
     "lng_settings_hide_messages_desc": "Lưu ý: NÓ KHÔNG THỰC SỰ ẨN! Tin nhắn vẫn có sẵn để xem, nhưng văn bản sẽ được chuyển đổi thành Spoiler và phương tiện sẽ không tự động tải xuống.",
-
     "lng_net_speed_boost_default": "Tắt",
     "lng_net_speed_boost_slight": "Vừa",
     "lng_net_speed_boost_medium": "Trung",
     "lng_net_speed_boost_big": "Lớn",
-
     "lng_net_boost_restart_desc": "Bạn sẽ cần khởi động lại ứng dụng để thay đổi mức tăng mạng.\n\nKhởi động lại ngay?",
     "lng_show_messages_id_desc": "Cảnh báo: các thay đổi sẽ có hiệu lực ngay lập tức khi khởi động lại.",
-
     "lng_chat_restriction_reason": "Lý do hạn chế",
     "lng_copy_restriction_reason": "Lý do hạn chế sao chép",
-
     "lng_context_copy_callback_data": "Sao chép dữ liệu gọi lại",
     "lng_context_forward_selected_no_quote": "Chuyển tiếp đã chọn (Không trích dẫn)",
     "lng_selected_forward_no_quote": "Chuyển tiếp (Không trích dẫn)",
     "lng_forward_to_saved_message_text": "Lưu",
     "lng_context_forward_msg_old_selected": "Chuyển tiếp đã chọn (Cổ điển)",
     "lng_selected_forward_emoji_classic": "📠(Cổ điển)",
-
     "lng_message_id": "ID tin nhắn: ",
-
     "lng_admin_log_banned_send_stickers2": "Gửi nhãn dán",
     "lng_admin_log_banned_send_gifs": "Gửi ảnh động",
     "lng_admin_log_banned_send_games": "Gửi trò chơi",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "Gửi ảnh động",
     "lng_rights_chat_send_games": "Gửi trò chơi",
     "lng_rights_chat_use_inline": "Sử dụng Bot nội tuyến",
-
     "lng_media_selected_gif#one": "{count} ảnh động",
     "lng_media_selected_gif#other": "{count} ảnh động",
     "lng_media_type_gifs": "Ảnh động",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} ảnh động",
     "lng_profile_gifs_header": "Ảnh động",
     "lng_media_gif_empty": "Chưa có ảnh động nào ở đây",
-
     "lng_create_supergroup_title": "Siêu nhóm mới",
     "lng_action_group_migrate": "Nhóm đã được nâng cấp thành siêu nhóm",
     "lng_sure_upgrade_group": "Bạn có chắc chắn muốn nâng cấp nhóm này lên siêu nhóm không?",
     "lng_chat_upgrade_warning": "Lưu ý: Không thể hoàn tác hành động này",
-
     "lng_user_not_found": "404 không tìm thấy người dùng.\nLưu ý: Bạn phải có \"đã xem\" người dùng đó trước khi mở liên kết này.",
-
     "lng_settings_always_delete_for": "Luôn chọn xóa cho",
     "lng_settings_delete_disabled": "Tắt",
     "lng_settings_delete_for_group": "Nhóm",
     "lng_settings_delete_for_person": "Người",
     "lng_settings_delete_for_both": "Tại sao không phải cả hai?",
-
     "lng_title_forward_as_copy": "Sao chép đến...",
     "lng_title_multiple_forward": "Chuyển tiếp đến...",
-
     "lng_context_forward_msg_multi": "Chuyển tiếp nhiều",
     "lng_context_forward_msg_old": "Chuyển tiếp một lần",
     "lng_context_show_messages_from": "Tin nhắn từ người dùng",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "Chuyển tiếp đến dã lưu",
     "lng_context_repeater": "Bộ lặp",
     "lng_context_view_as_json": "Xem dưới dạng JSON",
-
     "lng_settings_enable_hd_video": "Tốc độ video cao hơn",
     "lng_hd_video_hint": "Tốc độ của video đã được thay đổi! Tham gia lại cuộc trò chuyện thoại nếu bạn đã tham gia.",
-
     "lng_bitrate_controller": "Tốc độ âm thanh",
     "lng_bitrate_controller_desc": "Cảnh báo: việc thay đổi thông số này thành giá trị cao có thể ảnh hưởng đến người dùng trên mạng chậm.",
     "lng_bitrate_controller_hint": "Tốc độ bit của âm thanh đã được thay đổi! Tham gia lại cuộc trò chuyện thoại nếu bạn đã tham gia.",
-
     "lng_bitrate_controller_default": "Mặc định (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -125,69 +106,48 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "Hiển thị tin nhắn đã ghim",
     "lng_pinned_message_hide": "Ẩn tin nhắn đã ghim",
     "lng_pinned_message_view": "Xem tin nhắn đã ghim",
     "lng_go_to_first_message": "Đi tới tin nhắn đầu tiên",
-
     "lng_proxy_remove_all": "Xóa tất cả proxy",
-
     "lng_copy_profile_id": "Đã sao chép ID vào khay nhớ tạm.",
-
     "lng_group_requests_ban": "Cấm",
-
     "lng_blocked_user_hint": "[Tin nhắn của người dùng bị chặn]\n",
-
     "lng_contact_is_mutual": "Liên hệ này là liên hệ chung.",
     "lng_settings_use_gt_api": "Sử dụng Google Dịch",
-
     "lng_settings_extra_context_menu_options": "Tùy chọn menu ngữ cảnh bổ sung",
     "lng_context_hide_message": "Ẩn",
-
     "lng_attach_webpage_preview": "Xem trước trang web",
     "lng_link_preview_box_title": "Chỉnh sửa liên kết trang web",
-
     "lng_settings_rich_message_preview_blocks": "Giới hạn khối tin nhắn đa dạng",
     "lng_settings_rich_message_preview_blocks_desc": "Giới hạn số khối hiển thị cho tin nhắn đa dạng trong trò chuyện. Nhấn Hiển thị thêm để mở toàn bộ tin nhắn.",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} khối",
-
     "lng_send_mark_as_gif": "Đánh dấu là GIF",
-
     "lng_settings_community_chat_click": "Mở cuộc trò chuyện thay vì cộng đồng",
-
     "lng_context_more_forward": "Thêm tùy chọn chuyển tiếp",
     "lng_settings_sticker_height": "Chiều cao nhãn dán",
-
     "lng_forward_regroup_media": "Nhóm lại phương tiện",
     "lng_forward_separate_messages": "Tách tin nhắn",
-
     "lng_settings_force_show_webpage_preview": "Buộc hiển thị bản xem trước trang web",
-
     "lng_settings_interface": "Giao diện",
     "lng_settings_behavior": "Hành vi",
     "lng_settings_translation": "Bản dịch",
-
     "lng_chat_enhanced_settings": "Cài đặt nâng cao của cuộc trò chuyện",
     "lng_chat_enhanced_settings_desc": "Các tùy chọn bên dưới sẽ ghi đè cài đặt nâng cao toàn cục và chỉ áp dụng cho cuộc trò chuyện này.",
     "lng_chat_enhanced_default": "Mặc định",
     "lng_chat_enhanced_enabled": "Bật",
     "lng_chat_enhanced_disabled": "Tắt",
-
     "lng_settings_remove_media_spoiler": "Xóa spoiler phương tiện",
     "lng_settings_show_media_metadata": "Hiển thị thông tin siêu dữ liệu trong trình xem phương tiện",
     "lng_settings_disable_auto_fetch_webpage_preview": "Tắt tự động tải bản xem trước trang web",
     "lng_forward_add_spoiler": "Thêm spoiler",
-
     "lng_message_search_filter_selected#one": "Đã chọn {count} loại tin nhắn",
     "lng_message_search_filter_selected#other": "Đã chọn {count} loại tin nhắn",
     "lng_message_search_filter_mentions": "Đề cập đến tôi",
-
     "lng_settings_show_group_sender_online_status": "Hiển thị trạng thái trực tuyến trên ảnh đại diện người gửi trong nhóm",
     "lng_settings_hide_delete_for_others_checkbox": "Ẩn hộp kiểm \"Xóa cho người khác\"",
     "lng_settings_send_comment_after_forwarding": "Gửi bình luận sau khi chuyển tiếp",
-
     "lng_settings_shared_value_applied": "Đã áp dụng cài đặt nâng cao.",
     "lng_settings_restart_to_apply": "Khởi động lại ứng dụng để thay đổi này có hiệu lực.",
     "lng_chat_enhanced_reset": "Đặt lại về mặc định",
@@ -210,6 +170,81 @@
     "lng_link_preview_rule_pattern": "Regex URL",
     "lng_link_preview_rule_domain": "Tên miền",
     "lng_settings_disable_sync_draft_to_cloud": "Dừng đồng bộ bản nháp cục bộ lên đám mây",
-
-    "lng_tg_nya_toast": "Meo >⩊<"
+    "lng_tg_nya_toast": "Meo >⩊<",
+    "lng_bot_use_about": "Chúng tôi khuyên bạn đọc {link} trước khi dùng BotUse.",
+    "lng_bot_use_about_link": "hướng dẫn sử dụng",
+    "lng_group_requests_add_all_sure#one": "Bạn có muốn chấp nhận {count} yêu cầu tham gia không?",
+    "lng_group_requests_add_all_sure#other": "Bạn có muốn chấp nhận tất cả {count} yêu cầu tham gia không?",
+    "lng_group_requests_dismiss_all_sure#one": "Bạn có muốn từ chối {count} yêu cầu tham gia không?",
+    "lng_group_requests_dismiss_all_sure#other": "Bạn có muốn từ chối tất cả {count} yêu cầu tham gia không?",
+    "lng_group_requests_added_all#one": "{count} yêu cầu tham gia đã được chấp nhận.",
+    "lng_group_requests_added_all#other": "{count} yêu cầu tham gia đã được chấp nhận.",
+    "lng_group_requests_dismissed_all#one": "{count} yêu cầu tham gia đã bị từ chối.",
+    "lng_group_requests_dismissed_all#other": "{count} yêu cầu tham gia đã bị từ chối.",
+    "lng_settings_show_message_forward_count": "Hiển thị số lần chuyển tiếp tin nhắn",
+    "lng_settings_show_gif_media_controls": "Hiển thị điều khiển phương tiện GIF",
+    "lng_bot_use_allow_reply_and_repeat_bots": "Cho phép trả lời và lặp lại tin nhắn bot",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "Tính năng này yêu cầu bật Giao tiếp Bot với Bot trong BotFather.",
+    "lng_bot_use_auto_switch_rich_editor_about": "Chỉ áp dụng cho kênh.",
+    "lng_bot_use_auto_login_startup": "Tự động đăng nhập khi khởi động",
+    "lng_bot_use_auto_switch_rich_editor": "Tự động chuyển sang bot khi mở trình soạn thảo văn bản phong phú",
+    "lng_bot_use_rich_editor_switched": "Đã chuyển sang {bot} cho trình soạn thảo tin nhắn phong phú.",
+    "lng_bot_use_disable_typing_status": "Tắt gửi trạng thái đang nhập",
+    "lng_bot_use_api_remove_bots_first": "Xóa tất cả bot đã thêm trước khi thay đổi thông tin xác thực API.",
+    "lng_bot_use_manage": "Trình quản lý Bot",
+    "lng_bot_use_choose": "Gửi với tư cách Bot trong cuộc trò chuyện này",
+    "lng_bot_use_choose_about": "Chọn danh tính BotUse:",
+    "lng_bot_use_loading": "Đang tải Bot có sẵn…",
+    "lng_bot_use_load_error": "Không thể tải Bot của cuộc trò chuyện. Hãy thử lại.",
+    "lng_bot_use_no_chat_bots": "Không có Bot nào đã thêm trong cuộc trò chuyện này.",
+    "lng_bot_use_settings": "Cài đặt BotUse",
+    "lng_bot_use_api_settings": "Cài đặt API",
+    "lng_bot_use_api_credentials": "Cấu hình thông tin xác thực API",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "Thay đổi thông tin xác thực API sẽ yêu cầu tất cả bot đã thêm xác thực lại. Lưu thông tin mới?",
+    "lng_bot_use_saved": "Đã lưu thông tin xác thực API BotUse.",
+    "lng_bot_use_add": "Thêm Bot",
+    "lng_bot_use_added": "Đã thêm bot vào BotUse.",
+    "lng_bot_use_token": "Mã thông báo Bot",
+    "lng_bot_use_unknown": "Bot không xác định",
+    "lng_bot_use_reauthenticate": "Xác thực lại",
+    "lng_bot_use_replace_token": "Cập nhật mã thông báo bot",
+    "lng_bot_use_remove_confirm": "Xóa bot này khỏi BotUse?",
+    "lng_bot_use_state_unconfigured": "Cần thông tin xác thực API",
+    "lng_bot_use_state_disconnected": "Đã ngắt kết nối",
+    "lng_bot_use_state_authenticating": "Đang xác thực",
+    "lng_bot_use_state_ready": "Sẵn sàng",
+    "lng_bot_use_state_needs_auth": "Cần xác thực",
+    "lng_bot_use_state_config_error": "Lỗi cấu hình API",
+    "lng_bot_use_invalid_api": "Nhập ID API hợp lệ và HASH API thập lục phân 32 ký tự.",
+    "lng_bot_use_duplicate": "Bot này đã được thêm.",
+    "lng_bot_use_invalid_token": "Nhập mã thông báo bot hợp lệ.",
+    "lng_bot_use_busy": "BotUse đang bận. Hãy thử lại sau khi thao tác hiện tại hoàn tất.",
+    "lng_bot_use_store_error": "BotUse không thể lưu dữ liệu đã mã hóa.",
+    "lng_bot_use_error": "Lỗi BotUse: {error}",
+    "lng_settings_peer_id_type": "Loại ID đối tượng",
+    "lng_translate_llm_test": "Kiểm tra",
+    "lng_translate_llm_test_success": "Kiểm tra API LLM thành công.",
+    "lng_translate_provider_llm": "Dịch LLM",
+    "lng_translate_llm_config": "Cài đặt dịch LLM",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "Model name",
+    "lng_translate_llm_key": "API key",
+    "lng_translate_llm_extra_parameters": "Extra request parameters",
+    "lng_translate_llm_context": "Dịch ngữ cảnh thông minh",
+    "lng_translate_llm_context_desc": "Thêm các tin nhắn xung quanh và chuỗi tin nhắn trả lời làm thông tin ngữ cảnh dịch.",
+    "lng_translate_llm_error_auth": "Xác thực dịch LLM thất bại. Kiểm tra khóa API.",
+    "lng_translate_llm_error_rate": "Dịch LLM bị giới hạn tốc độ. Hãy thử lại sau.",
+    "lng_translate_llm_error_response": "Dịch LLM trả về phản hồi không hợp lệ.",
+    "lng_translate_llm_error_network": "Yêu cầu dịch LLM thất bại.",
+    "lng_translate_provider_setting": "Nhà cung cấp dịch",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "Nhà cung cấp không xác định",
+    "lng_translate_provider_unavailable": "Nhà cung cấp dịch không khả dụng.",
+    "lng_translate_provider_unavailable_short": "Không khả dụng"
 }

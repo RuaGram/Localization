@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Добро пожаловать в приложение Yurigram Desktop.\nОно быстрое и безопасное.",
-
     "lng_settings_enhanced": "Расширенные настройки",
     "lng_settings_network": "Сеть",
     "lng_settings_net_upload_speed_boost": "Увеличение скорости отправки",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "Скрыть истории",
     "lng_settings_screen_shot_mode": "Режим Скриншота",
     "lng_settings_restart_hint": "ПРЕДУПРЕЖДЕНИЕ: Изменение параметров, выделенных красным цветом, вступит в силу только после перезапуска приложения",
-
     "lng_settings_skip_message": "Переход к следующему непрочитанному чату",
     "lng_settings_skip_message_desc": "Примечание: Разрешите сочетание клавиш ALT+↑/↓ для перехода к следующему непрочитанному чату",
-    
     "lng_settings_recent_display_limit": "Лимит отображения последних эмодзи",
     "lng_settings_recent_display_limit_default": "Стандарт (20)",
-
     "lng_net_speed_boost_title": "Повышение скорости сети",
     "lng_net_speed_boost_desc": "Внимание: высокие значения параметра при слабых сетях могут сделать ещё хуже. Используйте на свой страх и риск.",
     "lng_show_emoji_button_as_text_desc": "Примечание: Если вы не видите кнопку эмодзи, включите эту опцию.",
     "lng_radio_controller_desc": "Примечание: Радио-контроллер - это экспериментальный бот для управления сеансом потоковой передачи музыки.",
     "lng_auto_unmute_desc": "Автоматическое включение звука при входе в голосовой чат.",
     "lng_settings_hide_messages_desc": "Примечание: ЭТО НЕ СОВСЕМ СКРЫТИЕ! Сообщения по-прежнему будут доступны для просмотра, но текст будет преобразован в спойлер, а медиа не будет автоматически загружаться.",
-
     "lng_net_speed_boost_default": "Отключено",
     "lng_net_speed_boost_slight": "Небольшое",
     "lng_net_speed_boost_medium": "Среднее",
     "lng_net_speed_boost_big": "Высокое",
-
     "lng_net_boost_restart_desc": "Для применения параметров требуется перезапуск.\n\nПерезапустить сейчас?",
     "lng_show_messages_id_desc": "Внимание: изменения вступят в силу после перезапуска.",
-
     "lng_chat_restriction_reason": "Причина ограничения",
     "lng_copy_restriction_reason": "Причина ограничения копирования",
-
     "lng_context_copy_callback_data": "Копировать данные обратного вызова",
     "lng_context_forward_selected_no_quote": "Переслать выделенное без автора",
     "lng_selected_forward_no_quote": "Переслать без автора",
     "lng_forward_to_saved_message_text": "Сохранить",
     "lng_context_forward_msg_old_selected": "Переслать выделенное (Классика)",
     "lng_selected_forward_emoji_classic": "📠(Классика)",
-
     "lng_message_id": "ID сообщения: ",
-
     "lng_admin_log_banned_send_stickers2": "Отправка стикеров",
     "lng_admin_log_banned_send_gifs": "Отправка GIF",
     "lng_admin_log_banned_send_games": "Отправка игр",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "Отправка GIF",
     "lng_rights_chat_send_games": "Отправка игр",
     "lng_rights_chat_use_inline": "Использование инлайн-ботов",
-
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "Здесь ещё нет GIF",
-
     "lng_create_supergroup_title": "Создать супергруппу",
     "lng_action_group_migrate": "Группа была преобразована в супергруппу",
     "lng_sure_upgrade_group": "Вы уверены, что хотите преобразовать эту группу в супергруппу?",
     "lng_chat_upgrade_warning": "Примечание: Это действие нельзя отменить.",
-
     "lng_user_not_found": "Пользователь не найден.\nПримечание: прежде чем создавать ссылку на пользователя, вам нужно открыть его профиль через этот клиент.",
-
     "lng_settings_always_delete_for": "Всегда удалять для",
     "lng_settings_delete_disabled": "Никогда",
     "lng_settings_delete_for_group": "В группах",
     "lng_settings_delete_for_person": "В личных чатах",
     "lng_settings_delete_for_both": "Оба пункта",
-
     "lng_title_forward_as_copy": "Копировать в...",
     "lng_title_multiple_forward": "Переслать в...",
-
     "lng_context_forward_msg_multi": "Мультипересылка",
     "lng_context_forward_msg_old": "Переслать (Классическая пересылка)",
     "lng_context_show_messages_from": "Сообщения пользователя",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "Переслать в Избранное",
     "lng_context_repeater": "Повторить",
     "lng_context_view_as_json": "Просмотреть как JSON",
-
     "lng_settings_enable_hd_video": "Увеличить битрейт видео",
     "lng_hd_video_hint": "Битрейт видео изменен! Повторно присоединитесь к голосовому чату, если вы уже там.",
-
     "lng_bitrate_controller": "Битрейт аудио",
     "lng_bitrate_controller_desc": "Высокое значение может навредить участникам с медленным интернетом.",
     "lng_bitrate_controller_hint": "Битрейт аудио изменен! Повторно присоединитесь к голосовому чату, если вы уже там.",
-
     "lng_bitrate_controller_default": "По умолчанию (32 Кбит/с)",
     "lng_bitrate_controller_64k": "64 Кбит/с",
     "lng_bitrate_controller_96k": "96 Кбит/с",
@@ -125,69 +106,48 @@
     "lng_bitrate_controller_192k": "192 Кбит/с",
     "lng_bitrate_controller_256k": "256 Кбит/с",
     "lng_bitrate_controller_320k": "320 Кбит/с",
-
     "lng_pinned_message_show": "Показать закрепленное сообщение",
     "lng_pinned_message_hide": "Скрыть закрепленное сообщение",
     "lng_pinned_message_view": "Просмотреть закрепленные сообщения",
     "lng_go_to_first_message": "Перейти к первому сообщению",
-
     "lng_proxy_remove_all": "Удалить все прокси",
-
     "lng_copy_profile_id": "ID скопирован в буфер обмена.",
-
     "lng_group_requests_ban": "Бан",
-
     "lng_blocked_user_hint": "[Сообщение заблокированного пользователя]\n",
-
     "lng_contact_is_mutual": "Этот контакт является общим для вас.",
     "lng_settings_use_gt_api": "Использовать Google Переводчик",
-
     "lng_settings_extra_context_menu_options": "Дополнительные варианты контекстного меню",
     "lng_context_hide_message": "Скрыть",
-
     "lng_attach_webpage_preview": "Предпросмотр веб-страницы",
     "lng_link_preview_box_title": "Редактировать ссылку веб-страницы",
-
     "lng_settings_rich_message_preview_blocks": "Лимит блоков форматированных сообщений",
     "lng_settings_rich_message_preview_blocks_desc": "Ограничьте количество блоков, отображаемых в форматированных сообщениях в чатах. Нажмите «Показать больше», чтобы открыть сообщение целиком.",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} блоков",
-
     "lng_send_mark_as_gif": "Отметить как GIF",
-
     "lng_settings_community_chat_click": "Открывать чат вместо сообщества",
-
     "lng_context_more_forward": "Дополнительные варианты пересылки",
     "lng_settings_sticker_height": "Высота стикеров",
-
     "lng_forward_regroup_media": "Перегруппировать медиа",
     "lng_forward_separate_messages": "Разделить сообщения",
-
     "lng_settings_force_show_webpage_preview": "Принудительно показывать предпросмотр веб-страницы",
-
     "lng_settings_interface": "Интерфейс",
     "lng_settings_behavior": "Поведение",
     "lng_settings_translation": "Перевод",
-
     "lng_chat_enhanced_settings": "Расширенные настройки чата",
     "lng_chat_enhanced_settings_desc": "Приведённые ниже параметры переопределят глобальные расширенные настройки и будут применяться только к этому чату.",
     "lng_chat_enhanced_default": "По умолчанию",
     "lng_chat_enhanced_enabled": "Включено",
     "lng_chat_enhanced_disabled": "Отключено",
-
     "lng_settings_remove_media_spoiler": "Убрать спойлер с медиа",
     "lng_settings_show_media_metadata": "Показывать информацию о метаданных в просмотрщике медиа",
     "lng_settings_disable_auto_fetch_webpage_preview": "Отключить автоматическую загрузку предпросмотра веб-страницы",
     "lng_forward_add_spoiler": "Добавить спойлер",
-
     "lng_message_search_filter_selected#one": "{count} тип сообщения выбран",
     "lng_message_search_filter_selected#other": "Выбрано типов сообщений: {count}",
     "lng_message_search_filter_mentions": "Упоминания обо мне",
-
     "lng_settings_show_group_sender_online_status": "Показывать статус онлайн на аватарах отправителей в группах",
     "lng_settings_hide_delete_for_others_checkbox": "Скрыть флажок «Удалить для других»",
     "lng_settings_send_comment_after_forwarding": "Отправлять комментарий после пересылки",
-
     "lng_settings_shared_value_applied": "Расширенная настройка применена.",
     "lng_settings_restart_to_apply": "Перезапустите приложение, чтобы это изменение вступило в силу.",
     "lng_chat_enhanced_reset": "Сбросить по умолчанию",
@@ -210,6 +170,81 @@
     "lng_link_preview_rule_pattern": "Регулярное выражение URL",
     "lng_link_preview_rule_domain": "Домен",
     "lng_settings_disable_sync_draft_to_cloud": "Прекратить синхронизацию локальных черновиков с облаком",
-
-    "lng_tg_nya_toast": "Мяу >⩊<"
+    "lng_tg_nya_toast": "Мяу >⩊<",
+    "lng_bot_use_about": "Перед использованием BotUse рекомендуем прочитать {link}.",
+    "lng_bot_use_about_link": "руководство по использованию",
+    "lng_group_requests_add_all_sure#one": "Одобрить {count} заявку на вступление?",
+    "lng_group_requests_add_all_sure#other": "Одобрить все {count} заявок на вступление?",
+    "lng_group_requests_dismiss_all_sure#one": "Отклонить {count} заявку на вступление?",
+    "lng_group_requests_dismiss_all_sure#other": "Отклонить все {count} заявок на вступление?",
+    "lng_group_requests_added_all#one": "{count} заявка на вступление одобрена.",
+    "lng_group_requests_added_all#other": "{count} заявок на вступление одобрено.",
+    "lng_group_requests_dismissed_all#one": "{count} заявка на вступление отклонена.",
+    "lng_group_requests_dismissed_all#other": "{count} заявок на вступление отклонено.",
+    "lng_settings_show_message_forward_count": "Показывать число пересылок сообщения",
+    "lng_settings_show_gif_media_controls": "Показывать элементы управления GIF",
+    "lng_bot_use_allow_reply_and_repeat_bots": "Разрешить отвечать на сообщения ботов и повторять их",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "Для этого в BotFather должна быть включена связь между ботами.",
+    "lng_bot_use_auto_switch_rich_editor_about": "Применимо только к каналам.",
+    "lng_bot_use_auto_login_startup": "Автоматический вход при запуске",
+    "lng_bot_use_auto_switch_rich_editor": "Автоматически переключаться на бота при открытии редактора форматированного текста",
+    "lng_bot_use_rich_editor_switched": "Для редактора форматированных сообщений выбран {bot}.",
+    "lng_bot_use_disable_typing_status": "Отключить отправку статуса набора текста",
+    "lng_bot_use_api_remove_bots_first": "Удалите всех добавленных ботов перед изменением учётных данных API.",
+    "lng_bot_use_manage": "Менеджер ботов",
+    "lng_bot_use_choose": "Отправить как бот в этом чате",
+    "lng_bot_use_choose_about": "Выберите личность BotUse:",
+    "lng_bot_use_loading": "Загрузка доступных ботов…",
+    "lng_bot_use_load_error": "Не удалось загрузить ботов чата. Повторите попытку.",
+    "lng_bot_use_no_chat_bots": "В этом чате нет добавленных ботов.",
+    "lng_bot_use_settings": "Настройки BotUse",
+    "lng_bot_use_api_settings": "Настройки API",
+    "lng_bot_use_api_credentials": "Настроить учётные данные API",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "После изменения учётных данных API всем добавленным ботам потребуется повторная аутентификация. Сохранить новые данные?",
+    "lng_bot_use_saved": "Учётные данные API BotUse сохранены.",
+    "lng_bot_use_add": "Добавить бота",
+    "lng_bot_use_added": "Бот добавлен в BotUse.",
+    "lng_bot_use_token": "Токен бота",
+    "lng_bot_use_unknown": "Неизвестный бот",
+    "lng_bot_use_reauthenticate": "Повторная аутентификация",
+    "lng_bot_use_replace_token": "Обновить токен бота",
+    "lng_bot_use_remove_confirm": "Удалить этого бота из BotUse?",
+    "lng_bot_use_state_unconfigured": "Требуются учётные данные API",
+    "lng_bot_use_state_disconnected": "Отключено",
+    "lng_bot_use_state_authenticating": "Аутентификация",
+    "lng_bot_use_state_ready": "Готово",
+    "lng_bot_use_state_needs_auth": "Требуется аутентификация",
+    "lng_bot_use_state_config_error": "Ошибка конфигурации API",
+    "lng_bot_use_invalid_api": "Введите действительный ID API и 32-символьный шестнадцатеричный HASH API.",
+    "lng_bot_use_duplicate": "Этот бот уже добавлен.",
+    "lng_bot_use_invalid_token": "Введите действительный токен бота.",
+    "lng_bot_use_busy": "BotUse занят. Повторите попытку после завершения текущей операции.",
+    "lng_bot_use_store_error": "BotUse не удалось сохранить зашифрованные данные.",
+    "lng_bot_use_error": "Ошибка BotUse: {error}",
+    "lng_settings_peer_id_type": "Тип Peer ID",
+    "lng_translate_llm_test": "Тест",
+    "lng_translate_llm_test_success": "Тест API LLM пройден.",
+    "lng_translate_provider_llm": "LLM-перевод",
+    "lng_translate_llm_config": "Настройки LLM-перевода",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "Model name",
+    "lng_translate_llm_key": "API key",
+    "lng_translate_llm_extra_parameters": "Extra request parameters",
+    "lng_translate_llm_context": "Умный контекстный перевод",
+    "lng_translate_llm_context_desc": "Добавлять окружающие сообщения и цепочки ответов в контекст перевода.",
+    "lng_translate_llm_error_auth": "Ошибка аутентификации LLM-перевода. Проверьте ключ API.",
+    "lng_translate_llm_error_rate": "Для LLM-перевода действует ограничение частоты. Повторите попытку позже.",
+    "lng_translate_llm_error_response": "LLM-перевод вернул недопустимый ответ.",
+    "lng_translate_llm_error_network": "Сбой запроса LLM-перевода.",
+    "lng_translate_provider_setting": "Провайдер перевода",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "Неизвестный провайдер",
+    "lng_translate_provider_unavailable": "Провайдер перевода недоступен.",
+    "lng_translate_provider_unavailable_short": "Недоступно"
 }

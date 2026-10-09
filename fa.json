@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "به Yurigram دسکتاپ خوش آمدید.\nسریع و امن.",
-
     "lng_settings_enhanced": "تنظیمات افزوده شده",
     "lng_settings_network": "شبکه",
     "lng_settings_net_upload_speed_boost": "افزایش سرعت دانلود/آپلود",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "مخفی کردن استوری‌ها",
     "lng_settings_screen_shot_mode": "حالت اسکرین‌شات",
     "lng_settings_restart_hint": "هشدار: عوض کردن گزینه های رنگی بعد از ریستارت اثر میگذارد.",
-
     "lng_settings_skip_message": "رفتن به چت خوانده نشده بعدی",
     "lng_settings_skip_message_desc": "نکته: با ALT+↑/↓ میتوانید به چت خوانده نشده بعدی بروید",
-    
     "lng_settings_recent_display_limit": "محدودیت نمایش استیکرهای اخیر",
     "lng_settings_recent_display_limit_default": "پیش‌فرض (20)",
-
     "lng_net_speed_boost_title": "افزایش سرعت شبکه",
     "lng_net_speed_boost_desc": "هشدار: تغییر این پارامتر به مقادیر بالا در شبکه های کند می تواند حتی بدتر شود. با مسئولیت شخصی خود استفاده کنید.",
     "lng_show_emoji_button_as_text_desc": "توجه: اگر دکمه شکلک را نمی بینید ، لطفاً این گزینه را روشن کنید.",
     "lng_radio_controller_desc": "نکته: رادیو کنترلر یک ربات آزمایشی برای کنترل پخش آهنگ شما است.",
     "lng_auto_unmute_desc": "نکته: هنگامی که به چت صوتی وارد می‌شوید به طور خودکار باصدا می‌شوید.",
     "lng_settings_hide_messages_desc": "نکته: پیام مخفی نمی‌شود! پیام ها همچنان قابل دیدن هستند، ولی من تبدیل به اسپویلر و محتوا به طور خودکار دانلود نمی‌شودند.",
-
     "lng_net_speed_boost_default": "غیرفعال",
     "lng_net_speed_boost_slight": "خفیف",
     "lng_net_speed_boost_medium": "متوسط",
     "lng_net_speed_boost_big": "زیاد",
-
     "lng_net_boost_restart_desc": "برای تغییر تقویت شبکه باید برنامه را دوباره راه اندازی کنید.\n\nمجدداً راه‌اندازی شود؟",
     "lng_show_messages_id_desc": "هشدار: تغییرات بلافاصله با شروع مجدد اعمال می شوند.",
-
     "lng_chat_restriction_reason": "دلیل محدودیت",
     "lng_copy_restriction_reason": "کپی دلیل محدودیت",
-
     "lng_context_copy_callback_data": "کپی داده‌های بازخوانی",
     "lng_context_forward_selected_no_quote": "هدایت انتخاب شده(بدون نقل‌قول)",
     "lng_selected_forward_no_quote": "هدایت(بدون نقل‌قول)",
     "lng_forward_to_saved_message_text": "ذخیره",
     "lng_context_forward_msg_old_selected": "هدایت انتخاب شده(کلاسیک)",
     "lng_selected_forward_emoji_classic": "📠(کلاسیک)",
-
     "lng_message_id": "آی‌دی پیام: ",
-
     "lng_admin_log_banned_send_stickers2": "ارسال استیکر‌ها",
     "lng_admin_log_banned_send_gifs": "ارسال گیف‌ها",
     "lng_admin_log_banned_send_games": "ارسال بازی‌ها",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "ارسال گیف‌ها",
     "lng_rights_chat_send_games": "ارسال بازی‌ها",
     "lng_rights_chat_use_inline": "استفاده از ربات‌های درون‌خطی",
-
     "lng_media_selected_gif#one": "{count} گیف",
     "lng_media_selected_gif#other": "{count} گیف",
     "lng_media_type_gifs": "گیف‌ها",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} گیف",
     "lng_profile_gifs_header": "گیف‌ها",
     "lng_media_gif_empty": "هنوز گیفی موجود نیست",
-
     "lng_create_supergroup_title": "ابرگروه جدید",
     "lng_action_group_migrate": "گروه به ابرگروه ارتقا یافت",
     "lng_sure_upgrade_group": "آیا مطمئن هستید که می خواهید این گروه را به ابر گروه ارتقا دهید؟",
     "lng_chat_upgrade_warning": "توجه: این عملکرد قابل بازگشت نیست",
-
     "lng_user_not_found": "404 - کاربر پیدا نشد.\nتوجه: پیش از باز کردن این پیوند باید آن کاربر را «دیده» باشید.",
-
     "lng_settings_always_delete_for": "انتخاب حذف برای ... برای همیشه",
     "lng_settings_delete_disabled": "غیرفعال",
     "lng_settings_delete_for_group": "گروه",
     "lng_settings_delete_for_person": "شخص",
     "lng_settings_delete_for_both": "چرا هر دو نه؟",
-
     "lng_title_forward_as_copy": "کپی به...",
     "lng_title_multiple_forward": "فوروارد به...",
-
     "lng_context_forward_msg_multi": "فوروارد انبوه",
     "lng_context_forward_msg_old": "فوروارد تکی",
     "lng_context_show_messages_from": "پیام های کاربر",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "فوروارد به پیام های ذخیره",
     "lng_context_repeater": "تکرار کننده",
     "lng_context_view_as_json": "مشاهده به‌صورت JSON",
-
     "lng_settings_enable_hd_video": "بیت‌ریت ویدیو بالاتر",
     "lng_hd_video_hint": "بیتریت ویدیو عوض شد! دوباره به چت صوتی بپیوندید اگر درحال حاضر حضور دارید.",
-
     "lng_bitrate_controller": "بیت‌یرت صدا",
     "lng_bitrate_controller_desc": "هشدار: تنظیم این گزینه بر روی مقدار های بالا امکان دارد بر روی وضعیت کاربران با اینترنت کندتر تاثیر بگذارد.",
     "lng_bitrate_controller_hint": "بیت‌ریت صدا عوض شد! دوباره به چت صوتی بپیوندید اگر درحال حاضر حضور دارید..",
-
     "lng_bitrate_controller_default": "پیشفرض (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -125,69 +106,48 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "نشان دادن پیام پین شده",
     "lng_pinned_message_hide": "مخفی کردن پیام پین شده",
     "lng_pinned_message_view": "دیدن پیام پین شده",
     "lng_go_to_first_message": "رفتن به پیام اول",
-
     "lng_proxy_remove_all": "حذف همه پروکسی ها",
-
     "lng_copy_profile_id": "ای‌دی در کلیپ بورد کپی شد.",
-
     "lng_group_requests_ban": "مسدود کردن",
-
     "lng_blocked_user_hint": "[پیام کاربر مسدودشده]\n",
-
     "lng_contact_is_mutual": "این مخاطب، مخاطب مشترک شماست.",
     "lng_settings_use_gt_api": "استفاده از ترجمهٔ گوگل",
-
     "lng_settings_extra_context_menu_options": "گزینه‌های اضافی منوی زمینه",
     "lng_context_hide_message": "مخفی کردن",
-
     "lng_attach_webpage_preview": "پیش‌نمایش صفحهٔ وب",
     "lng_link_preview_box_title": "ویرایش پیوند صفحهٔ وب",
-
     "lng_settings_rich_message_preview_blocks": "محدودیت بلوک‌های پیام غنی",
     "lng_settings_rich_message_preview_blocks_desc": "تعداد بلوک‌های نمایش‌داده‌شده برای پیام‌های غنی در گفتگوها را محدود کنید. برای باز کردن پیام کامل، از نمایش بیشتر استفاده کنید.",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} بلوک",
-
     "lng_send_mark_as_gif": "علامت‌گذاری به‌عنوان GIF",
-
     "lng_settings_community_chat_click": "باز کردن چت به‌جای انجمن",
-
     "lng_context_more_forward": "گزینه‌های بیشتر برای فوروارد",
     "lng_settings_sticker_height": "ارتفاع استیکر",
-
     "lng_forward_regroup_media": "گروه‌بندی مجدد رسانه‌ها",
     "lng_forward_separate_messages": "جدا کردن پیام‌ها",
-
     "lng_settings_force_show_webpage_preview": "نمایش اجباری پیش‌نمایش صفحهٔ وب",
-
     "lng_settings_interface": "رابط کاربری",
     "lng_settings_behavior": "رفتار",
     "lng_settings_translation": "ترجمه",
-
     "lng_chat_enhanced_settings": "تنظیمات پیشرفتهٔ گفتگو",
     "lng_chat_enhanced_settings_desc": "گزینه‌های زیر تنظیمات پیشرفتهٔ کلی را لغو می‌کنند و فقط برای این گفتگو اعمال می‌شوند.",
     "lng_chat_enhanced_default": "پیش‌فرض",
     "lng_chat_enhanced_enabled": "فعال",
     "lng_chat_enhanced_disabled": "غیرفعال",
-
     "lng_settings_remove_media_spoiler": "حذف اسپویلر رسانه",
     "lng_settings_show_media_metadata": "نمایش اطلاعات فراداده در نمایشگر رسانه",
     "lng_settings_disable_auto_fetch_webpage_preview": "غیرفعال کردن دریافت خودکار پیش‌نمایش صفحهٔ وب",
     "lng_forward_add_spoiler": "افزودن اسپویلر",
-
     "lng_message_search_filter_selected#one": "{count} نوع پیام انتخاب شده",
     "lng_message_search_filter_selected#other": "{count} نوع پیام انتخاب شده‌اند",
     "lng_message_search_filter_mentions": "منشن‌های من",
-
     "lng_settings_show_group_sender_online_status": "نمایش وضعیت آنلاین روی آواتارهای فرستندگان گروه",
     "lng_settings_hide_delete_for_others_checkbox": "مخفی کردن کادر انتخاب «حذف برای دیگران»",
     "lng_settings_send_comment_after_forwarding": "ارسال نظر پس از فوروارد",
-
     "lng_settings_shared_value_applied": "تنظیم پیشرفته اعمال شد.",
     "lng_settings_restart_to_apply": "برای اعمال این تغییر، برنامه را دوباره راه‌اندازی کنید.",
     "lng_chat_enhanced_reset": "بازنشانی به پیش‌فرض",
@@ -210,6 +170,81 @@
     "lng_link_preview_rule_pattern": "عبارت منظم URL",
     "lng_link_preview_rule_domain": "دامنه",
     "lng_settings_disable_sync_draft_to_cloud": "توقف همگام‌سازی پیش‌نویس‌های محلی با ابر",
-
-    "lng_tg_nya_toast": "میو >⩊<"
+    "lng_tg_nya_toast": "میو >⩊<",
+    "lng_bot_use_about": "پیشنهاد می‌کنیم پیش از استفاده از BotUse، {link} را بخوانید.",
+    "lng_bot_use_about_link": "راهنمای استفاده",
+    "lng_group_requests_add_all_sure#one": "آیا می‌خواهید {count} درخواست عضویت را تأیید کنید؟",
+    "lng_group_requests_add_all_sure#other": "آیا می‌خواهید همهٔ {count} درخواست عضویت را تأیید کنید؟",
+    "lng_group_requests_dismiss_all_sure#one": "آیا می‌خواهید {count} درخواست عضویت را رد کنید؟",
+    "lng_group_requests_dismiss_all_sure#other": "آیا می‌خواهید همهٔ {count} درخواست عضویت را رد کنید؟",
+    "lng_group_requests_added_all#one": "{count} درخواست عضویت تأیید شد.",
+    "lng_group_requests_added_all#other": "{count} درخواست عضویت تأیید شد.",
+    "lng_group_requests_dismissed_all#one": "{count} درخواست عضویت رد شد.",
+    "lng_group_requests_dismissed_all#other": "{count} درخواست عضویت رد شد.",
+    "lng_settings_show_message_forward_count": "نمایش تعداد فورواردهای پیام",
+    "lng_settings_show_gif_media_controls": "نمایش کنترل‌های رسانهٔ GIF",
+    "lng_bot_use_allow_reply_and_repeat_bots": "اجازهٔ پاسخ دادن و تکرار پیام‌های ربات",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "این مورد نیازمند فعال بودن ارتباط ربات‌به‌ربات در BotFather است.",
+    "lng_bot_use_auto_switch_rich_editor_about": "فقط برای کانال‌ها اعمال می‌شود.",
+    "lng_bot_use_auto_login_startup": "ورود خودکار هنگام شروع",
+    "lng_bot_use_auto_switch_rich_editor": "هنگام باز کردن ویرایشگر متن غنی، خودکار به ربات تغییر کند",
+    "lng_bot_use_rich_editor_switched": "برای ویرایشگر پیام غنی به {bot} تغییر کرد.",
+    "lng_bot_use_disable_typing_status": "غیرفعال کردن ارسال وضعیت تایپ",
+    "lng_bot_use_api_remove_bots_first": "پیش از تغییر اطلاعات API، همهٔ ربات‌های افزوده‌شده را حذف کنید.",
+    "lng_bot_use_manage": "مدیر ربات",
+    "lng_bot_use_choose": "ارسال به‌عنوان ربات در این گفتگو",
+    "lng_bot_use_choose_about": "یک هویت BotUse انتخاب کنید:",
+    "lng_bot_use_loading": "در حال بارگیری ربات‌های موجود…",
+    "lng_bot_use_load_error": "بارگیری ربات‌های گفتگو ممکن نشد. دوباره تلاش کنید.",
+    "lng_bot_use_no_chat_bots": "هیچ ربات افزوده‌شده‌ای در این گفتگو موجود نیست.",
+    "lng_bot_use_settings": "تنظیمات BotUse",
+    "lng_bot_use_api_settings": "تنظیمات API",
+    "lng_bot_use_api_credentials": "پیکربندی اطلاعات API",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "تغییر اطلاعات API نیازمند احراز هویت دوبارهٔ همهٔ ربات‌های افزوده‌شده است. اطلاعات جدید ذخیره شود؟",
+    "lng_bot_use_saved": "اطلاعات API ‏BotUse ذخیره شد.",
+    "lng_bot_use_add": "افزودن ربات",
+    "lng_bot_use_added": "ربات به BotUse افزوده شد.",
+    "lng_bot_use_token": "توکن ربات",
+    "lng_bot_use_unknown": "ربات ناشناخته",
+    "lng_bot_use_reauthenticate": "احراز هویت دوباره",
+    "lng_bot_use_replace_token": "به‌روزرسانی توکن ربات",
+    "lng_bot_use_remove_confirm": "این ربات از BotUse حذف شود؟",
+    "lng_bot_use_state_unconfigured": "اطلاعات API لازم است",
+    "lng_bot_use_state_disconnected": "قطع‌شده",
+    "lng_bot_use_state_authenticating": "در حال احراز هویت",
+    "lng_bot_use_state_ready": "آماده",
+    "lng_bot_use_state_needs_auth": "احراز هویت لازم است",
+    "lng_bot_use_state_config_error": "خطای پیکربندی API",
+    "lng_bot_use_invalid_api": "یک ID API معتبر و HASH API شانزده‌هشتی ۳۲ نویسه‌ای وارد کنید.",
+    "lng_bot_use_duplicate": "این ربات قبلاً افزوده شده است.",
+    "lng_bot_use_invalid_token": "یک توکن ربات معتبر وارد کنید.",
+    "lng_bot_use_busy": "BotUse مشغول است. پس از پایان عملیات فعلی دوباره تلاش کنید.",
+    "lng_bot_use_store_error": "BotUse نتوانست داده‌های رمزگذاری‌شده را ذخیره کند.",
+    "lng_bot_use_error": "خطای BotUse: {error}",
+    "lng_settings_peer_id_type": "نوع Peer ID",
+    "lng_translate_llm_test": "آزمایش",
+    "lng_translate_llm_test_success": "آزمون API ‏LLM با موفقیت انجام شد.",
+    "lng_translate_provider_llm": "ترجمهٔ LLM",
+    "lng_translate_llm_config": "تنظیمات ترجمهٔ LLM",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "Model name",
+    "lng_translate_llm_key": "API key",
+    "lng_translate_llm_extra_parameters": "Extra request parameters",
+    "lng_translate_llm_context": "ترجمهٔ هوشمند بافت‌محور",
+    "lng_translate_llm_context_desc": "پیام‌های اطراف و زنجیره‌های پیام پاسخ را به‌عنوان اطلاعات بافت ترجمه اضافه کنید.",
+    "lng_translate_llm_error_auth": "احراز هویت ترجمهٔ LLM ناموفق بود. کلید API را بررسی کنید.",
+    "lng_translate_llm_error_rate": "ترجمهٔ LLM محدود شده است. بعداً دوباره تلاش کنید.",
+    "lng_translate_llm_error_response": "ترجمهٔ LLM پاسخ نامعتبری برگرداند.",
+    "lng_translate_llm_error_network": "درخواست ترجمهٔ LLM ناموفق بود.",
+    "lng_translate_provider_setting": "ارائه‌دهندهٔ ترجمه",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "ارائه‌دهندهٔ ناشناخته",
+    "lng_translate_provider_unavailable": "ارائه‌دهندهٔ ترجمه در دسترس نیست.",
+    "lng_translate_provider_unavailable_short": "در دسترس نیست"
 }

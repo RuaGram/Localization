@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Ласкаво просимо до Yurigram Desktop.\nЦе швидкий і безпечний кліент",
-
     "lng_settings_enhanced": "Додаткові налаштування",
     "lng_settings_network": "Мережа",
     "lng_settings_net_upload_speed_boost": "Збільшення швидкості відвантаження",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "Приховати історії",
     "lng_settings_screen_shot_mode": "Режим знімка екрана",
     "lng_settings_restart_hint": "УВАГА: Зміна параметрів виділених червоним кольором, набуде чинності тільки після перезапуску програми.",
-
     "lng_settings_skip_message": "Перехід до непрочитаного чату",
     "lng_settings_skip_message_desc": "Примітка: Дозволяє комбінаціі ALT+↑/↓ пропускати прочитані чати і переходити до наступного непрочитаного.",
-    
     "lng_settings_recent_display_limit": "Обмеження відображення останніх наліпок",
     "lng_settings_recent_display_limit_default": "Типовий (20)",
-
     "lng_net_speed_boost_title": "Прискорення завантаження",
     "lng_net_speed_boost_desc": "Увага: високі значення параметру при повільному інтернеті можуть зробити гірше. Використовуйте на свій ризик.",
     "lng_show_emoji_button_as_text_desc": "Примітка: Якщо ви не бачите емодзі на кнопках, включіть цю опцію.",
     "lng_radio_controller_desc": "Примітка: Радіо-контролер — це експериментальний бот для управління аудіо-трансляцією.",
     "lng_auto_unmute_desc": "Примітка: Автоматичне увімкнення мікрофону при вході в голосовий чат.",
     "lng_settings_hide_messages_desc": "Примітка: ПОВІДОМЛЕННЯ НЕ ПРИХОВУЮТЬСЯ! Повідомлення будуть відображатись, але текст буде сховано у спойлер, а медіа не буде автоматично завантажуватись.",
-
     "lng_net_speed_boost_default": "Відключено",
     "lng_net_speed_boost_slight": "Трішки",
     "lng_net_speed_boost_medium": "Середнє",
     "lng_net_speed_boost_big": "Високе",
-
     "lng_net_boost_restart_desc": "Для збереження змін потрібен перезапуск додатку.\n\nПерезапустити зараз?",
     "lng_show_messages_id_desc": "Увага: Для збереження змін потрібен перезапуск додатку.",
-
     "lng_chat_restriction_reason": "Причина обмеження",
     "lng_copy_restriction_reason": "Причина обмеження копіювання",
-
     "lng_context_copy_callback_data": "Копіювати дані зворотного виклику",
     "lng_context_forward_selected_no_quote": "Переслати виділене без автора",
     "lng_selected_forward_no_quote": "Переслати без автора",
     "lng_forward_to_saved_message_text": "Зберегти",
     "lng_context_forward_msg_old_selected": "Переслати виділене (Класично)",
     "lng_selected_forward_emoji_classic": "📠(Класичне)",
-
     "lng_message_id": "ID повідомлення: ",
-
     "lng_admin_log_banned_send_stickers2": "Надсилати наліпки",
     "lng_admin_log_banned_send_gifs": "Надсилати GIF",
     "lng_admin_log_banned_send_games": "Надсилати ігри",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "Надсилати GIF",
     "lng_rights_chat_send_games": "Надсилати ігри",
     "lng_rights_chat_use_inline": "Використовувати інлайн-ботів",
-
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "Тут немає жодного GIF",
-
     "lng_create_supergroup_title": "Створити супергрупу",
     "lng_action_group_migrate": "Група була перетворена в супергрупу",
     "lng_sure_upgrade_group": "Ви впевнені, що хочете перетворити цю групу в супергрупу?",
     "lng_chat_upgrade_warning": "Увага: Цю дію неможливо скасувати.",
-
     "lng_user_not_found": "Користувача не знайдено. \nПримітка: перш ніж робити посилання на користувача, вам потрібно відкрити його профіль через цей клієнт.",
-
     "lng_settings_always_delete_for": "Відмічати видалення повідомлень",
     "lng_settings_delete_disabled": "Ніколи",
     "lng_settings_delete_for_group": "У групах",
     "lng_settings_delete_for_person": "В особистих чатах",
     "lng_settings_delete_for_both": "Завжди",
-
     "lng_title_forward_as_copy": "Копіювати в...",
     "lng_title_multiple_forward": "Переслати в...",
-
     "lng_context_forward_msg_multi": "Мульти-пересилання",
     "lng_context_forward_msg_old": "Переслати (Класичне)",
     "lng_context_show_messages_from": "Повідомлення користувача",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "Переслати в Збережене",
     "lng_context_repeater": "Повторювач",
     "lng_context_view_as_json": "Переглянути як JSON",
-
     "lng_settings_enable_hd_video": "Збільшити бітрейт відео",
     "lng_hd_video_hint": "Бітрейт відео змінено! Повторно приєднайтеся до голосового чату, якщо ви вже приєднані.",
-
     "lng_bitrate_controller": "Збільшити бітрейт аудіо",
     "lng_bitrate_controller_desc": "Увага: зміна цього параметра на високі значення може негативно вплинути на користувачів у повільних мережах.",
     "lng_bitrate_controller_hint": "Бітрейт аудіо змінено! Повторно приєднайтеся до голосового чату, якщо ви вже приєднані.",
-
     "lng_bitrate_controller_default": "Типовий (32 Кб/с)",
     "lng_bitrate_controller_64k": "64 Кб/с",
     "lng_bitrate_controller_96k": "96 Кб/с",
@@ -125,69 +106,48 @@
     "lng_bitrate_controller_192k": "192 Кб/с",
     "lng_bitrate_controller_256k": "256 Кб/с",
     "lng_bitrate_controller_320k": "320 Кб/с",
-
     "lng_pinned_message_show": "Показати закріплені",
     "lng_pinned_message_hide": "Приховати закріплені",
     "lng_pinned_message_view": "Відкрити закріплені",
     "lng_go_to_first_message": "Перейти до першого повідомлення",
-
     "lng_proxy_remove_all": "Видалити всі проксі",
-
     "lng_copy_profile_id": "ID скопійовано.",
-
     "lng_group_requests_ban": "Бан",
-
     "lng_blocked_user_hint": "[Повідомлення заблокованого користувача]\n",
-
     "lng_contact_is_mutual": "Цей контакт є спільним контактом.",
     "lng_settings_use_gt_api": "Використовувати Google Перекладач",
-
     "lng_settings_extra_context_menu_options": "Додаткові параметри контекстного меню",
     "lng_context_hide_message": "Приховати",
-
     "lng_attach_webpage_preview": "Попередній перегляд вебсторінки",
     "lng_link_preview_box_title": "Редагувати посилання вебсторінки",
-
     "lng_settings_rich_message_preview_blocks": "Обмеження блоків форматованих повідомлень",
     "lng_settings_rich_message_preview_blocks_desc": "Обмежте кількість блоків, що відображаються у форматованих повідомленнях. Натисніть «Показати більше» внизу повідомлення, щоб переглянути його повністю.",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} блоків",
-
     "lng_send_mark_as_gif": "Позначити як GIF",
-
     "lng_settings_community_chat_click": "Відкривати чат замість спільноти",
-
     "lng_context_more_forward": "Додаткові варіанти пересилання",
     "lng_settings_sticker_height": "Висота наліпок",
-
     "lng_forward_regroup_media": "Перегрупувати медіа",
     "lng_forward_separate_messages": "Розділити повідомлення",
-
     "lng_settings_force_show_webpage_preview": "Примусово показувати попередній перегляд вебсторінки",
-
     "lng_settings_interface": "Інтерфейс",
     "lng_settings_behavior": "Поведінка",
     "lng_settings_translation": "Переклад",
-
     "lng_chat_enhanced_settings": "Додаткові налаштування чату",
     "lng_chat_enhanced_settings_desc": "Наведені нижче параметри замінять глобальні додаткові налаштування та застосовуватимуться лише до цього чату.",
     "lng_chat_enhanced_default": "За замовчуванням",
     "lng_chat_enhanced_enabled": "Увімкнено",
     "lng_chat_enhanced_disabled": "Вимкнено",
-
     "lng_settings_remove_media_spoiler": "Зняти спойлер із медіа",
     "lng_settings_show_media_metadata": "Показувати інформацію про метадані в переглядачі медіа",
     "lng_settings_disable_auto_fetch_webpage_preview": "Вимкнути автоматичне завантаження попереднього перегляду вебсторінки",
     "lng_forward_add_spoiler": "Додати спойлер",
-
     "lng_message_search_filter_selected#one": "{count} вибраний тип повідомлення",
     "lng_message_search_filter_selected#other": "Вибрано типів повідомлень: {count}",
     "lng_message_search_filter_mentions": "Згадки про мене",
-
     "lng_settings_show_group_sender_online_status": "Показувати статус онлайн на аватарах відправників у групах",
     "lng_settings_hide_delete_for_others_checkbox": "Приховати прапорець «Видалити для інших»",
     "lng_settings_send_comment_after_forwarding": "Надсилати коментар після пересилання",
-
     "lng_settings_shared_value_applied": "Додаткове налаштування застосовано.",
     "lng_settings_restart_to_apply": "Перезапустіть застосунок, щоб зміна набула чинності.",
     "lng_chat_enhanced_reset": "Скинути до типових",
@@ -210,6 +170,81 @@
     "lng_link_preview_rule_pattern": "Регулярний вираз URL",
     "lng_link_preview_rule_domain": "Домен",
     "lng_settings_disable_sync_draft_to_cloud": "Припинити синхронізацію локальних чернеток із хмарою",
-
-    "lng_tg_nya_toast": "Няв >⩊<"
+    "lng_tg_nya_toast": "Няв >⩊<",
+    "lng_bot_use_about": "Радимо прочитати {link} перед використанням BotUse.",
+    "lng_bot_use_about_link": "посібник із використання",
+    "lng_group_requests_add_all_sure#one": "Схвалити {count} запит на вступ?",
+    "lng_group_requests_add_all_sure#other": "Схвалити всі {count} запитів на вступ?",
+    "lng_group_requests_dismiss_all_sure#one": "Відхилити {count} запит на вступ?",
+    "lng_group_requests_dismiss_all_sure#other": "Відхилити всі {count} запитів на вступ?",
+    "lng_group_requests_added_all#one": "{count} запит на вступ схвалено.",
+    "lng_group_requests_added_all#other": "{count} запитів на вступ схвалено.",
+    "lng_group_requests_dismissed_all#one": "{count} запит на вступ відхилено.",
+    "lng_group_requests_dismissed_all#other": "{count} запитів на вступ відхилено.",
+    "lng_settings_show_message_forward_count": "Показувати кількість пересилань повідомлення",
+    "lng_settings_show_gif_media_controls": "Показувати елементи керування GIF",
+    "lng_bot_use_allow_reply_and_repeat_bots": "Дозволити відповідати на повідомлення ботів і повторювати їх",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "Для цього в BotFather має бути ввімкнено зв’язок між ботами.",
+    "lng_bot_use_auto_switch_rich_editor_about": "Застосовується лише до каналів.",
+    "lng_bot_use_auto_login_startup": "Автоматичний вхід під час запуску",
+    "lng_bot_use_auto_switch_rich_editor": "Автоматично перемикатися на бота під час відкриття форматованого редактора",
+    "lng_bot_use_rich_editor_switched": "Для редактора форматованих повідомлень вибрано {bot}.",
+    "lng_bot_use_disable_typing_status": "Вимкнути надсилання статусу введення",
+    "lng_bot_use_api_remove_bots_first": "Видаліть усіх доданих ботів перед зміною облікових даних API.",
+    "lng_bot_use_manage": "Менеджер ботів",
+    "lng_bot_use_choose": "Надіслати як бот у цьому чаті",
+    "lng_bot_use_choose_about": "Виберіть ідентичність BotUse:",
+    "lng_bot_use_loading": "Завантаження доступних ботів…",
+    "lng_bot_use_load_error": "Не вдалося завантажити ботів чату. Спробуйте ще раз.",
+    "lng_bot_use_no_chat_bots": "У цьому чаті немає доданих ботів.",
+    "lng_bot_use_settings": "Налаштування BotUse",
+    "lng_bot_use_api_settings": "Налаштування API",
+    "lng_bot_use_api_credentials": "Налаштувати облікові дані API",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "Зміна облікових даних API вимагатиме повторної автентифікації всіх доданих ботів. Зберегти нові дані?",
+    "lng_bot_use_saved": "Облікові дані API BotUse збережено.",
+    "lng_bot_use_add": "Додати бота",
+    "lng_bot_use_added": "Бота додано до BotUse.",
+    "lng_bot_use_token": "Токен бота",
+    "lng_bot_use_unknown": "Невідомий бот",
+    "lng_bot_use_reauthenticate": "Повторно автентифікуватися",
+    "lng_bot_use_replace_token": "Оновити токен бота",
+    "lng_bot_use_remove_confirm": "Видалити цього бота з BotUse?",
+    "lng_bot_use_state_unconfigured": "Потрібні облікові дані API",
+    "lng_bot_use_state_disconnected": "Відключено",
+    "lng_bot_use_state_authenticating": "Автентифікація",
+    "lng_bot_use_state_ready": "Готово",
+    "lng_bot_use_state_needs_auth": "Потрібна автентифікація",
+    "lng_bot_use_state_config_error": "Помилка конфігурації API",
+    "lng_bot_use_invalid_api": "Введіть дійсний ID API та 32-символьний шістнадцятковий HASH API.",
+    "lng_bot_use_duplicate": "Цього бота вже додано.",
+    "lng_bot_use_invalid_token": "Введіть дійсний токен бота.",
+    "lng_bot_use_busy": "BotUse зайнятий. Спробуйте ще раз після завершення поточної операції.",
+    "lng_bot_use_store_error": "BotUse не вдалося зберегти зашифровані дані.",
+    "lng_bot_use_error": "Помилка BotUse: {error}",
+    "lng_settings_peer_id_type": "Тип Peer ID",
+    "lng_translate_llm_test": "Тест",
+    "lng_translate_llm_test_success": "Тест API LLM пройдено.",
+    "lng_translate_provider_llm": "Переклад LLM",
+    "lng_translate_llm_config": "Налаштування перекладу LLM",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "Model name",
+    "lng_translate_llm_key": "API key",
+    "lng_translate_llm_extra_parameters": "Extra request parameters",
+    "lng_translate_llm_context": "Розумний контекстний переклад",
+    "lng_translate_llm_context_desc": "Додавати навколишні повідомлення та ланцюжки відповідей як контекст перекладу.",
+    "lng_translate_llm_error_auth": "Помилка автентифікації перекладу LLM. Перевірте ключ API.",
+    "lng_translate_llm_error_rate": "Переклад LLM обмежено за частотою. Спробуйте пізніше.",
+    "lng_translate_llm_error_response": "Переклад LLM повернув недійсну відповідь.",
+    "lng_translate_llm_error_network": "Не вдалося виконати запит перекладу LLM.",
+    "lng_translate_provider_setting": "Постачальник перекладу",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "Невідомий постачальник",
+    "lng_translate_provider_unavailable": "Постачальник перекладу недоступний.",
+    "lng_translate_provider_unavailable_short": "Недоступно"
 }

@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Bem vindo ao Yurigram Desktop \nUm cliente Rápido e Seguro",
-
     "lng_settings_enhanced": "Configurações Melhoradas",
     "lng_settings_network": "Rede",
     "lng_settings_net_upload_speed_boost": "Aumentar Velocidade de Envio",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "Ocultar histórias",
     "lng_settings_screen_shot_mode": "Modo de Captura de Tela",
     "lng_settings_restart_hint": "AVISO: Configurações escritas em vermelho só tomarão efeito quando a aplicação for reiniciada.",
-
     "lng_settings_skip_message": "Pular para o Próximo Chat não lido",
     "lng_settings_skip_message_desc": "NOTA: O atalho ALT+↑/↓ irá pular para Conversas não lidas.",
-    
     "lng_settings_recent_display_limit": "Limite de exibição de figurinhas recentes",
     "lng_settings_recent_display_limit_default": "Padrão (20)",
-
     "lng_net_speed_boost_title": "Aumentar Velocidade de Rede",
     "lng_net_speed_boost_desc": "CUIDADO: Trocar este parâmetro em conexões lentas pode levar a resultados ainda piores.",
     "lng_show_emoji_button_as_text_desc": "NOTA: Se você não consegue ver um Botão de Emoji, por favor ligue está opção.",
     "lng_radio_controller_desc": "NOTA: O controle de rádio é um bot experimental para controlar sua seção de streaming de música.",
     "lng_auto_unmute_desc": "NOTA: Dessilenciar automaticamente ao entrar em um Chat de Voz.",
     "lng_settings_hide_messages_desc": "NOTA: ISTO NÃO REALMENTE ESCONDE! Mensagens ainda estarão disponíveis, porém o texto será convertido a um Spoiler e Mídias não serão baixadas automaticamente.",
-
     "lng_net_speed_boost_default": "Desativado",
     "lng_net_speed_boost_slight": "Baixo",
     "lng_net_speed_boost_medium": "Médio",
     "lng_net_speed_boost_big": "Alto",
-
     "lng_net_boost_restart_desc": "Você precisa reiniciar a aplicação para mudar a Velocidade de Rede.\n\nReiniciar agora?",
     "lng_show_messages_id_desc": "AVISO: as alterações terão efeito imediatamente após reiniciar.",
-
     "lng_chat_restriction_reason": "Motivo da Restrição",
     "lng_copy_restriction_reason": "Copiar Motivo da Restrição",
-
     "lng_context_copy_callback_data": "Copiar Dados de Callback",
     "lng_context_forward_selected_no_quote": "Encaminhar Selecionados (Sem Autor)",
     "lng_selected_forward_no_quote": "Encaminhar (Sem Autor)",
     "lng_forward_to_saved_message_text": "Salvar",
     "lng_context_forward_msg_old_selected": "Encaminhar Selecionados (Clássico)",
     "lng_selected_forward_emoji_classic": "📠(Clássico)",
-
     "lng_message_id": "ID da Mensagem: ",
-
     "lng_admin_log_banned_send_stickers2": "Enviar Figurinhas",
     "lng_admin_log_banned_send_gifs": "Enviar GIFs",
     "lng_admin_log_banned_send_games": "Enviar Jogos",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "Enviar GIFs",
     "lng_rights_chat_send_games": "Enviar Jogos",
     "lng_rights_chat_use_inline": "Usar Bots Inline",
-
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIFs",
     "lng_media_type_gifs": "GIFs",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} GIFs",
     "lng_profile_gifs_header": "GIFs",
     "lng_media_gif_empty": "Você não tem GIFs salvos",
-
     "lng_create_supergroup_title": "Novo Supergrupo",
     "lng_action_group_migrate": "o Grupo foi atualizado para um Supergrupo",
     "lng_sure_upgrade_group": "Tem certeza que deseja atualizar este Grupo para um Supergrupo?",
     "lng_chat_upgrade_warning": "NOTA: Isto não pode ser desfeito.",
-
     "lng_user_not_found": "404 Usuário não Encontrado.\nNota: Você precisa ter \"visto\" este usuário antes de abrir usando o link.",
-
     "lng_settings_always_delete_for": "Sempre selecionar \"Apagar Para Todos\" em",
     "lng_settings_delete_disabled": "Nunca",
     "lng_settings_delete_for_group": "Em Grupos",
     "lng_settings_delete_for_person": "Em Conversas Privadas",
     "lng_settings_delete_for_both": "Para Ambos",
-
     "lng_title_forward_as_copy": "Copiar para...",
     "lng_title_multiple_forward": "Encaminhar para...",
-
     "lng_context_forward_msg_multi": "Encaminhar para Várias Conversas",
     "lng_context_forward_msg_old": "Encaminhar apenas para uma Conversa",
     "lng_context_show_messages_from": "Mensagens do Usuário",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "Encaminhar para Mensagens Salvas",
     "lng_context_repeater": "Repetidor",
     "lng_context_view_as_json": "Ver como JSON",
-
     "lng_settings_enable_hd_video": "Bitrate de Vídeo mais Alto",
     "lng_hd_video_hint": "O Bitrate de Vídeo mudou! Saia e entre novamente em uma chamada de voz se você já está em uma.",
-
     "lng_bitrate_controller": "Bitrate de Áudio",
     "lng_bitrate_controller_desc": "AVISO: mudar este parâmetro para valores mais altos pode afetar usuários com conexões lentas.",
     "lng_bitrate_controller_hint": "O Bitrate de Áudio mudou! Saia e entre novamente em uma chamada de voz se você já está em uma.",
-
     "lng_bitrate_controller_default": "Padrão (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -125,69 +106,48 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "Mostrar Mensagem Fixada",
     "lng_pinned_message_hide": "Esconder Mensagem Fixada",
     "lng_pinned_message_view": "Ver Mensagem Fixada",
     "lng_go_to_first_message": "Ir para a Primeira Mensagem",
-
     "lng_proxy_remove_all": "Remover todos os Proxies",
-
     "lng_copy_profile_id": "ID copiado para a Área de Transferência.",
-
     "lng_group_requests_ban": "Banir",
-
     "lng_blocked_user_hint": "[Mensagem Bloqueada]\n",
-
     "lng_contact_is_mutual": "Este contato é um contato mútuo.",
     "lng_settings_use_gt_api": "Usar o Google Tradutor",
-
     "lng_settings_extra_context_menu_options": "Opções extras do menu de contexto",
     "lng_context_hide_message": "Esconder",
-
     "lng_attach_webpage_preview": "Visualização da página da web",
     "lng_link_preview_box_title": "Editar link da página da web",
-
     "lng_settings_rich_message_preview_blocks": "Limite de blocos de mensagens avançadas",
     "lng_settings_rich_message_preview_blocks_desc": "Limite a quantidade de blocos exibidos em mensagens avançadas nas conversas. Use Mostrar mais para abrir a mensagem completa.",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} blocos",
-
     "lng_send_mark_as_gif": "Marcar como GIF",
-
     "lng_settings_community_chat_click": "Abrir conversa em vez da comunidade",
-
     "lng_context_more_forward": "Mais opções de encaminhamento",
     "lng_settings_sticker_height": "Altura das figurinhas",
-
     "lng_forward_regroup_media": "Reagrupar mídias",
     "lng_forward_separate_messages": "Separar mensagens",
-
     "lng_settings_force_show_webpage_preview": "Forçar exibição da visualização da página da web",
-
     "lng_settings_interface": "Interface",
     "lng_settings_behavior": "Comportamento",
     "lng_settings_translation": "Tradução",
-
     "lng_chat_enhanced_settings": "Configurações aprimoradas do chat",
     "lng_chat_enhanced_settings_desc": "As opções abaixo substituirão as configurações aprimoradas globais e serão aplicadas somente a este chat.",
     "lng_chat_enhanced_default": "Padrão",
     "lng_chat_enhanced_enabled": "Ativado",
     "lng_chat_enhanced_disabled": "Desativado",
-
     "lng_settings_remove_media_spoiler": "Remover spoiler da mídia",
     "lng_settings_show_media_metadata": "Mostrar informações de metadados no visualizador de mídia",
     "lng_settings_disable_auto_fetch_webpage_preview": "Desativar o carregamento automático da visualização da página da web",
     "lng_forward_add_spoiler": "Adicionar spoiler",
-
     "lng_message_search_filter_selected#one": "{count} tipo de mensagem selecionado",
     "lng_message_search_filter_selected#other": "{count} tipos de mensagem selecionados",
     "lng_message_search_filter_mentions": "Menções a mim",
-
     "lng_settings_show_group_sender_online_status": "Mostrar o status online nos avatares dos remetentes em grupos",
     "lng_settings_hide_delete_for_others_checkbox": "Ocultar a caixa de seleção \"Apagar para outros\"",
     "lng_settings_send_comment_after_forwarding": "Enviar comentário após encaminhar",
-
     "lng_settings_shared_value_applied": "Configuração aprimorada aplicada.",
     "lng_settings_restart_to_apply": "Reinicie o aplicativo para que esta alteração entre em vigor.",
     "lng_chat_enhanced_reset": "Redefinir para o padrão",
@@ -210,6 +170,81 @@
     "lng_link_preview_rule_pattern": "Regex da URL",
     "lng_link_preview_rule_domain": "Domínio",
     "lng_settings_disable_sync_draft_to_cloud": "Parar de sincronizar rascunhos locais com a nuvem",
-
-    "lng_tg_nya_toast": "Miau >⩊<"
+    "lng_tg_nya_toast": "Miau >⩊<",
+    "lng_bot_use_about": "Recomendamos ler o {link} antes de usar o BotUse.",
+    "lng_bot_use_about_link": "guia de uso",
+    "lng_group_requests_add_all_sure#one": "Deseja aprovar {count} solicitação para entrar?",
+    "lng_group_requests_add_all_sure#other": "Deseja aprovar todas as {count} solicitações para entrar?",
+    "lng_group_requests_dismiss_all_sure#one": "Deseja dispensar {count} solicitação para entrar?",
+    "lng_group_requests_dismiss_all_sure#other": "Deseja dispensar todas as {count} solicitações para entrar?",
+    "lng_group_requests_added_all#one": "{count} solicitação para entrar foi aprovada.",
+    "lng_group_requests_added_all#other": "{count} solicitações para entrar foram aprovadas.",
+    "lng_group_requests_dismissed_all#one": "{count} solicitação para entrar foi dispensada.",
+    "lng_group_requests_dismissed_all#other": "{count} solicitações para entrar foram dispensadas.",
+    "lng_settings_show_message_forward_count": "Mostrar contagem de encaminhamentos da mensagem",
+    "lng_settings_show_gif_media_controls": "Mostrar controles de mídia GIF",
+    "lng_bot_use_allow_reply_and_repeat_bots": "Permitir responder e repetir mensagens de bots",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "Isso exige que a comunicação entre bots esteja ativada no BotFather.",
+    "lng_bot_use_auto_switch_rich_editor_about": "Aplica-se apenas a canais.",
+    "lng_bot_use_auto_login_startup": "Login automático ao iniciar",
+    "lng_bot_use_auto_switch_rich_editor": "Alternar automaticamente para o bot ao abrir o editor avançado",
+    "lng_bot_use_rich_editor_switched": "Alternado para {bot} no editor de mensagens avançadas.",
+    "lng_bot_use_disable_typing_status": "Desativar o envio do status de digitação",
+    "lng_bot_use_api_remove_bots_first": "Remova todos os bots adicionados antes de alterar as credenciais da API.",
+    "lng_bot_use_manage": "Gerenciador de bots",
+    "lng_bot_use_choose": "Enviar como bot neste chat",
+    "lng_bot_use_choose_about": "Escolha uma identidade do BotUse:",
+    "lng_bot_use_loading": "Carregando bots disponíveis…",
+    "lng_bot_use_load_error": "Não foi possível carregar os bots do chat. Tente novamente.",
+    "lng_bot_use_no_chat_bots": "Nenhum bot adicionado está disponível neste chat.",
+    "lng_bot_use_settings": "Configurações do BotUse",
+    "lng_bot_use_api_settings": "Configurações de API",
+    "lng_bot_use_api_credentials": "Configurar credenciais da API",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "Alterar as credenciais da API exigirá que todos os bots adicionados se autentiquem novamente. Salvar as novas credenciais?",
+    "lng_bot_use_saved": "Credenciais da API do BotUse salvas.",
+    "lng_bot_use_add": "Adicionar bot",
+    "lng_bot_use_added": "Bot adicionado ao BotUse.",
+    "lng_bot_use_token": "Token do bot",
+    "lng_bot_use_unknown": "Bot desconhecido",
+    "lng_bot_use_reauthenticate": "Autenticar novamente",
+    "lng_bot_use_replace_token": "Atualizar token do bot",
+    "lng_bot_use_remove_confirm": "Remover este bot do BotUse?",
+    "lng_bot_use_state_unconfigured": "Credenciais da API necessárias",
+    "lng_bot_use_state_disconnected": "Desconectado",
+    "lng_bot_use_state_authenticating": "Autenticando",
+    "lng_bot_use_state_ready": "Pronto",
+    "lng_bot_use_state_needs_auth": "Autenticação necessária",
+    "lng_bot_use_state_config_error": "Erro de configuração da API",
+    "lng_bot_use_invalid_api": "Insira um ID de API válido e um HASH de API hexadecimal de 32 caracteres.",
+    "lng_bot_use_duplicate": "Este bot já foi adicionado.",
+    "lng_bot_use_invalid_token": "Insira um token de bot válido.",
+    "lng_bot_use_busy": "O BotUse está ocupado. Tente novamente após a operação atual terminar.",
+    "lng_bot_use_store_error": "O BotUse não pôde salvar seus dados criptografados.",
+    "lng_bot_use_error": "Erro do BotUse: {error}",
+    "lng_settings_peer_id_type": "Tipo de ID de par",
+    "lng_translate_llm_test": "Testar",
+    "lng_translate_llm_test_success": "Teste da API LLM concluído com sucesso.",
+    "lng_translate_provider_llm": "Tradução LLM",
+    "lng_translate_llm_config": "Configurações de tradução LLM",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "Model name",
+    "lng_translate_llm_key": "API key",
+    "lng_translate_llm_extra_parameters": "Extra request parameters",
+    "lng_translate_llm_context": "Tradução inteligente com contexto",
+    "lng_translate_llm_context_desc": "Adicione mensagens próximas e cadeias de respostas como contexto de tradução.",
+    "lng_translate_llm_error_auth": "A autenticação da tradução LLM falhou. Verifique a chave da API.",
+    "lng_translate_llm_error_rate": "A tradução LLM está limitada. Tente novamente mais tarde.",
+    "lng_translate_llm_error_response": "A tradução LLM retornou uma resposta inválida.",
+    "lng_translate_llm_error_network": "A solicitação de tradução LLM falhou.",
+    "lng_translate_provider_setting": "Provedor de tradução",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "Provedor desconhecido",
+    "lng_translate_provider_unavailable": "O provedor de tradução não está disponível.",
+    "lng_translate_provider_unavailable_short": "Indisponível"
 }

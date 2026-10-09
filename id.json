@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Selamat datang di aplikasi Yurigram Desktop.\nIni cepat dan aman.",
-
     "lng_settings_enhanced": "Pengaturan yang Ditingkatkan",
     "lng_settings_network": "Jaringan",
     "lng_settings_net_upload_speed_boost": "Peningkatan kecepatan unggah",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "Sembunyikan cerita",
     "lng_settings_screen_shot_mode": "Mode tangkapan layar",
     "lng_settings_restart_hint": "PERINGATAN: Mengubah opsi yang berwarna merah hanya akan berlaku setelah aplikasi dimulai ulang.",
-
     "lng_settings_skip_message": "Lewati ke obrolan yang belum dibaca berikutnya",
     "lng_settings_skip_message_desc": "Catatan: Izinkan pintasan ALT+↑/↓ untuk melewati ke obrolan yang belum dibaca berikutnya",
-    
     "lng_settings_recent_display_limit": "Batas tampilan stiker terbaru",
     "lng_settings_recent_display_limit_default": "Bawaan (20)",
-
     "lng_net_speed_boost_title": "Peningkatan kecepatan jaringan",
     "lng_net_speed_boost_desc": "Peringatan: mengubah parameter ini ke nilai tinggi pada jaringan yang lambat dapat membuatnya lebih buruk. Gunakan dengan risiko Anda sendiri.",
     "lng_show_emoji_button_as_text_desc": "Catatan: Jika Anda tidak dapat melihat tombol emoji, aktifkan opsi ini.",
     "lng_radio_controller_desc": "Catatan: Pengontrol radio adalah bot eksperimental untuk mengontrol sesi streaming musik Anda.",
     "lng_auto_unmute_desc": "Catatan: Aktifkan suara secara otomatis saat Anda bergabung dengan obrolan suara.",
     "lng_settings_hide_messages_desc": "Catatan: INI TIDAK BENAR-BENAR DISEMBUNYIKAN! Pesan masih tersedia untuk dilihat, tetapi teks akan dikonversi ke Spoiler dan media tidak akan diunduh secara otomatis.",
-
     "lng_net_speed_boost_default": "Nonaktif",
     "lng_net_speed_boost_slight": "Kecil",
     "lng_net_speed_boost_medium": "Sedang",
     "lng_net_speed_boost_big": "Besar",
-
     "lng_net_boost_restart_desc": "Anda harus memulai ulang aplikasi untuk mengubah peningkatan jaringan.\n\nMulai ulang sekarang?",
     "lng_show_messages_id_desc": "Peringatan: perubahan akan segera berlaku dengan restart.",
-
     "lng_chat_restriction_reason": "Alasan Pembatasan",
     "lng_copy_restriction_reason": "Salin Alasan Pembatasan",
-
     "lng_context_copy_callback_data": "Salin Data Panggilan Balik",
     "lng_context_forward_selected_no_quote": "Teruskan yang Dipilih (Tanpa kutipan)",
     "lng_selected_forward_no_quote": "Teruskan (tanpa kutipan)",
     "lng_forward_to_saved_message_text": "Simpan",
     "lng_context_forward_msg_old_selected": "Teruskan yang Dipilih (Klasik)",
     "lng_selected_forward_emoji_classic": "📠 (Klasik)",
-
     "lng_message_id": "ID Pesan:",
-
     "lng_admin_log_banned_send_stickers2": "Kirim stiker",
     "lng_admin_log_banned_send_gifs": "Kirim GIF",
     "lng_admin_log_banned_send_games": "Kirim Game",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "Kirim GIF",
     "lng_rights_chat_send_games": "Kirim Game",
     "lng_rights_chat_use_inline": "Gunakan Inline Bot",
-
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "Belum ada GIF di sini",
-
     "lng_create_supergroup_title": "Supergrup Baru",
     "lng_action_group_migrate": "Grup ditingkatkan menjadi supergrup",
     "lng_sure_upgrade_group": "Apakah Anda yakin ingin meningkatkan grup ini menjadi supergrup?",
     "lng_chat_upgrade_warning": "Catatan: Tindakan ini tidak dapat dibatalkan",
-
     "lng_user_not_found": "404 Pengguna tidak ditemukan.\nCatatan: Anda harus telah \"melihat\" pengguna tersebut sebelum membuka tautan ini.",
-
     "lng_settings_always_delete_for": "Selalu pilih hapus untuk",
     "lng_settings_delete_disabled": "Nonaktif",
     "lng_settings_delete_for_group": "Grup",
     "lng_settings_delete_for_person": "Orang",
     "lng_settings_delete_for_both": "Mengapa tidak keduanya?",
-
     "lng_title_forward_as_copy": "Salin ke...",
     "lng_title_multiple_forward": "Maju ke...",
-
     "lng_context_forward_msg_multi": "Penerusan Banyak",
     "lng_context_forward_msg_old": "Penerusan Tunggal",
     "lng_context_show_messages_from": "Pesan Dari Pengguna",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "Teruskan ke Pesan Tersimpan",
     "lng_context_repeater": "Pengulang",
     "lng_context_view_as_json": "Lihat sebagai JSON",
-
     "lng_settings_enable_hd_video": "Bitrate video yang lebih tinggi",
     "lng_hd_video_hint": "Bitrate video diubah! Bergabung kembali dengan obrolan suara jika Anda sudah bergabung.",
-
     "lng_bitrate_controller": "Bitrate Audio",
     "lng_bitrate_controller_desc": "Peringatan: mengubah parameter ini ke nilai tinggi dapat memengaruhi pengguna di jaringan yang lambat.",
     "lng_bitrate_controller_hint": "Bitrate audio diubah! Bergabung kembali dengan obrolan suara jika Anda sudah bergabung.",
-
     "lng_bitrate_controller_default": "Bawaan (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -125,69 +106,48 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "Lihat pesan yang disematkan",
     "lng_pinned_message_hide": "Sembunyikan pesan yang disematkan",
     "lng_pinned_message_view": "Tampilkan pesan yang disematkan",
     "lng_go_to_first_message": "Pergi ke pesan pertama",
-
     "lng_proxy_remove_all": "Hapus semua proxy",
-
     "lng_copy_profile_id": "ID disalin ke papan klip.",
-
     "lng_group_requests_ban": "Blokir",
-
     "lng_blocked_user_hint": "[Pesan Pengguna yang Diblokir]",
-
     "lng_contact_is_mutual": "Kontak ini adalah kontak bersama.",
     "lng_settings_use_gt_api": "Gunakan Google Terjemahan",
-
     "lng_settings_extra_context_menu_options": "Opsi menu konteks tambahan",
     "lng_context_hide_message": "Sembunyikan",
-
     "lng_attach_webpage_preview": "Pratinjau halaman web",
     "lng_link_preview_box_title": "Sunting tautan halaman web",
-
     "lng_settings_rich_message_preview_blocks": "Batas blok pesan kaya",
     "lng_settings_rich_message_preview_blocks_desc": "Batasi jumlah blok yang ditampilkan untuk pesan kaya dalam obrolan. Gunakan Tampilkan lebih banyak untuk membuka pesan lengkap.",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} blok",
-
     "lng_send_mark_as_gif": "Tandai sebagai GIF",
-
     "lng_settings_community_chat_click": "Buka obrolan, bukan komunitas",
-
     "lng_context_more_forward": "Opsi penerusan lainnya",
     "lng_settings_sticker_height": "Tinggi stiker",
-
     "lng_forward_regroup_media": "Kelompokkan ulang media",
     "lng_forward_separate_messages": "Pisahkan pesan",
-
     "lng_settings_force_show_webpage_preview": "Paksa tampilkan pratinjau halaman web",
-
     "lng_settings_interface": "Antarmuka",
     "lng_settings_behavior": "Perilaku",
     "lng_settings_translation": "Terjemahan",
-
     "lng_chat_enhanced_settings": "Pengaturan obrolan yang ditingkatkan",
     "lng_chat_enhanced_settings_desc": "Pilihan di bawah akan mengesampingkan pengaturan global yang ditingkatkan dan hanya berlaku untuk obrolan ini.",
     "lng_chat_enhanced_default": "Bawaan",
     "lng_chat_enhanced_enabled": "Diaktifkan",
     "lng_chat_enhanced_disabled": "Dinonaktifkan",
-
     "lng_settings_remove_media_spoiler": "Hapus spoiler media",
     "lng_settings_show_media_metadata": "Tampilkan informasi metadata di penampil media",
     "lng_settings_disable_auto_fetch_webpage_preview": "Nonaktifkan pengambilan pratinjau halaman web otomatis",
     "lng_forward_add_spoiler": "Tambahkan spoiler",
-
     "lng_message_search_filter_selected#one": "{count} jenis pesan dipilih",
     "lng_message_search_filter_selected#other": "{count} jenis pesan dipilih",
     "lng_message_search_filter_mentions": "Mention saya",
-
     "lng_settings_show_group_sender_online_status": "Tampilkan status online pada avatar pengirim di grup",
     "lng_settings_hide_delete_for_others_checkbox": "Sembunyikan kotak centang \"Hapus untuk orang lain\"",
     "lng_settings_send_comment_after_forwarding": "Kirim komentar setelah meneruskan",
-
     "lng_settings_shared_value_applied": "Pengaturan yang ditingkatkan diterapkan.",
     "lng_settings_restart_to_apply": "Mulai ulang aplikasi agar perubahan ini diterapkan.",
     "lng_chat_enhanced_reset": "Atur Ulang ke Bawaan",
@@ -210,6 +170,81 @@
     "lng_link_preview_rule_pattern": "Regex URL",
     "lng_link_preview_rule_domain": "Domain",
     "lng_settings_disable_sync_draft_to_cloud": "Hentikan sinkronisasi draf lokal ke awan",
-
-    "lng_tg_nya_toast": "Meong >⩊<"
+    "lng_tg_nya_toast": "Meong >⩊<",
+    "lng_bot_use_about": "Kami menyarankan membaca {link} sebelum menggunakan BotUse.",
+    "lng_bot_use_about_link": "panduan penggunaan",
+    "lng_group_requests_add_all_sure#one": "Setujui {count} permintaan bergabung?",
+    "lng_group_requests_add_all_sure#other": "Setujui semua {count} permintaan bergabung?",
+    "lng_group_requests_dismiss_all_sure#one": "Tolak {count} permintaan bergabung?",
+    "lng_group_requests_dismiss_all_sure#other": "Tolak semua {count} permintaan bergabung?",
+    "lng_group_requests_added_all#one": "{count} permintaan bergabung disetujui.",
+    "lng_group_requests_added_all#other": "{count} permintaan bergabung disetujui.",
+    "lng_group_requests_dismissed_all#one": "{count} permintaan bergabung ditolak.",
+    "lng_group_requests_dismissed_all#other": "{count} permintaan bergabung ditolak.",
+    "lng_settings_show_message_forward_count": "Tampilkan jumlah penerusan pesan",
+    "lng_settings_show_gif_media_controls": "Tampilkan kontrol media GIF",
+    "lng_bot_use_allow_reply_and_repeat_bots": "Izinkan membalas dan mengulangi pesan bot",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "Ini memerlukan Komunikasi Bot-ke-Bot diaktifkan di BotFather.",
+    "lng_bot_use_auto_switch_rich_editor_about": "Hanya berlaku untuk kanal.",
+    "lng_bot_use_auto_login_startup": "Masuk otomatis saat mulai",
+    "lng_bot_use_auto_switch_rich_editor": "Beralih otomatis ke bot saat membuka editor teks kaya",
+    "lng_bot_use_rich_editor_switched": "Beralih ke {bot} untuk editor pesan kaya.",
+    "lng_bot_use_disable_typing_status": "Nonaktifkan pengiriman status mengetik",
+    "lng_bot_use_api_remove_bots_first": "Hapus semua bot yang ditambahkan sebelum mengubah kredensial API.",
+    "lng_bot_use_manage": "Pengelola Bot",
+    "lng_bot_use_choose": "Kirim sebagai Bot di chat ini",
+    "lng_bot_use_choose_about": "Pilih identitas BotUse:",
+    "lng_bot_use_loading": "Memuat Bot yang tersedia…",
+    "lng_bot_use_load_error": "Bot chat tidak dapat dimuat. Coba lagi.",
+    "lng_bot_use_no_chat_bots": "Tidak ada Bot yang ditambahkan di chat ini.",
+    "lng_bot_use_settings": "Pengaturan BotUse",
+    "lng_bot_use_api_settings": "Pengaturan API",
+    "lng_bot_use_api_credentials": "Konfigurasi kredensial API",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "Mengubah kredensial API mengharuskan semua bot yang ditambahkan untuk mengautentikasi lagi. Simpan kredensial baru?",
+    "lng_bot_use_saved": "Kredensial API BotUse disimpan.",
+    "lng_bot_use_add": "Tambah Bot",
+    "lng_bot_use_added": "Bot ditambahkan ke BotUse.",
+    "lng_bot_use_token": "Token Bot",
+    "lng_bot_use_unknown": "Bot tidak dikenal",
+    "lng_bot_use_reauthenticate": "Autentikasi lagi",
+    "lng_bot_use_replace_token": "Perbarui token bot",
+    "lng_bot_use_remove_confirm": "Hapus bot ini dari BotUse?",
+    "lng_bot_use_state_unconfigured": "Kredensial API diperlukan",
+    "lng_bot_use_state_disconnected": "Terputus",
+    "lng_bot_use_state_authenticating": "Mengautentikasi",
+    "lng_bot_use_state_ready": "Siap",
+    "lng_bot_use_state_needs_auth": "Autentikasi diperlukan",
+    "lng_bot_use_state_config_error": "Kesalahan konfigurasi API",
+    "lng_bot_use_invalid_api": "Masukkan ID API yang valid dan HASH API heksadesimal 32 karakter.",
+    "lng_bot_use_duplicate": "Bot ini sudah ditambahkan.",
+    "lng_bot_use_invalid_token": "Masukkan token bot yang valid.",
+    "lng_bot_use_busy": "BotUse sedang sibuk. Coba lagi setelah operasi saat ini selesai.",
+    "lng_bot_use_store_error": "BotUse tidak dapat menyimpan data terenkripsinya.",
+    "lng_bot_use_error": "Kesalahan BotUse: {error}",
+    "lng_settings_peer_id_type": "Jenis ID peer",
+    "lng_translate_llm_test": "Uji",
+    "lng_translate_llm_test_success": "Uji API LLM berhasil.",
+    "lng_translate_provider_llm": "Terjemahan LLM",
+    "lng_translate_llm_config": "Pengaturan terjemahan LLM",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "Model name",
+    "lng_translate_llm_key": "API key",
+    "lng_translate_llm_extra_parameters": "Extra request parameters",
+    "lng_translate_llm_context": "Terjemahan konteks cerdas",
+    "lng_translate_llm_context_desc": "Tambahkan pesan sekitar dan rantai pesan balasan sebagai informasi konteks terjemahan.",
+    "lng_translate_llm_error_auth": "Autentikasi terjemahan LLM gagal. Periksa kunci API.",
+    "lng_translate_llm_error_rate": "Terjemahan LLM dibatasi laju. Coba lagi nanti.",
+    "lng_translate_llm_error_response": "Terjemahan LLM mengembalikan respons tidak valid.",
+    "lng_translate_llm_error_network": "Permintaan terjemahan LLM gagal.",
+    "lng_translate_provider_setting": "Penyedia terjemahan",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "Penyedia tidak dikenal",
+    "lng_translate_provider_unavailable": "Penyedia terjemahan tidak tersedia.",
+    "lng_translate_provider_unavailable_short": "Tidak tersedia"
 }

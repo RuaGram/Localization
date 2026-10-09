@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Yurigram Masaüstü uygulamasına hoşgeldiniz.\nHızlı ve güvenli.",
-
     "lng_settings_enhanced": "Gelişmiş Ayarlar",
     "lng_settings_network": "Ağ",
     "lng_settings_net_upload_speed_boost": "Yükleme hızı ayarı",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "Hikâyeleri gizle",
     "lng_settings_screen_shot_mode": "Ekran görüntüsü modu",
     "lng_settings_restart_hint": "DİKKAT: Kırmızı ile renklendirilmiş seçeneklerin değiştirilmesi, yalnızca uygulama yeniden başlatıldıktan sonra geçerli olacaktır.",
-
     "lng_settings_skip_message": "Okunmamış sonraki sohbete git",
     "lng_settings_skip_message_desc": "Not: ALT+↑/↓ kısayolu ile okunmamış sonraki sohbete geçmeye izin ver",
-    
     "lng_settings_recent_display_limit": "Son kullanılan çıkartmaları görüntüleme sınırı",
     "lng_settings_recent_display_limit_default": "Varsayılan (20)",
-
     "lng_net_speed_boost_title": "Ağ hızı artışı",
     "lng_net_speed_boost_desc": "Uyarı: Yavaş ağlarda bu parametrenin yüksek değerlerle değiştirilmesi durumu daha da kötüleştirebilir. Kendi sorumluluğunuzda kullanın.",
     "lng_show_emoji_button_as_text_desc": "Not: İfade düğmesi göremiyorsanız, lütfen bu seçeneği açın.",
     "lng_radio_controller_desc": "Not: Radyo denetleyicisi, müzik akışı oturumunuzu kontrol etmek için deneysel bir bottur.",
     "lng_auto_unmute_desc": "Not: Sesli sohbete katıldığınızda sesi otomatik olarak açın.",
     "lng_settings_hide_messages_desc": "Not: GERÇEKTEN GİZLİ DEĞİLDİR! Mesajlar hâlâ görüntülenebilir, ancak metin İspiyon'a dönüştürülecek ve medya otomatik olarak indirilmeyecek.",
-
     "lng_net_speed_boost_default": "Varsayılan",
     "lng_net_speed_boost_slight": "Az",
     "lng_net_speed_boost_medium": "Orta",
     "lng_net_speed_boost_big": "Büyük",
-
     "lng_net_boost_restart_desc": "Ağ güçlendirmeyi değiştirmek için uygulamayı yeniden başlatmanız gerekecek.\n\nŞimdi yeniden başlatılsın mı?",
     "lng_show_messages_id_desc": "Uyarı: Değişiklikler yeniden başlatıldığında hemen geçerli olacaktır.",
-
     "lng_chat_restriction_reason": "Kısıtlama Nedeni",
     "lng_copy_restriction_reason": "Kısıtlama Nedenini Kopyala",
-
     "lng_context_copy_callback_data": "Geri Arama Verilerini Kopyala",
     "lng_context_forward_selected_no_quote": "Seçileni İlet (Alıntısız)",
     "lng_selected_forward_no_quote": "İlet (Alıntısız)",
     "lng_forward_to_saved_message_text": "Kaydet",
     "lng_context_forward_msg_old_selected": "Seçileni İlet (Klasik)",
     "lng_selected_forward_emoji_classic": "📠(Klasik)",
-
     "lng_message_id": "Mesaj ID'si: ",
-
     "lng_admin_log_banned_send_stickers2": "Çıkartma gönder",
     "lng_admin_log_banned_send_gifs": "GIF gönder",
     "lng_admin_log_banned_send_games": "Oyun gönder",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "GIF gönder",
     "lng_rights_chat_send_games": "Oyun gönder",
     "lng_rights_chat_use_inline": "Satır İçi Botları Kullanın",
-
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "Henüz GIF yok",
-
     "lng_create_supergroup_title": "Yeni Süpergrup",
     "lng_action_group_migrate": "Grup süpergruba yükseltildi",
     "lng_sure_upgrade_group": "Bu grubu süpergruba yükseltmek istediğinizden emin misiniz?",
     "lng_chat_upgrade_warning": "Not: Bu işlem geri alınamaz",
-
     "lng_user_not_found": "404 Kullanıcı bulunamadı.\nNot: Bu bağlantıyı açmadan önce o kullanıcıyı \"görmüş\" olmanız gerekir.",
-
     "lng_settings_always_delete_for": "her zaman sil'i seçin",
     "lng_settings_delete_disabled": "Kapalı",
     "lng_settings_delete_for_group": "Grup",
     "lng_settings_delete_for_person": "Kişi",
     "lng_settings_delete_for_both": "Grup/Kişi",
-
     "lng_title_forward_as_copy": "Kopyala...",
     "lng_title_multiple_forward": "İlet...",
-
     "lng_context_forward_msg_multi": "Çoklu İlet",
     "lng_context_forward_msg_old": "Tek İlet",
     "lng_context_show_messages_from": "Kullanıcıdan Gelen Mesajlar",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "Kayıtlı Mesajlara İlet",
     "lng_context_repeater": "Tekrarla",
     "lng_context_view_as_json": "JSON olarak görüntüle",
-
     "lng_settings_enable_hd_video": "Daha yüksek video bit hızı",
     "lng_hd_video_hint": "Video bit hızı değiştirildi! Bir sesli sohbete katıldıysanız çıkıp yeniden katılın.",
-
     "lng_bitrate_controller": "Ses Bit Hızı",
     "lng_bitrate_controller_desc": "Uyarı: Bu parametrenin yüksek değerlere değiştirilmesi, yavaş ağlarda kullanıcıyı etkileyebilir.",
     "lng_bitrate_controller_hint": "Ses bit hızı değiştirildi! Bir sesli sohbete katıldıysanız çıkıp yeniden katılın.",
-
     "lng_bitrate_controller_default": "Varsayılan (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -125,69 +106,48 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "Sabitlenmiş mesajı göster",
     "lng_pinned_message_hide": "Sabitlenmiş mesajı gizle",
     "lng_pinned_message_view": "Sabitlenmiş mesajı görüntüle",
     "lng_go_to_first_message": "İlk mesaja git",
-
     "lng_proxy_remove_all": "Tüm proxy'leri kaldır",
-
     "lng_copy_profile_id": "ID panoya kopyalandı.",
-
     "lng_group_requests_ban": "Yasakla",
-
     "lng_blocked_user_hint": "[Engellenen Kullanıcı Mesajı]\n",
-
     "lng_contact_is_mutual": "Bu kişi ortak bir kişidir.",
     "lng_settings_use_gt_api": "Google Çeviri'yi kullan",
-
     "lng_settings_extra_context_menu_options": "Ek bağlam menüsü seçenekleri",
     "lng_context_hide_message": "Gizle",
-
     "lng_attach_webpage_preview": "Web sayfası önizlemesi",
     "lng_link_preview_box_title": "Web sayfası bağlantısını düzenle",
-
     "lng_settings_rich_message_preview_blocks": "Zengin mesaj blokları sınırı",
     "lng_settings_rich_message_preview_blocks_desc": "Sohbetlerde zengin mesajlar için gösterilen blok sayısını sınırlayın. Tam mesajı açmak için Daha fazlasını göster'e dokunun.",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} blok",
-
     "lng_send_mark_as_gif": "GIF olarak işaretle",
-
     "lng_settings_community_chat_click": "Topluluk yerine sohbeti aç",
-
     "lng_context_more_forward": "Daha fazla iletme seçeneği",
     "lng_settings_sticker_height": "Çıkartma yüksekliği",
-
     "lng_forward_regroup_media": "Medyayı yeniden gruplandır",
     "lng_forward_separate_messages": "Mesajları ayır",
-
     "lng_settings_force_show_webpage_preview": "Web sayfası önizlemesini zorla göster",
-
     "lng_settings_interface": "Arayüz",
     "lng_settings_behavior": "Davranış",
     "lng_settings_translation": "Çeviri",
-
     "lng_chat_enhanced_settings": "Gelişmiş sohbet ayarları",
     "lng_chat_enhanced_settings_desc": "Aşağıdaki seçenekler genel gelişmiş ayarları geçersiz kılar ve yalnızca bu sohbet için uygulanır.",
     "lng_chat_enhanced_default": "Varsayılan",
     "lng_chat_enhanced_enabled": "Etkin",
     "lng_chat_enhanced_disabled": "Devre dışı",
-
     "lng_settings_remove_media_spoiler": "Medya spoilerını kaldır",
     "lng_settings_show_media_metadata": "Medya görüntüleyicide meta veri bilgilerini göster",
     "lng_settings_disable_auto_fetch_webpage_preview": "Web sayfası önizlemesini otomatik getirmeyi devre dışı bırak",
     "lng_forward_add_spoiler": "Spoiler ekle",
-
     "lng_message_search_filter_selected#one": "{count} mesaj türü seçildi",
     "lng_message_search_filter_selected#other": "{count} mesaj türü seçildi",
     "lng_message_search_filter_mentions": "Benden bahsedilenler",
-
     "lng_settings_show_group_sender_online_status": "Grup mesajı gönderenlerin avatarlarında çevrimiçi durumunu göster",
     "lng_settings_hide_delete_for_others_checkbox": "\"Diğerleri için sil\" onay kutusunu gizle",
     "lng_settings_send_comment_after_forwarding": "İlettikten sonra yorum gönder",
-
     "lng_settings_shared_value_applied": "Gelişmiş ayar uygulandı.",
     "lng_settings_restart_to_apply": "Bu değişikliğin etkili olması için uygulamayı yeniden başlatın.",
     "lng_chat_enhanced_reset": "Varsayılana sıfırla",
@@ -210,6 +170,81 @@
     "lng_link_preview_rule_pattern": "URL Normal İfadesi",
     "lng_link_preview_rule_domain": "Alan adı",
     "lng_settings_disable_sync_draft_to_cloud": "Yerel taslakları bulutla eşitlemeyi durdur",
-
-    "lng_tg_nya_toast": "Miyav >⩊<"
+    "lng_tg_nya_toast": "Miyav >⩊<",
+    "lng_bot_use_about": "BotUse’u kullanmadan önce {link} okumanızı öneririz.",
+    "lng_bot_use_about_link": "kullanım kılavuzu",
+    "lng_group_requests_add_all_sure#one": "{count} katılma isteğini onaylamak istiyor musunuz?",
+    "lng_group_requests_add_all_sure#other": "{count} katılma isteğinin tümünü onaylamak istiyor musunuz?",
+    "lng_group_requests_dismiss_all_sure#one": "{count} katılma isteğini reddetmek istiyor musunuz?",
+    "lng_group_requests_dismiss_all_sure#other": "{count} katılma isteğinin tümünü reddetmek istiyor musunuz?",
+    "lng_group_requests_added_all#one": "{count} katılma isteği onaylandı.",
+    "lng_group_requests_added_all#other": "{count} katılma isteği onaylandı.",
+    "lng_group_requests_dismissed_all#one": "{count} katılma isteği reddedildi.",
+    "lng_group_requests_dismissed_all#other": "{count} katılma isteği reddedildi.",
+    "lng_settings_show_message_forward_count": "Mesaj iletme sayısını göster",
+    "lng_settings_show_gif_media_controls": "GIF medya denetimlerini göster",
+    "lng_bot_use_allow_reply_and_repeat_bots": "Bot mesajlarına yanıt vermeye ve yinelemeye izin ver",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "Bu, BotFather’da Botlar Arası İletişim’in etkinleştirilmesini gerektirir.",
+    "lng_bot_use_auto_switch_rich_editor_about": "Yalnızca kanallarda geçerlidir.",
+    "lng_bot_use_auto_login_startup": "Başlangıçta otomatik giriş",
+    "lng_bot_use_auto_switch_rich_editor": "Zengin metin düzenleyicisi açılırken otomatik olarak bota geç",
+    "lng_bot_use_rich_editor_switched": "Zengin mesaj düzenleyicisi için {bot} botuna geçildi.",
+    "lng_bot_use_disable_typing_status": "Yazıyor durumunu göndermeyi devre dışı bırak",
+    "lng_bot_use_api_remove_bots_first": "API kimlik bilgilerini değiştirmeden önce eklenen tüm botları kaldırın.",
+    "lng_bot_use_manage": "Bot Yöneticisi",
+    "lng_bot_use_choose": "Bu sohbette Bot olarak gönder",
+    "lng_bot_use_choose_about": "BotUse kimliği seçin:",
+    "lng_bot_use_loading": "Kullanılabilir Botlar yükleniyor…",
+    "lng_bot_use_load_error": "Sohbet Botları yüklenemedi. Tekrar deneyin.",
+    "lng_bot_use_no_chat_bots": "Bu sohbette eklenmiş Bot yok.",
+    "lng_bot_use_settings": "BotUse Ayarları",
+    "lng_bot_use_api_settings": "API Ayarları",
+    "lng_bot_use_api_credentials": "API kimlik bilgilerini yapılandır",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "API kimlik bilgilerinin değiştirilmesi, eklenen tüm botların yeniden kimlik doğrulaması yapmasını gerektirir. Yeni kimlik bilgileri kaydedilsin mi?",
+    "lng_bot_use_saved": "BotUse API kimlik bilgileri kaydedildi.",
+    "lng_bot_use_add": "Bot Ekle",
+    "lng_bot_use_added": "Bot BotUse’a eklendi.",
+    "lng_bot_use_token": "Bot belirteci",
+    "lng_bot_use_unknown": "Bilinmeyen Bot",
+    "lng_bot_use_reauthenticate": "Yeniden doğrula",
+    "lng_bot_use_replace_token": "Bot belirtecini güncelle",
+    "lng_bot_use_remove_confirm": "Bu bot BotUse’dan kaldırılsın mı?",
+    "lng_bot_use_state_unconfigured": "API kimlik bilgileri gerekli",
+    "lng_bot_use_state_disconnected": "Bağlantı kesildi",
+    "lng_bot_use_state_authenticating": "Doğrulanıyor",
+    "lng_bot_use_state_ready": "Hazır",
+    "lng_bot_use_state_needs_auth": "Kimlik doğrulaması gerekli",
+    "lng_bot_use_state_config_error": "API yapılandırma hatası",
+    "lng_bot_use_invalid_api": "Geçerli bir API ID ve 32 karakterli onaltılık API HASH girin.",
+    "lng_bot_use_duplicate": "Bu bot zaten eklendi.",
+    "lng_bot_use_invalid_token": "Geçerli bir bot belirteci girin.",
+    "lng_bot_use_busy": "BotUse meşgul. Geçerli işlem tamamlandıktan sonra tekrar deneyin.",
+    "lng_bot_use_store_error": "BotUse şifrelenmiş verilerini kaydedemedi.",
+    "lng_bot_use_error": "BotUse hatası: {error}",
+    "lng_settings_peer_id_type": "Peer ID türü",
+    "lng_translate_llm_test": "Test",
+    "lng_translate_llm_test_success": "LLM API testi başarılı oldu.",
+    "lng_translate_provider_llm": "LLM Çeviri",
+    "lng_translate_llm_config": "LLM çeviri ayarları",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "Model name",
+    "lng_translate_llm_key": "API key",
+    "lng_translate_llm_extra_parameters": "Extra request parameters",
+    "lng_translate_llm_context": "Akıllı bağlam çevirisi",
+    "lng_translate_llm_context_desc": "Çevre mesajları ve yanıt mesajı zincirlerini çeviri bağlamı olarak ekleyin.",
+    "lng_translate_llm_error_auth": "LLM çeviri kimlik doğrulaması başarısız oldu. API anahtarını kontrol edin.",
+    "lng_translate_llm_error_rate": "LLM çevirisi hız sınırlı. Daha sonra tekrar deneyin.",
+    "lng_translate_llm_error_response": "LLM çevirisi geçersiz bir yanıt döndürdü.",
+    "lng_translate_llm_error_network": "LLM çeviri isteği başarısız oldu.",
+    "lng_translate_provider_setting": "Çeviri sağlayıcısı",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "Bilinmeyen sağlayıcı",
+    "lng_translate_provider_unavailable": "Çeviri sağlayıcısı kullanılamıyor.",
+    "lng_translate_provider_unavailable_short": "Kullanılamıyor"
 }

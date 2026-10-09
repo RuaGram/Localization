@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "Yurigram デスクトップアプリケーションへようこそ\n高速で安全です",
-
     "lng_settings_enhanced": "高度な設定",
     "lng_settings_network": "ネットワーク",
     "lng_settings_net_upload_speed_boost": "アップロード速度ブースト",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "ストーリーを非表示",
     "lng_settings_screen_shot_mode": "スクリーンショットモード",
     "lng_settings_restart_hint": "警告: 赤色の項目を変更した場合、アプリの再起動後に反映されます。",
-
     "lng_settings_skip_message": "次の未読チャットに移動",
     "lng_settings_skip_message_desc": "注釈: ALT+↑/↓ のショートカットを利用して次の未読チャットに移動できるようになります。",
-    
     "lng_settings_recent_display_limit": "最近使ったステッカーの表示数上限",
     "lng_settings_recent_display_limit_default": "デフォルト (20)",
-
     "lng_net_speed_boost_title": "ネットワーク速度ブースト",
     "lng_net_speed_boost_desc": "警告: 低速なネットワークでこの項目の値を上げると、むしろさらに低速になることがあります。自己責任で利用してください。",
     "lng_show_emoji_button_as_text_desc": "注釈: 絵文字ボタンが表示されていない場合、このオプションを有効化してください。",
     "lng_radio_controller_desc": "注釈: ラジオコントローラーは、音楽ストリーミングセッションを管理するための実験的なbotです。",
     "lng_auto_unmute_desc": "注釈: ボイスチャットに参加したとき、自動的にミュートを解除します。",
     "lng_settings_hide_messages_desc": "注釈: 実際には完全に隠されるわけではありません! メッセージは引き続き閲覧できますが、テキストは伏せ字になり、メディアの自動ダウンロードが無効になります。",
-
     "lng_net_speed_boost_default": "無効",
     "lng_net_speed_boost_slight": "小",
     "lng_net_speed_boost_medium": "中",
     "lng_net_speed_boost_big": "大",
-
     "lng_net_boost_restart_desc": "ネットワークブーストを変更するにはアプリ再起動が必要です。\n\n再起動しますか?",
     "lng_show_messages_id_desc": "警告: 変更は再起動後から反映されます。",
-
     "lng_chat_restriction_reason": "制限理由",
     "lng_copy_restriction_reason": "制限理由をコピー",
-
     "lng_context_copy_callback_data": "コールバックデータをコピー",
     "lng_context_forward_selected_no_quote": "選択項目を転送 (引用符なし)",
     "lng_selected_forward_no_quote": "転送 (引用符なし)",
     "lng_forward_to_saved_message_text": "保存",
     "lng_context_forward_msg_old_selected": "選択項目を転送 (クラシックスタイル)",
     "lng_selected_forward_emoji_classic": "📠(クラシックスタイル)",
-
     "lng_message_id": "メッセージID: ",
-
     "lng_admin_log_banned_send_stickers2": "ステッカーを送信",
     "lng_admin_log_banned_send_gifs": "GIFを送信",
     "lng_admin_log_banned_send_games": "ゲームを送信",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "GIFを送信",
     "lng_rights_chat_send_games": "ゲームを送信",
     "lng_rights_chat_use_inline": "組み込みBotを利用",
-
     "lng_media_selected_gif#one": "{count} GIF",
     "lng_media_selected_gif#other": "{count} GIF",
     "lng_media_type_gifs": "GIF",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} GIF",
     "lng_profile_gifs_header": "GIF",
     "lng_media_gif_empty": "GIFがありません",
-
     "lng_create_supergroup_title": "新規スーパーグループ",
     "lng_action_group_migrate": "グループがスーパーグループにアップグレードされました",
     "lng_sure_upgrade_group": "グループをスーパーグループにアップグレードしますか?",
     "lng_chat_upgrade_warning": "注釈: この操作は元に戻せません",
-
     "lng_user_not_found": "404 ユーザーが見つかりません。\n注釈: このリンクを開く前にユーザーを \"見た\" ことがあるはずです。",
-
     "lng_settings_always_delete_for": "常に削除対象を選択",
     "lng_settings_delete_disabled": "無効",
     "lng_settings_delete_for_group": "グループ",
     "lng_settings_delete_for_person": "ユーザー",
     "lng_settings_delete_for_both": "両方?",
-
     "lng_title_forward_as_copy": "コピー先 ...",
     "lng_title_multiple_forward": "転送先 ...",
-
     "lng_context_forward_msg_multi": "複数転送",
     "lng_context_forward_msg_old": "単一転送",
     "lng_context_show_messages_from": "ユーザーからのメッセージ",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "保存用に転送",
     "lng_context_repeater": "リピーター",
     "lng_context_view_as_json": "JSON として表示",
-
     "lng_settings_enable_hd_video": "動画ビットレートを高くする",
     "lng_hd_video_hint": "動画ビットレートが変更されました! ボイスチャットに参加中の場合、参加し直してください。",
-
     "lng_bitrate_controller": "音声ビットレート",
     "lng_bitrate_controller_desc": "警告: 低速なネットワークでこの項目の値を上げると、不安定になることがあります。",
     "lng_bitrate_controller_hint": "音声ビットレートが変更されました! ボイスチャットに参加中の場合、参加し直してください。",
-
     "lng_bitrate_controller_default": "デフォルト (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -125,69 +106,48 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "固定メッセージを表示",
     "lng_pinned_message_hide": "固定メッセージを非表示",
     "lng_pinned_message_view": "固定メッセージを閲覧",
     "lng_go_to_first_message": "最初のメッセージへ移動",
-
     "lng_proxy_remove_all": "すべてのプロキシを削除",
-
     "lng_copy_profile_id": "IDがクリップボードにコピーされました",
-
     "lng_group_requests_ban": "禁止",
-
     "lng_blocked_user_hint": "[ブロック中ユーザーのメッセージ]\n",
-
     "lng_contact_is_mutual": "この連絡先は共通の連絡先です。",
     "lng_settings_use_gt_api": "Google 翻訳を使用",
-
     "lng_settings_extra_context_menu_options": "コンテキストメニューの追加オプション",
     "lng_context_hide_message": "非表示",
-
     "lng_attach_webpage_preview": "Webページのプレビュー",
     "lng_link_preview_box_title": "Webページリンクを編集",
-
     "lng_settings_rich_message_preview_blocks": "リッチメッセージのブロック数上限",
     "lng_settings_rich_message_preview_blocks_desc": "チャット内のリッチメッセージに表示するブロック数を制限します。メッセージ全体を開くには、もっと見るを使用してください。",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} ブロック",
-
     "lng_send_mark_as_gif": "GIF として表示",
-
     "lng_settings_community_chat_click": "コミュニティではなくチャットを開く",
-
     "lng_context_more_forward": "その他の転送オプション",
     "lng_settings_sticker_height": "ステッカーの高さ",
-
     "lng_forward_regroup_media": "メディアを再グループ化",
     "lng_forward_separate_messages": "メッセージを分離",
-
     "lng_settings_force_show_webpage_preview": "Webページのプレビューを強制表示",
-
     "lng_settings_interface": "インターフェース",
     "lng_settings_behavior": "動作",
     "lng_settings_translation": "翻訳",
-
     "lng_chat_enhanced_settings": "チャットの高度な設定",
     "lng_chat_enhanced_settings_desc": "以下のオプションはグローバルの高度な設定を上書きし、このチャットにのみ適用されます。",
     "lng_chat_enhanced_default": "デフォルト",
     "lng_chat_enhanced_enabled": "有効",
     "lng_chat_enhanced_disabled": "無効",
-
     "lng_settings_remove_media_spoiler": "メディアのスポイラーを削除",
     "lng_settings_show_media_metadata": "メディアビューアーにメタデータ情報を表示",
     "lng_settings_disable_auto_fetch_webpage_preview": "Webページのプレビューの自動取得を無効化",
     "lng_forward_add_spoiler": "スポイラーを追加",
-
     "lng_message_search_filter_selected#one": "{count} 件のメッセージタイプを選択済み",
     "lng_message_search_filter_selected#other": "{count} 件のメッセージタイプを選択済み",
     "lng_message_search_filter_mentions": "自分へのメンション",
-
     "lng_settings_show_group_sender_online_status": "グループ内の送信者のアバターにオンライン状態を表示",
     "lng_settings_hide_delete_for_others_checkbox": "「他のユーザーにも削除」チェックボックスを非表示",
     "lng_settings_send_comment_after_forwarding": "転送後にコメントを送信",
-
     "lng_settings_shared_value_applied": "高度な設定を適用しました。",
     "lng_settings_restart_to_apply": "この変更を有効にするにはアプリを再起動してください。",
     "lng_chat_enhanced_reset": "デフォルトに戻す",
@@ -210,6 +170,81 @@
     "lng_link_preview_rule_pattern": "URL 正規表現",
     "lng_link_preview_rule_domain": "ドメイン",
     "lng_settings_disable_sync_draft_to_cloud": "ローカルの下書きのクラウドへの同期を停止",
-
-    "lng_tg_nya_toast": "ニャー >⩊<"
+    "lng_tg_nya_toast": "ニャー >⩊<",
+    "lng_bot_use_about": "BotUse を使う前に{link}を読むことをおすすめします。",
+    "lng_bot_use_about_link": "使用ガイド",
+    "lng_group_requests_add_all_sure#one": "{count} 件の参加リクエストを承認しますか？",
+    "lng_group_requests_add_all_sure#other": "{count} 件すべての参加リクエストを承認しますか？",
+    "lng_group_requests_dismiss_all_sure#one": "{count} 件の参加リクエストを却下しますか？",
+    "lng_group_requests_dismiss_all_sure#other": "{count} 件すべての参加リクエストを却下しますか？",
+    "lng_group_requests_added_all#one": "{count} 件の参加リクエストを承認しました。",
+    "lng_group_requests_added_all#other": "{count} 件の参加リクエストを承認しました。",
+    "lng_group_requests_dismissed_all#one": "{count} 件の参加リクエストを却下しました。",
+    "lng_group_requests_dismissed_all#other": "{count} 件の参加リクエストを却下しました。",
+    "lng_settings_show_message_forward_count": "メッセージの転送回数を表示",
+    "lng_settings_show_gif_media_controls": "GIF メディアコントロールを表示",
+    "lng_bot_use_allow_reply_and_repeat_bots": "Bot のメッセージへの返信と繰り返しを許可",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "これには BotFather で Bot 間通信を有効にする必要があります。",
+    "lng_bot_use_auto_switch_rich_editor_about": "チャンネルにのみ適用されます。",
+    "lng_bot_use_auto_login_startup": "起動時に自動ログイン",
+    "lng_bot_use_auto_switch_rich_editor": "リッチテキストエディターを開いたときに自動で Bot に切り替える",
+    "lng_bot_use_rich_editor_switched": "リッチメッセージエディターを {bot} に切り替えました。",
+    "lng_bot_use_disable_typing_status": "入力中ステータスの送信を無効にする",
+    "lng_bot_use_api_remove_bots_first": "API 認証情報を変更する前に、追加済みの Bot をすべて削除してください。",
+    "lng_bot_use_manage": "Bot マネージャー",
+    "lng_bot_use_choose": "このチャットで Bot として送信",
+    "lng_bot_use_choose_about": "BotUse のIDを選択：",
+    "lng_bot_use_loading": "利用可能な Bot を読み込み中…",
+    "lng_bot_use_load_error": "チャットの Bot を読み込めませんでした。もう一度お試しください。",
+    "lng_bot_use_no_chat_bots": "このチャットで利用できる追加済み Bot はありません。",
+    "lng_bot_use_settings": "BotUse 設定",
+    "lng_bot_use_api_settings": "API 設定",
+    "lng_bot_use_api_credentials": "API 認証情報を設定",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "API 認証情報を変更すると、追加済みのすべての Bot で再認証が必要になります。新しい認証情報を保存しますか？",
+    "lng_bot_use_saved": "BotUse の API 認証情報を保存しました。",
+    "lng_bot_use_add": "Bot を追加",
+    "lng_bot_use_added": "Bot を BotUse に追加しました。",
+    "lng_bot_use_token": "Bot トークン",
+    "lng_bot_use_unknown": "不明な Bot",
+    "lng_bot_use_reauthenticate": "再認証",
+    "lng_bot_use_replace_token": "Bot トークンを更新",
+    "lng_bot_use_remove_confirm": "この Bot を BotUse から削除しますか？",
+    "lng_bot_use_state_unconfigured": "API 認証情報が必要です",
+    "lng_bot_use_state_disconnected": "切断済み",
+    "lng_bot_use_state_authenticating": "認証中",
+    "lng_bot_use_state_ready": "準備完了",
+    "lng_bot_use_state_needs_auth": "認証が必要です",
+    "lng_bot_use_state_config_error": "API 設定エラー",
+    "lng_bot_use_invalid_api": "有効な API ID と32文字の16進数 API HASH を入力してください。",
+    "lng_bot_use_duplicate": "この Bot はすでに追加されています。",
+    "lng_bot_use_invalid_token": "有効な Bot トークンを入力してください。",
+    "lng_bot_use_busy": "BotUse は処理中です。現在の操作が終わってからもう一度お試しください。",
+    "lng_bot_use_store_error": "BotUse は暗号化データを保存できませんでした。",
+    "lng_bot_use_error": "BotUse エラー: {error}",
+    "lng_settings_peer_id_type": "ピア ID の種類",
+    "lng_translate_llm_test": "テスト",
+    "lng_translate_llm_test_success": "LLM API テストに成功しました。",
+    "lng_translate_provider_llm": "LLM 翻訳",
+    "lng_translate_llm_config": "LLM 翻訳設定",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "Model name",
+    "lng_translate_llm_key": "API key",
+    "lng_translate_llm_extra_parameters": "Extra request parameters",
+    "lng_translate_llm_context": "スマートコンテキスト翻訳",
+    "lng_translate_llm_context_desc": "周囲のメッセージと返信メッセージの連鎖を翻訳のコンテキスト情報として追加します。",
+    "lng_translate_llm_error_auth": "LLM 翻訳の認証に失敗しました。API キーを確認してください。",
+    "lng_translate_llm_error_rate": "LLM 翻訳はレート制限されています。後でもう一度お試しください。",
+    "lng_translate_llm_error_response": "LLM 翻訳が無効な応答を返しました。",
+    "lng_translate_llm_error_network": "LLM 翻訳リクエストに失敗しました。",
+    "lng_translate_provider_setting": "翻訳プロバイダー",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "不明なプロバイダー",
+    "lng_translate_provider_unavailable": "翻訳プロバイダーは利用できません。",
+    "lng_translate_provider_unavailable_short": "利用不可"
 }

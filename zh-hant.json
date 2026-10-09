@@ -1,6 +1,5 @@
 {
     "lng_intro_about2": "歡迎使用 Yurigram 桌面版。\n我既快又安全。",
-
     "lng_settings_enhanced": "增強設定",
     "lng_settings_network": "網路",
     "lng_settings_net_upload_speed_boost": "上傳加速",
@@ -33,40 +32,31 @@
     "lng_settings_hide_stories": "隱藏動態",
     "lng_settings_screen_shot_mode": "截圖模式",
     "lng_settings_restart_hint": "警告：變更有色選項會立即重新啟動並套用相關設定。",
-
     "lng_settings_skip_message": "跳到下一個未閱讀的聊天",
     "lng_settings_skip_message_desc": "注意：允許按下 ALT+↑/↓ 跳到下一個未閱讀的聊天",
-    
     "lng_settings_recent_display_limit": "最近用過的貼圖顯示數量",
     "lng_settings_recent_display_limit_default": "預設 (20)",
-
     "lng_net_speed_boost_title": "網路加速",
     "lng_net_speed_boost_desc": "警告：如果您的網路較慢的話，更改此項設定只會令情況惡化。",
     "lng_show_emoji_button_as_text_desc": "提示：如果你的 Yurigram 不能正確顯示 emoji 按鈕時，請開啟此選項。",
     "lng_radio_controller_desc": "注意：電台遙控器是一個可以控制你的音樂串流 session 的實驗性機器人。",
     "lng_auto_unmute_desc": "注意：加入語音聊天時自動解除靜音。",
     "lng_settings_hide_messages_desc": "注意：訊息實際上並沒有隱藏！訊息依然可以觀看，只是文字被轉成「劇透」，且媒體不會自動下載。",
-
     "lng_net_speed_boost_default": "停用",
     "lng_net_speed_boost_slight": "1 倍",
     "lng_net_speed_boost_medium": "2 倍",
     "lng_net_speed_boost_big": "3 倍",
-
     "lng_net_boost_restart_desc": "您需要重新啟動以變更網路加速設定。\n\n是否立即重新啟動？",
     "lng_show_messages_id_desc": "警告：該選項會於重新啟動後生效。",
-
     "lng_chat_restriction_reason": "限制原因",
     "lng_copy_restriction_reason": "複製限制原因",
-
     "lng_context_copy_callback_data": "複製 callback 內容",
     "lng_context_forward_selected_no_quote": "轉發已選訊息（不引用）",
     "lng_selected_forward_no_quote": "轉發（不引用）",
     "lng_forward_to_saved_message_text": "收藏",
     "lng_context_forward_msg_old_selected": "轉發已選訊息（傳統）",
     "lng_selected_forward_emoji_classic": "📠（傳統）",
-
     "lng_message_id": "訊息 ID: ",
-
     "lng_admin_log_banned_send_stickers2": "傳送貼圖",
     "lng_admin_log_banned_send_gifs": "傳送 GIFs",
     "lng_admin_log_banned_send_games": "傳送遊戲",
@@ -75,7 +65,6 @@
     "lng_rights_chat_send_gifs": "傳送 GIFs",
     "lng_rights_chat_send_games": "傳送遊戲",
     "lng_rights_chat_use_inline": "使用內嵌式機器人",
-
     "lng_media_selected_gif#one": "{count} 張 GIF",
     "lng_media_selected_gif#other": "{count} 張 GIFs",
     "lng_media_type_gifs": "GIFs",
@@ -83,23 +72,18 @@
     "lng_profile_gifs#other": "{count} 張 GIFs",
     "lng_profile_gifs_header": "GIFs",
     "lng_media_gif_empty": "這裡還沒有 GIF",
-
     "lng_create_supergroup_title": "建立超級群組",
     "lng_action_group_migrate": "此群組已升級為超級群組。",
     "lng_sure_upgrade_group": "您確定要將此群組升級為超級群組？",
     "lng_chat_upgrade_warning": "警告：此動作無法回復。",
-
     "lng_user_not_found": "404 找不到使用者。\n說明：您必須曾經在其他地方「見過」該使用者才能開啟此連結。",
-
     "lng_settings_always_delete_for": "自動勾選刪除訊息",
     "lng_settings_delete_disabled": "停用",
     "lng_settings_delete_for_group": "群組",
     "lng_settings_delete_for_person": "個人",
     "lng_settings_delete_for_both": "何不都要？",
-
     "lng_title_forward_as_copy": "複製至……",
     "lng_title_multiple_forward": "轉發至……",
-
     "lng_context_forward_msg_multi": "多重轉發",
     "lng_context_forward_msg_old": "傳統轉發",
     "lng_context_show_messages_from": "該使用者發送的訊息",
@@ -109,14 +93,11 @@
     "lng_forward_to_saved_message": "儲存的訊息",
     "lng_context_repeater": "複讀",
     "lng_context_view_as_json": "查看 JSON 資料",
-
     "lng_settings_enable_hd_video": "較高的影像 bitrate",
     "lng_hd_video_hint": "影像 bitrate 已更改！如果你已在語音聊天中，請重新加入語音聊天。",
-
     "lng_bitrate_controller": "音訊 bitrate",
     "lng_bitrate_controller_desc": "警告：將此參數設定調高可能會影響網路較慢的使用者。",
     "lng_bitrate_controller_hint": "音訊 bitrate 已更改！如果你已在語音聊天中，請重新加入語音聊天。",
-
     "lng_bitrate_controller_default": "預設 (32 Kbps)",
     "lng_bitrate_controller_64k": "64 Kbps",
     "lng_bitrate_controller_96k": "96 Kbps",
@@ -125,92 +106,59 @@
     "lng_bitrate_controller_192k": "192 Kbps",
     "lng_bitrate_controller_256k": "256 Kbps",
     "lng_bitrate_controller_320k": "320 Kbps",
-
     "lng_pinned_message_show": "顯示置頂訊息",
     "lng_pinned_message_hide": "隱藏置頂訊息",
     "lng_pinned_message_view": "查看置頂訊息",
     "lng_go_to_first_message": "前往第一則訊息",
-
     "lng_proxy_remove_all": "移除所有代理伺服器",
-
     "lng_copy_profile_id": "已將 ID 複製到剪貼簿。",
-
     "lng_group_requests_ban": "封鎖",
-
     "lng_blocked_user_hint": "[已封鎖的訊息]\n",
-
     "lng_contact_is_mutual": "此使用者為您的雙向聯絡人",
-
     "lng_settings_use_gt_api": "使用 Google 翻譯",
-
     "lng_settings_hide_star_ratings": "隱藏用戶頁面的 Stars 等級",
-
     "lng_settings_no_animoji": "禁用 Premium 專屬 Emoji 動畫",
-
     "lng_settings_old_reply_layout": "使用經典回覆介面",
-
     "lng_settings_wide_messages": "更寬和更大的媒體訊息預覽",
-
     "lng_settings_show_similar_on_joined": "在加入頻道時顯示相似頻道",
-
     "lng_settings_multichoice_squares": "多選投票選項使用方框",
-
     "lng_settings_more_right_action_comments": "移動評論區按鈕到頻道訊息右側",
-
     "lng_settings_mpris_call_hangup": "使用系統媒體控制介面接聽或掛斷通話",
-
     "lng_settings_show_group_sender_avatar": "在群聊頭像下方顯示發送者頭像",
-
     "lng_settings_disable_recent_stickers_limit": "禁用最近貼圖數量限制",
-
     "lng_settings_force_mobile": "強制使用行動裝置介面佈局",
-
     "lng_settings_extra_context_menu_options": "更多訊息選單選項",
     "lng_context_hide_message": "隱藏",
-
     "lng_attach_webpage_preview": "網頁預覽",
     "lng_link_preview_box_title": "編輯網頁連結",
-
     "lng_settings_rich_message_preview_blocks": "富文本訊息區塊顯示上限",
     "lng_settings_rich_message_preview_blocks_desc": "限制聊天中富文本訊息區塊的最大顯示數量，點擊訊息底部的「顯示更多」按鈕以瀏覽完整訊息。",
-
     "lng_settings_rich_message_preview_blocks_count#other": "{count} 個區塊",
-
     "lng_send_mark_as_gif": "顯示為 GIF",
-
     "lng_settings_community_chat_click": "打開對話而不是社群資訊",
-
     "lng_context_more_forward": "更多轉發選項",
     "lng_settings_sticker_height": "貼圖高度",
-
     "lng_forward_regroup_media": "重組媒體",
     "lng_forward_separate_messages": "分開訊息",
-
     "lng_settings_force_show_webpage_preview": "強制顯示網頁預覽",
-
     "lng_settings_interface": "介面",
     "lng_settings_behavior": "行為",
     "lng_settings_translation": "翻譯",
-
     "lng_chat_enhanced_settings": "聊天增強設定",
     "lng_chat_enhanced_settings_desc": "以下選項將覆蓋全域增強設定，且只在此聊天中生效。",
     "lng_chat_enhanced_default": "預設",
     "lng_chat_enhanced_enabled": "啟用",
     "lng_chat_enhanced_disabled": "停用",
-
     "lng_settings_remove_media_spoiler": "移除媒體遮罩",
     "lng_settings_show_media_metadata": "在媒體檢視器中顯示媒體元數據",
     "lng_settings_disable_auto_fetch_webpage_preview": "停用自動擷取網頁預覽",
     "lng_forward_add_spoiler": "新增遮罩",
-
     "lng_message_search_filter_selected#one": "已選取 {count} 種訊息類型",
     "lng_message_search_filter_selected#other": "已選取 {count} 種訊息類型",
     "lng_message_search_filter_mentions": "提及我",
-
     "lng_settings_show_group_sender_online_status": "在群組中的發送者頭像上顯示在線狀態",
     "lng_settings_hide_delete_for_others_checkbox": "隱藏「為其他人刪除」核取方塊",
     "lng_settings_send_comment_after_forwarding": "轉發後發送評論",
-
     "lng_settings_shared_value_applied": "增強設定已套用。",
     "lng_settings_restart_to_apply": "重新啟動應用程式以套用此變更。",
     "lng_chat_enhanced_reset": "重設為預設值",
@@ -233,6 +181,81 @@
     "lng_link_preview_rule_pattern": "URL 正則表達式",
     "lng_link_preview_rule_domain": "網域",
     "lng_settings_disable_sync_draft_to_cloud": "停止將本機草稿同步到雲端",
-
-    "lng_tg_nya_toast": "喵 >⩊<"
+    "lng_tg_nya_toast": "喵 >⩊<",
+    "lng_bot_use_about": "建議在使用 BotUse 前閱讀{link}。",
+    "lng_bot_use_about_link": "使用指南",
+    "lng_group_requests_add_all_sure#one": "要批准 {count} 個入群申請嗎？",
+    "lng_group_requests_add_all_sure#other": "要批准全部 {count} 個入群申請嗎？",
+    "lng_group_requests_dismiss_all_sure#one": "要拒絕 {count} 個入群申請嗎？",
+    "lng_group_requests_dismiss_all_sure#other": "要拒絕全部 {count} 個入群申請嗎？",
+    "lng_group_requests_added_all#one": "已批准 {count} 個入群申請。",
+    "lng_group_requests_added_all#other": "已批准 {count} 個入群申請。",
+    "lng_group_requests_dismissed_all#one": "已拒絕 {count} 個入群申請。",
+    "lng_group_requests_dismissed_all#other": "已拒絕 {count} 個入群申請。",
+    "lng_settings_show_message_forward_count": "顯示訊息轉傳次數",
+    "lng_settings_show_gif_media_controls": "顯示 GIF 媒體控制項",
+    "lng_bot_use_allow_reply_and_repeat_bots": "允許回覆及重複機器人訊息",
+    "lng_bot_use_allow_reply_and_repeat_bots_about": "這需要在 BotFather 中啟用 Bot-to-Bot Communication。",
+    "lng_bot_use_auto_switch_rich_editor_about": "僅適用於頻道。",
+    "lng_bot_use_auto_login_startup": "啟動時自動登入",
+    "lng_bot_use_auto_switch_rich_editor": "開啟富文字編輯器時自動切換至機器人",
+    "lng_bot_use_rich_editor_switched": "已為富文字訊息編輯器切換至 {bot}。",
+    "lng_bot_use_disable_typing_status": "停用傳送輸入狀態",
+    "lng_bot_use_api_remove_bots_first": "變更 API 憑證前，請移除所有已加入的機器人。",
+    "lng_bot_use_manage": "機器人管理",
+    "lng_bot_use_choose": "以機器人身分在此聊天傳送",
+    "lng_bot_use_choose_about": "選擇 BotUse 身分：",
+    "lng_bot_use_loading": "正在載入可用機器人…",
+    "lng_bot_use_load_error": "無法載入聊天機器人。請再試一次。",
+    "lng_bot_use_no_chat_bots": "此聊天沒有已加入的機器人。",
+    "lng_bot_use_settings": "BotUse 設定",
+    "lng_bot_use_api_settings": "API 設定",
+    "lng_bot_use_api_credentials": "設定 API 憑證",
+    "lng_bot_use_api_id": "API ID",
+    "lng_bot_use_api_hash": "API HASH",
+    "lng_bot_use_api_change_confirm": "變更 API 憑證後，所有已加入的機器人都需要重新驗證。要儲存新憑證嗎？",
+    "lng_bot_use_saved": "BotUse API 憑證已儲存。",
+    "lng_bot_use_add": "加入機器人",
+    "lng_bot_use_added": "機器人已加入 BotUse。",
+    "lng_bot_use_token": "機器人權杖",
+    "lng_bot_use_unknown": "未知機器人",
+    "lng_bot_use_reauthenticate": "重新驗證",
+    "lng_bot_use_replace_token": "更新機器人權杖",
+    "lng_bot_use_remove_confirm": "要從 BotUse 移除此機器人嗎？",
+    "lng_bot_use_state_unconfigured": "需要 API 憑證",
+    "lng_bot_use_state_disconnected": "已中斷連線",
+    "lng_bot_use_state_authenticating": "正在驗證",
+    "lng_bot_use_state_ready": "就緒",
+    "lng_bot_use_state_needs_auth": "需要驗證",
+    "lng_bot_use_state_config_error": "API 設定錯誤",
+    "lng_bot_use_invalid_api": "請輸入有效的 API ID 及 32 字元十六進位 API HASH。",
+    "lng_bot_use_duplicate": "此機器人已加入。",
+    "lng_bot_use_invalid_token": "請輸入有效的機器人權杖。",
+    "lng_bot_use_busy": "BotUse 忙碌中。請在目前操作完成後再試。",
+    "lng_bot_use_store_error": "BotUse 無法儲存其加密資料。",
+    "lng_bot_use_error": "BotUse 錯誤：{error}",
+    "lng_settings_peer_id_type": "Peer ID 類型",
+    "lng_translate_llm_test": "測試",
+    "lng_translate_llm_test_success": "LLM API 測試成功。",
+    "lng_translate_provider_llm": "LLM 翻譯",
+    "lng_translate_llm_config": "LLM 翻譯設定",
+    "lng_translate_llm_endpoint": "OpenAI Base URL",
+    "lng_translate_llm_model": "模型名稱",
+    "lng_translate_llm_key": "API 金鑰",
+    "lng_translate_llm_extra_parameters": "額外請求參數",
+    "lng_translate_llm_context": "智慧情境翻譯",
+    "lng_translate_llm_context_desc": "將周邊訊息及回覆訊息串作為翻譯情境資訊。",
+    "lng_translate_llm_error_auth": "LLM 翻譯驗證失敗。請檢查 API 金鑰。",
+    "lng_translate_llm_error_rate": "LLM 翻譯受到速率限制。請稍後再試。",
+    "lng_translate_llm_error_response": "LLM 翻譯傳回無效回應。",
+    "lng_translate_llm_error_network": "LLM 翻譯請求失敗。",
+    "lng_translate_provider_setting": "翻譯提供者",
+    "lng_translate_provider_telegram": "Telegram",
+    "lng_translate_provider_google": "Google Translate",
+    "lng_translate_provider_apple": "Apple Translations",
+    "lng_translate_provider_crow": "KDE Crow Translate",
+    "lng_translate_provider_url": "URL Template",
+    "lng_translate_provider_unknown": "未知提供者",
+    "lng_translate_provider_unavailable": "翻譯提供者無法使用。",
+    "lng_translate_provider_unavailable_short": "無法使用"
 }
