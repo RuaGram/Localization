@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "Неизвестный провайдер",
     "lng_translate_provider_unavailable": "Провайдер перевода недоступен.",
-    "lng_translate_provider_unavailable_short": "Недоступно"
+    "lng_translate_provider_unavailable_short": "Недоступно",
+    "lng_settings_show_group_sender_avatar": "Показывать аватары авторов в группах",
+    "lng_settings_more_right_action_comments": "Переместить кнопку комментариев вправо",
+    "lng_settings_hide_star_ratings": "Скрыть звёздный рейтинг пользователей",
+    "lng_settings_force_mobile": "Принудительно использовать мобильный вид",
+    "lng_settings_show_similar_on_joined": "Показывать похожие каналы при подписке",
+    "lng_settings_mpris_call_hangup": "Использовать кнопки мультимедиа для ответа или сброса",
+    "lng_settings_show_peer_id": "Показывать Peer ID",
+    "lng_settings_show_server_config": "Показывать конфигурацию сервера"
 }
