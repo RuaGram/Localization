@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "Nhà cung cấp không xác định",
     "lng_translate_provider_unavailable": "Nhà cung cấp dịch không khả dụng.",
-    "lng_translate_provider_unavailable_short": "Không khả dụng"
+    "lng_translate_provider_unavailable_short": "Không khả dụng",
+    "lng_settings_show_group_sender_avatar": "Hiển thị ảnh đại diện người gửi trong nhóm",
+    "lng_settings_more_right_action_comments": "Di chuyển nút bình luận sang phải",
+    "lng_settings_hide_star_ratings": "Ẩn đánh giá sao của người dùng",
+    "lng_settings_force_mobile": "Buộc dùng bố cục di động",
+    "lng_settings_show_similar_on_joined": "Hiển thị các kênh tương tự khi tham gia",
+    "lng_settings_mpris_call_hangup": "Dùng các nút đa phương tiện để trả lời hoặc kết thúc cuộc gọi",
+    "lng_settings_show_peer_id": "Hiển thị Peer ID",
+    "lng_settings_show_server_config": "Hiển thị Server config"
 }

@@ -255,5 +255,5 @@
     "lng_settings_show_similar_on_joined": "Показывать похожие каналы при подписке",
     "lng_settings_mpris_call_hangup": "Использовать кнопки мультимедиа для ответа или сброса",
     "lng_settings_show_peer_id": "Показывать Peer ID",
-    "lng_settings_show_server_config": "Показывать конфигурацию сервера"
+    "lng_settings_show_server_config": "Показывать Server config"
 }

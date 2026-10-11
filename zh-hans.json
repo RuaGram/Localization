@@ -126,6 +126,8 @@
     "lng_settings_multichoice_squares": "多选投票选项使用方框",
     "lng_settings_more_right_action_comments": "移动评论区按钮到频道消息右侧",
     "lng_settings_mpris_call_hangup": "使用系统媒体控制接口接听或挂断通话",
+    "lng_settings_show_peer_id": "显示 Peer ID",
+    "lng_settings_show_server_config": "显示 Server config",
     "lng_settings_show_group_sender_avatar": "在群聊头像下方显示发送者头像",
     "lng_settings_disable_recent_stickers_limit": "禁用最近贴纸数量限制",
     "lng_settings_force_mobile": "强制使用移动设备界面布局",

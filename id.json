@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "Penyedia tidak dikenal",
     "lng_translate_provider_unavailable": "Penyedia terjemahan tidak tersedia.",
-    "lng_translate_provider_unavailable_short": "Tidak tersedia"
+    "lng_translate_provider_unavailable_short": "Tidak tersedia",
+    "lng_settings_show_group_sender_avatar": "Tampilkan avatar pengirim di grup",
+    "lng_settings_more_right_action_comments": "Pindahkan tombol komentar ke kanan",
+    "lng_settings_hide_star_ratings": "Sembunyikan peringkat bintang pengguna",
+    "lng_settings_force_mobile": "Paksa tata letak seluler",
+    "lng_settings_show_similar_on_joined": "Tampilkan kanal serupa saat bergabung",
+    "lng_settings_mpris_call_hangup": "Gunakan tombol media untuk menjawab atau mengakhiri panggilan",
+    "lng_settings_show_peer_id": "Tampilkan Peer ID",
+    "lng_settings_show_server_config": "Tampilkan Server config"
 }

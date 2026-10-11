@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "ارائه‌دهندهٔ ناشناخته",
     "lng_translate_provider_unavailable": "ارائه‌دهندهٔ ترجمه در دسترس نیست.",
-    "lng_translate_provider_unavailable_short": "در دسترس نیست"
+    "lng_translate_provider_unavailable_short": "در دسترس نیست",
+    "lng_settings_show_group_sender_avatar": "نمایش آواتار فرستندگان در گروه‌ها",
+    "lng_settings_more_right_action_comments": "انتقال دکمهٔ نظرات به سمت راست",
+    "lng_settings_hide_star_ratings": "مخفی کردن رتبه‌بندی ستاره‌ای کاربران",
+    "lng_settings_force_mobile": "اجبار به استفاده از چیدمان موبایل",
+    "lng_settings_show_similar_on_joined": "نمایش کانال‌های مشابه هنگام عضویت",
+    "lng_settings_mpris_call_hangup": "استفاده از دکمه‌های رسانه برای پاسخ دادن یا قطع تماس‌ها",
+    "lng_settings_show_peer_id": "نمایش Peer ID",
+    "lng_settings_show_server_config": "نمایش Server config"
 }

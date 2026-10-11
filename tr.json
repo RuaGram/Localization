@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "Bilinmeyen sağlayıcı",
     "lng_translate_provider_unavailable": "Çeviri sağlayıcısı kullanılamıyor.",
-    "lng_translate_provider_unavailable_short": "Kullanılamıyor"
+    "lng_translate_provider_unavailable_short": "Kullanılamıyor",
+    "lng_settings_show_group_sender_avatar": "Gruplarda gönderenlerin avatarlarını göster",
+    "lng_settings_more_right_action_comments": "Yorum düğmesini sağa taşı",
+    "lng_settings_hide_star_ratings": "Kullanıcı yıldız derecelendirmelerini gizle",
+    "lng_settings_force_mobile": "Mobil düzeni zorla",
+    "lng_settings_show_similar_on_joined": "Katılırken benzer kanalları göster",
+    "lng_settings_mpris_call_hangup": "Aramaları cevaplamak veya sonlandırmak için medya düğmelerini kullan",
+    "lng_settings_show_peer_id": "Peer ID'yi göster",
+    "lng_settings_show_server_config": "Server config'i göster"
 }

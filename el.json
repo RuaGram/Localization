@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "Άγνωστος πάροχος",
     "lng_translate_provider_unavailable": "Ο πάροχος μετάφρασης δεν είναι διαθέσιμος.",
-    "lng_translate_provider_unavailable_short": "Μη διαθέσιμο"
+    "lng_translate_provider_unavailable_short": "Μη διαθέσιμο",
+    "lng_settings_show_group_sender_avatar": "Εμφάνιση avatar αποστολέων σε ομάδες",
+    "lng_settings_more_right_action_comments": "Μετακίνηση του κουμπιού σχολίων στα δεξιά",
+    "lng_settings_hide_star_ratings": "Απόκρυψη αξιολογήσεων με αστέρια των χρηστών",
+    "lng_settings_force_mobile": "Εξαναγκασμός διάταξης για κινητά",
+    "lng_settings_show_similar_on_joined": "Εμφάνιση παρόμοιων καναλιών κατά τη συμμετοχή",
+    "lng_settings_mpris_call_hangup": "Χρήση κουμπιών πολυμέσων για απάντηση ή τερματισμό κλήσεων",
+    "lng_settings_show_peer_id": "Εμφάνιση Peer ID",
+    "lng_settings_show_server_config": "Εμφάνιση Server config"
 }

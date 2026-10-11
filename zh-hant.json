@@ -124,6 +124,8 @@
     "lng_settings_multichoice_squares": "多選投票選項使用方框",
     "lng_settings_more_right_action_comments": "移動評論區按鈕到頻道訊息右側",
     "lng_settings_mpris_call_hangup": "使用系統媒體控制介面接聽或掛斷通話",
+    "lng_settings_show_peer_id": "顯示 Peer ID",
+    "lng_settings_show_server_config": "顯示 Server config",
     "lng_settings_show_group_sender_avatar": "在群聊頭像下方顯示發送者頭像",
     "lng_settings_disable_recent_stickers_limit": "禁用最近貼圖數量限制",
     "lng_settings_force_mobile": "強制使用行動裝置介面佈局",

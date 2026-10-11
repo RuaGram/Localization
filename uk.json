@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "Невідомий постачальник",
     "lng_translate_provider_unavailable": "Постачальник перекладу недоступний.",
-    "lng_translate_provider_unavailable_short": "Недоступно"
+    "lng_translate_provider_unavailable_short": "Недоступно",
+    "lng_settings_show_group_sender_avatar": "Показувати аватарки відправників у групах",
+    "lng_settings_more_right_action_comments": "Перемістити кнопку коментарів праворуч",
+    "lng_settings_hide_star_ratings": "Приховати зіркові рейтинги користувачів",
+    "lng_settings_force_mobile": "Примусово використовувати мобільний вигляд",
+    "lng_settings_show_similar_on_joined": "Показувати схожі канали під час підписки",
+    "lng_settings_mpris_call_hangup": "Використовувати мультимедійні кнопки для відповіді або завершення викликів",
+    "lng_settings_show_peer_id": "Показувати Peer ID",
+    "lng_settings_show_server_config": "Показувати Server config"
 }

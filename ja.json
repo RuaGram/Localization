@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "不明なプロバイダー",
     "lng_translate_provider_unavailable": "翻訳プロバイダーは利用できません。",
-    "lng_translate_provider_unavailable_short": "利用不可"
+    "lng_translate_provider_unavailable_short": "利用不可",
+    "lng_settings_show_group_sender_avatar": "グループで送信者のアバターを表示",
+    "lng_settings_more_right_action_comments": "コメントボタンを右側に移動",
+    "lng_settings_hide_star_ratings": "ユーザーのスター評価を非表示",
+    "lng_settings_force_mobile": "モバイルレイアウトを強制",
+    "lng_settings_show_similar_on_joined": "参加時に類似のチャンネルを表示",
+    "lng_settings_mpris_call_hangup": "メディアボタンで通話に応答または終了",
+    "lng_settings_show_peer_id": "Peer IDを表示",
+    "lng_settings_show_server_config": "Server configを表示"
 }

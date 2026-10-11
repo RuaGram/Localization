@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "Fournisseur inconnu",
     "lng_translate_provider_unavailable": "Le fournisseur de traduction est indisponible.",
-    "lng_translate_provider_unavailable_short": "Indisponible"
+    "lng_translate_provider_unavailable_short": "Indisponible",
+    "lng_settings_show_group_sender_avatar": "Afficher les avatars des expéditeurs dans les groupes",
+    "lng_settings_more_right_action_comments": "Déplacer le bouton des commentaires vers la droite",
+    "lng_settings_hide_star_ratings": "Masquer les évaluations par étoiles des utilisateurs",
+    "lng_settings_force_mobile": "Forcer la disposition mobile",
+    "lng_settings_show_similar_on_joined": "Afficher des chaînes similaires lors de l’abonnement",
+    "lng_settings_mpris_call_hangup": "Utiliser les boutons multimédias pour répondre aux appels ou raccrocher",
+    "lng_settings_show_peer_id": "Afficher le Peer ID",
+    "lng_settings_show_server_config": "Afficher Server config"
 }

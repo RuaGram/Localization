@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "알 수 없는 제공업체",
     "lng_translate_provider_unavailable": "번역 제공업체를 사용할 수 없습니다.",
-    "lng_translate_provider_unavailable_short": "사용 불가"
+    "lng_translate_provider_unavailable_short": "사용 불가",
+    "lng_settings_show_group_sender_avatar": "그룹에서 발신자 프로필 사진 표시",
+    "lng_settings_more_right_action_comments": "댓글 버튼을 오른쪽으로 이동",
+    "lng_settings_hide_star_ratings": "사용자의 별점 숨기기",
+    "lng_settings_force_mobile": "모바일 레이아웃 강제 적용",
+    "lng_settings_show_similar_on_joined": "가입할 때 유사한 채널 표시",
+    "lng_settings_mpris_call_hangup": "미디어 버튼으로 통화 받기 또는 끊기",
+    "lng_settings_show_peer_id": "Peer ID 표시",
+    "lng_settings_show_server_config": "Server config 표시"
 }

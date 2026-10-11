@@ -256,5 +256,13 @@
     "lng_translate_provider_unavailable": "Translation provider is unavailable.",
     "lng_translate_provider_unavailable_short": "Unavailable",
 
-    "lng_tg_nya_toast": "Meow >⩊<"
+    "lng_tg_nya_toast": "Meow >⩊<",
+    "lng_settings_show_group_sender_avatar": "Show sender avatars in groups",
+    "lng_settings_more_right_action_comments": "Move comments button to the right",
+    "lng_settings_hide_star_ratings": "Hide user star ratings",
+    "lng_settings_force_mobile": "Force mobile layout",
+    "lng_settings_show_similar_on_joined": "Show similar channels when joining",
+    "lng_settings_mpris_call_hangup": "Use media buttons to answer or hang up calls",
+    "lng_settings_show_peer_id": "Show Peer ID",
+    "lng_settings_show_server_config": "Show Server config"
 }

@@ -247,5 +247,13 @@
     "lng_translate_provider_url": "URL Template",
     "lng_translate_provider_unknown": "未知提供者",
     "lng_translate_provider_unavailable": "翻譯提供者無法使用。",
-    "lng_translate_provider_unavailable_short": "無法使用"
+    "lng_translate_provider_unavailable_short": "無法使用",
+    "lng_settings_show_group_sender_avatar": "喺群組顯示發送者頭像",
+    "lng_settings_more_right_action_comments": "將留言掣移到右邊",
+    "lng_settings_hide_star_ratings": "隱藏用戶嘅星級評分",
+    "lng_settings_force_mobile": "強制使用流動版介面",
+    "lng_settings_show_similar_on_joined": "加入時顯示相似頻道",
+    "lng_settings_mpris_call_hangup": "使用媒體按鈕接聽或掛斷通話",
+    "lng_settings_show_peer_id": "顯示 Peer ID",
+    "lng_settings_show_server_config": "顯示 Server config"
 }
