@@ -170,6 +170,7 @@
     "lng_link_preview_rule_pattern": "Regex URL",
     "lng_link_preview_rule_domain": "Dominio",
     "lng_settings_disable_sync_draft_to_cloud": "Interrompi sincronizzazione delle bozze locali con il cloud",
+    "lng_settings_show_recent_forward_targets": "Mostra le destinazioni di inoltro recenti",
     "lng_tg_nya_toast": "Miao >⩊<",
     "lng_bot_use_about": "Ti consigliamo di leggere la {link} prima di usare BotUse.",
     "lng_bot_use_about_link": "guida all’uso",

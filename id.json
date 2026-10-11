@@ -170,6 +170,7 @@
     "lng_link_preview_rule_pattern": "Regex URL",
     "lng_link_preview_rule_domain": "Domain",
     "lng_settings_disable_sync_draft_to_cloud": "Hentikan sinkronisasi draf lokal ke awan",
+    "lng_settings_show_recent_forward_targets": "Tampilkan tujuan penerusan terbaru",
     "lng_tg_nya_toast": "Meong >⩊<",
     "lng_bot_use_about": "Kami menyarankan membaca {link} sebelum menggunakan BotUse.",
     "lng_bot_use_about_link": "panduan penggunaan",

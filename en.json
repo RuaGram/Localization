@@ -177,6 +177,7 @@
     "lng_link_preview_rule_pattern": "URL Regex",
     "lng_link_preview_rule_domain": "Domain",
     "lng_settings_disable_sync_draft_to_cloud": "Stop syncing local drafts to cloud",
+    "lng_settings_show_recent_forward_targets": "Show recent forward targets",
 
     "lng_bot_use_about": "We recommend reading the {link} before using BotUse.",
     "lng_bot_use_about_link": "usage guide",

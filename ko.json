@@ -170,6 +170,7 @@
     "lng_link_preview_rule_pattern": "URL 정규식",
     "lng_link_preview_rule_domain": "도메인",
     "lng_settings_disable_sync_draft_to_cloud": "로컬 초안 클라우드 동기화 중지",
+    "lng_settings_show_recent_forward_targets": "최근 전달 대상 표시",
     "lng_tg_nya_toast": "야옹 >⩊<",
     "lng_bot_use_about": "BotUse를 사용하기 전에 {link}를 읽어 보세요.",
     "lng_bot_use_about_link": "사용 안내",

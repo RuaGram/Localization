@@ -170,6 +170,7 @@
     "lng_link_preview_rule_pattern": "Wyrażenie regularne URL",
     "lng_link_preview_rule_domain": "Domena",
     "lng_settings_disable_sync_draft_to_cloud": "Zatrzymaj synchronizację lokalnych wersji roboczych z chmurą",
+    "lng_settings_show_recent_forward_targets": "Pokaż ostatnie cele przekazywania",
     "lng_tg_nya_toast": "Miau >⩊<",
     "lng_bot_use_about": "Zalecamy przeczytanie {link} przed użyciem BotUse.",
     "lng_bot_use_about_link": "przewodnik użytkowania",

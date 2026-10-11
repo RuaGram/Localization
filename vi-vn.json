@@ -170,6 +170,7 @@
     "lng_link_preview_rule_pattern": "Regex URL",
     "lng_link_preview_rule_domain": "Tên miền",
     "lng_settings_disable_sync_draft_to_cloud": "Dừng đồng bộ bản nháp cục bộ lên đám mây",
+    "lng_settings_show_recent_forward_targets": "Hiển thị các đích chuyển tiếp gần đây",
     "lng_tg_nya_toast": "Meo >⩊<",
     "lng_bot_use_about": "Chúng tôi khuyên bạn đọc {link} trước khi dùng BotUse.",
     "lng_bot_use_about_link": "hướng dẫn sử dụng",

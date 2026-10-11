@@ -170,6 +170,7 @@
     "lng_link_preview_rule_pattern": "Регулярний вираз URL",
     "lng_link_preview_rule_domain": "Домен",
     "lng_settings_disable_sync_draft_to_cloud": "Припинити синхронізацію локальних чернеток із хмарою",
+    "lng_settings_show_recent_forward_targets": "Показувати останніх отримувачів пересилання",
     "lng_tg_nya_toast": "Няв >⩊<",
     "lng_bot_use_about": "Радимо прочитати {link} перед використанням BotUse.",
     "lng_bot_use_about_link": "посібник із використання",

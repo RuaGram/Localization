@@ -170,6 +170,7 @@
     "lng_link_preview_rule_pattern": "URL Normal İfadesi",
     "lng_link_preview_rule_domain": "Alan adı",
     "lng_settings_disable_sync_draft_to_cloud": "Yerel taslakları bulutla eşitlemeyi durdur",
+    "lng_settings_show_recent_forward_targets": "Son iletme hedeflerini göster",
     "lng_tg_nya_toast": "Miyav >⩊<",
     "lng_bot_use_about": "BotUse’u kullanmadan önce {link} okumanızı öneririz.",
     "lng_bot_use_about_link": "kullanım kılavuzu",

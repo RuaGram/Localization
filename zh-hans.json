@@ -181,6 +181,7 @@
     "lng_link_preview_rule_pattern": "正则表达式",
     "lng_link_preview_rule_domain": "域名",
     "lng_settings_disable_sync_draft_to_cloud": "禁止将本地草稿同步到云端",
+    "lng_settings_show_recent_forward_targets": "显示最近的转发目标",
     "lng_tg_nya_toast": "喵呜 >⩊<",
     "lng_bot_use_about": "建议在使用 BotUse 前阅读 {link}。",
     "lng_bot_use_about_link": "使用指南",
